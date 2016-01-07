@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/sonnet && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/sonnet && cd $_
 touch index.html
 touch sonnet.js
 ```

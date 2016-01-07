@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/coins && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/coins && cd $_
 touch index.html
 touch coins.js
 ```

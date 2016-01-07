@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/quizzes/the-static-web && cd $_
+mkdir -p ~/workspace/quizzes/the-static-web && cd $_
 touch index.html
 touch quiz.js
 ```

@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/grades && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/grades && cd $_
 touch index.html
 touch grades.js
 ```

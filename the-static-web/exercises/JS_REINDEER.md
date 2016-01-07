@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/reindeer && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/reindeer && cd $_
 touch index.html
 touch reindeer.js
 ```

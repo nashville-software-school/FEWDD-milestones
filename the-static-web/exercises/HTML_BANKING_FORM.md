@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/banking-form && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/banking-form && cd $_
 touch index.html
 ```
 

@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/converter && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/converter && cd $_
 touch index.html
 touch converter.js
 ```

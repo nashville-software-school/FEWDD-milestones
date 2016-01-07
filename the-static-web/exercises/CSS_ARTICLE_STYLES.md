@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/articles && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/articles && cd $_
 touch index.html
 touch articles.css
 ```

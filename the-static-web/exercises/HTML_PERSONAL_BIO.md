@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-mkdir ~/workspace/exercises/the-static-web/bio && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/bio && cd $_
 touch index.html
 ```
 
