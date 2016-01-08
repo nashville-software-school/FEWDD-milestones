@@ -2,6 +2,8 @@
 
 ## Setup
 
+These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below, open a terminal window on your **host machine** (i.e. do not be logged into the Vagrant machine), and paste. It doesn't matter what directory you are currently in.
+
 ```bash
 mkdir -p ~/workspace/exercises/the-static-web/banking-form && cd $_
 touch index.html
@@ -35,4 +37,5 @@ Build a form that accepts a loan application. It must have the following fields.
     1. Loan will be co-signed
 1. A text area to allow for additional comments
 1. Applicant email address
-1. Application telephone number
+1. Applicant telephone number
+1. Application LinkedIn URL
