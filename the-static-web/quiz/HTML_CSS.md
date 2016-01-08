@@ -3,9 +3,14 @@
 ## Setup
 
 ```bash
-mkdir -p ~/workspace/quizzes/the-static-web/html && cd $_
+mkdir -p ~/workspace/quizzes && cd $_
+```
+
+Then clone the repository that gets created when you accept the quiz. Your instructor will send you the link to create it. Once you've cloned the empty repository, `cd` into the new directory and...
+
+```
 touch index.html
-touch quiz.js
+touch styles.css
 ```
 
 ## Instructions
@@ -45,4 +50,4 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 
 Here's an image that shows how the cards should appear.
 
-![Static Web Quiz Example](https://raw.githubusercontent.com/nashville-software-school/front-end-milestones/static-web-quiz/the-static-web/static-web-quiz.png)
+![Static Web Quiz Example](https://raw.githubusercontent.com/nashville-software-school/front-end-milestones/master/the-static-web/static-web-quiz.png)
