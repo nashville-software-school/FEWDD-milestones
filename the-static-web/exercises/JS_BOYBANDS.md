@@ -1,4 +1,4 @@
-# Bpy bands and vegetables
+# Boy bands and vegetables
 
 ## Setup
 

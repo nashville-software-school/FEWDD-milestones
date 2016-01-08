@@ -33,7 +33,6 @@ Create a four page site for a mock business. Be as creative or as whimsical as y
 
 1. One article.
 1. At least one, but as many as you like, sections for describing your unique company culture.
-1. Four sections that contain a home address, a phone number, and two social media URLs.
 
 #### Contact page
 
