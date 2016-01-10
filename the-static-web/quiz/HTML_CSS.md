@@ -2,15 +2,17 @@
 
 ## Setup
 
+When you are ready to start the quiz, request the Github Classroom link from your instructor. After you've successfully created the repository on Github for your quiz, execute the following command.
+
 ```bash
 mkdir -p ~/workspace/quizzes && cd $_
 ```
 
-Then clone the repository that gets created when you accept the quiz. Your instructor will send you the link to create it. Once you've cloned the empty repository, `cd` into the new directory and...
+Then clone the repository that gets created when you accept the quiz. Your instructor will send you the link to create it. Once you've cloned the empty repository, `cd` into the new directory and create the following files.
 
 ```
 touch index.html
-touch styles.css
+touch quiz.css
 ```
 
 ## Instructions
