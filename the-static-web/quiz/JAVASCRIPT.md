@@ -5,15 +5,24 @@
 When you are ready to start the quiz, request the Github Classroom link from your instructor. After you've successfully created the repository on Github for your quiz, execute the following command.
 
 ```bash
-mkdir -p ~/workspace/quizzes && cd $_
+mkdir -p ~/workspace/quizzes/static-web/javascript && cd $_
 ```
 
-Then clone the repository that gets created when you accept the quiz. Your instructor will send you the link to create it. Once you've cloned the empty repository, `cd` into the new directory and create the following files.
+1. Your instructor will send you the Github Classroom link that will create a blank repository to hold your quiz.
+1. Once your repository is created, you will see the *Quick Setup* page.
+1. Copy the commands for the section labeled **…or create a new repository on the command line**
+1. Paste those commands into your terminal and press **return** to make sure the last command gets executed.
+1. Now run the following commands.
 
 ```
+git checkout -b quiz
 touch index.html
 touch quiz.js
 ```
+
+You are now ready to work in the `quiz` branch.
+
+When your work in complete, push up the branch (`git push origin quiz`) and submit the pull request on Github.
 
 ## Instructions
 
