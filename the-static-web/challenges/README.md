@@ -16,7 +16,7 @@ What is the difference between the sum of the squares of the first ten natural n
 
 Your challenge is to replicate the shapes, and the animations that you see in the animated GIF below. You must **only use CSS**. No JavaScript and no images.
 
-<img src="http://www.stevebrownlee.com/content/images/css102-challenge.gif">
+<img src="fKDwWc0Stk.gif">
 
 # Team Challenges
 
