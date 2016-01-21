@@ -2,7 +2,7 @@
 
 ## Setup
 
-When you are ready to start the quiz, request the Github Classroom link from your instructor. After you've successfully created the repository on Github for your quiz, execute the following command.
+When you are ready to start the quiz, request the Github Classroom link from your instructor. After you've successfully created the repository on Github for your quiz, execute the following command **in your host machine**.
 
 ```bash
 mkdir -p ~/workspace/quizzes/static-web/html && cd $_
@@ -17,7 +17,7 @@ mkdir -p ~/workspace/quizzes/static-web/html && cd $_
 ```
 git checkout -b quiz
 touch index.html
-touch quiz.js
+touch quiz.css
 ```
 
 You are now ready to work in the `quiz` branch.
