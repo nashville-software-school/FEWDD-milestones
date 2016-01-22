@@ -21,7 +21,7 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 
 1. Each card should be an `article`.
 1. Each card should take up 30% of the width of the browser window.
-1. Each product should contain a `header` element that, itself, contains an `h2` element where the product's title will be written.
+1. Each product should contain a `header` element that, itself, contains an `h1` element where the product's title will be written.
 1. Each product should have three sections.
 1. The first section should contain three child block elements.
     1. The first element contains the product image.
