@@ -38,4 +38,4 @@ Build a form that accepts a loan application. It must have the following fields.
 1. A text area to allow for additional comments
 1. Applicant email address
 1. Applicant telephone number
-1. Application LinkedIn URL
+1. Applicant LinkedIn URL
