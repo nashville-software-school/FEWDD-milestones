@@ -50,8 +50,8 @@ Your task is to build a grid of cards for a company's products. Here's the requi
 
 ### Additional style requirements
 
-1. The entire card has a solid 1px border that is light blue.
-1. The card title has a dotted 1px border that is light grey.
+1. The entire card has a solid 1px border that is `lightblue`.
+1. The card title has a dotted 1px border that is `lightgray`.
 1. The title and product image are centered.
 1. Notice that the text for the description in the image is justified.
 1. The text for the product specification details and pricing details is bold.
