@@ -2,25 +2,13 @@
 
 ## Setup
 
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
-
-### Vagrant machine
-
 ```bash
-mkdir -p /vagrant/exercises/spa/translator && cd $_
-touch index.html
-mkdir javascripts && cd javascripts
-touch Translator.js
+mkdir -p ~/workspace/group-projects/translator && cd $_
 ```
 
-### Host machine (students not using Vagrant)
+This will be a group project managed by Github Classroom, so pick one teammate to create the Classroom team. Once the repo is created, run the initialization commands that create the inital README and push the branch up.
 
-```bash
-mkdir -p ~/workspace/exercises/spa/translator && cd $_
-touch index.html
-mkdir javascripts && cd javascripts
-touch Translator.js
-```
+At that point, the other teammates can join the Classroom team and clone the repository.
 
 ## Instructions
 
