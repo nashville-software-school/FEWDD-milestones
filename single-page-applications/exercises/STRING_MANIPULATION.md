@@ -1,4 +1,4 @@
-# Basic Array Methods
+# String Manipulation
 
 ## Setup
 

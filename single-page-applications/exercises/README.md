@@ -1,9 +1,13 @@
 # Exercises
 
-## Array Methods and Event Listeners
+## Array Functions 
 
 1. [String manipulation](STRING_MANIPULATION.md)
+
+## Event Listeners
+
 1. [Guinea pig](GUINEA_PIG.md)
+1. [Dynamic cards](DYNAMIC_CARDS.md)
 
 ## IIFE
 
