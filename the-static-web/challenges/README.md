@@ -15,3 +15,15 @@ Create a navigation bar out of an unordered list element, and add the following 
 You will learn more about how to do this in CSS102, but if you want a challenge now, create a web page that has a navigation bar and plenty of articles so that the content goes well below the fold (fancy term for the amount of real estate that exists when the user first loads the page).
 
 When the user scrolls now to read the rest of the content, the navigation bar should remain at the top of the page, always visible, no matter how far down the user scrolls.
+
+# Challenge \#4
+
+What is the smallest number  that can be divided by each of the numbers from 1 to 10 without any remainder?
+
+# Challenge \#5
+
+Write a [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) generator that outputs the numbers in the series that are less than 500.
+
+# Challenge \#6
+
+What is the difference between the sum of the squares of the first ten natural numbers, and the square of the sum of the first ten natural numbers?
