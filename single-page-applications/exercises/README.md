@@ -9,6 +9,7 @@
 1. [Guinea pig](GUINEA_PIG.md)
 1. [Dynamic cards](DYNAMIC_CARDS.md)
 1. [WYSIWYG](WYSIWYG.md)
+1. [Music History 3](MUSIC_HISTORY_3.md)
 
 ## IIFE
 
