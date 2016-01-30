@@ -37,4 +37,3 @@
 
 1. [Music History 01](MUSIC_HISTORY_01.md)
 1. [Music History 02](MUSIC_HISTORY_02.md)
-1. [Music History 03](MUSIC_HISTORY_03.md)
