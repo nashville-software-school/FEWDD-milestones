@@ -1,25 +1,3 @@
-# Individual Challenges
-
-## Challenge \#1
-
-What is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder?
-
-## Challenge \#2
-
-Write a [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) generator that outputs the numbers in the series that are less than 500.
-
-## Challenge \#3
-
-What is the difference between the sum of the squares of the first ten natural numbers, and the square of the sum of the first ten natural numbers?
-
-## Challenge \#4
-
-Your challenge is to replicate the shapes, and the animations that you see in the animated GIF below. You must **only use CSS**. No JavaScript and no images.
-
-<img src="fKDwWc0Stk.gif">
-
----
-
 # Team Challenges
 
 ## Challenge \#1
@@ -39,7 +17,7 @@ Your challenge is to replicate the shapes, and the animations that you see in th
 1. When one of the three divs is clicked do the following:
 1. Give the selected/clicked div a border to indicate it has been selected
 1. Reveal a form with an input box and a button
-1. The user should now be able to enter a color value in the input field. 
+1. The user should now be able to enter a color value in the input field.
 1. When the corresponding button is clicked, the currently selected div should change its background color to the color value the user entered in the input box.
 
 Finish in under 3 hours? Figure out how to do the same with jQuery.
@@ -62,4 +40,3 @@ Finish in under 3 hours? Figure out how to do the same with jQuery.
 1. For a tie:
     1. Alert players that game has ended in a tie
     1. Display a `play again` button that resets the game
-
