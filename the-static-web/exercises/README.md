@@ -1,6 +1,6 @@
 # The Static Web Exercises
 
-## HTML Exercises
+## HTML 101 Exercises
 
 1. [Blog page](HTML_BLOG.md)
 1. [Banking application form](HTML_BANKING_FORM.md)
@@ -9,16 +9,20 @@
 
 ---
 
-## CSS Exercises
+## CSS 101 Exercises
 
 1. [Different styles for each article](CSS_ARTICLE_STYLES.md)
 1. [Using basic relationship selectors](CSS_RELATIONSHIP_SELECTORS.md)
 1. [Validate yor banking form](CSS_BANKING_VALIDATE.md)
 1. [Interactive navigation bar](CSS_INTERACTIVE_NAVIGATION.md)
 
+## CSS 102 Exercises
+
+1. [Pseudo-classes](CSS_PSEUDOCLASSES.md)
+
 ---
 
-## JavaScript Exercises
+## JavaScript 101 Exercises
 
 1. [Sonnet](JS_SONNET.md)
 1. [Colored reindeer](JS_REINDEER.md)
@@ -32,3 +36,5 @@
 ## Music History Exercises
 
 1. [Music History 01](MUSIC_HISTORY_01.md)
+1. [Music History 02](MUSIC_HISTORY_02.md)
+1. [Music History 03](MUSIC_HISTORY_03.md)
