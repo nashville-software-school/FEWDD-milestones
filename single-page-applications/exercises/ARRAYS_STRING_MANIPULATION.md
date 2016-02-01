@@ -7,9 +7,9 @@ These commands are a helpful quick start. You may choose to ignore them complete
 ### Vagrant machine
 
 ```bash
-mkdir -p /vagrant/exercises/spa/array-methods && cd $_
+mkdir -p /vagrant/exercises/spa/strings && cd $_
 touch index.html
-touch array-methods.js
+touch strings.js
 ```
 
 ### Host machine (students not using Vagrant)

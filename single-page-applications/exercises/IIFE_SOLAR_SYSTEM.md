@@ -1,4 +1,4 @@
-# Basic Array Methods
+# Solar System IIFE
 
 ## Setup
 

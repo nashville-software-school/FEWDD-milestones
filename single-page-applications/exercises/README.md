@@ -8,6 +8,7 @@
 ## Array Functions
 
 1. [String manipulation](ARRAYS_STRING_MANIPULATION.md)
+1. [Array method chaining](ARRAYS_CHAINING.md)
 
 ## Event Listeners
 
