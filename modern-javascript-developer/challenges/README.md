@@ -1,8 +1,8 @@
-# Single Page Applications Challenges
+# Modern Javascript Developer Challenges
 
 ## Individual Challenges
 
-1. [Challenge #1](INDIVIDUAL_CHALLENGES.md#challenge-1)
+1. 
 
 ---
 
