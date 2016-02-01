@@ -1,6 +1,11 @@
 # Exercises
 
-## Array Functions 
+## Advanced Functions
+
+1. [Calculator](ADVANCED_FUNCTIONS_CALCULATOR.md)
+1. [Cars](ADVANCED_FUNCTIONS_CARS.md)
+
+## Array Functions
 
 1. [String manipulation](ARRAYS_STRING_MANIPULATION.md)
 
