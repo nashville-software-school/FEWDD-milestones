@@ -1,4 +1,4 @@
-# Chaining Array Methods
+# Seasonal Sales
 
 ## Setup
 

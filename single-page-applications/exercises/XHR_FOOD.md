@@ -1,4 +1,4 @@
-# Chaining Array Methods
+# Pet Food
 
 ## Setup
 
@@ -21,10 +21,6 @@ touch food.js
 ```
 
 ## Instructions
-
-You will be split up into teams of 3. Each team will be responsible for implementing a solution to one of the following simple business problems.
-
-### Problem \#1: Expanding product line
 
 You are working as a junior developer team for Acme, Inc. This company sells dog food. Each brand of dog food is represented by an object in an array you get back from the (fictional database) in JSON format.
 
