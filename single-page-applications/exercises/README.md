@@ -24,3 +24,7 @@
 1. [Translator group exercise](IIFE_TRANSLATOR.md)
 
 ## XHR and Promises
+1. [Music History 4](MUSIC_HISTORY_4.md)
+1. [Seasonal sales](XHR_SEASONAL_SALES.md)
+1. [Group project: Pet food](XHR_FOOD.md)
+
