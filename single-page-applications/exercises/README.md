@@ -23,8 +23,9 @@
 1. [Sandwich maker](IIFE_SANDWICH.md)
 1. [Translator group exercise](IIFE_TRANSLATOR.md)
 
-## XHR and Promises
+## XHRs
 1. [Music History 4](MUSIC_HISTORY_4.md)
 1. [Seasonal sales](XHR_SEASONAL_SALES.md)
+1. [IIFE, XHRs and Callbacks, Oh My](MIND_MELTING.md)
 1. [Group project: Pet food](XHR_FOOD.md)
 
