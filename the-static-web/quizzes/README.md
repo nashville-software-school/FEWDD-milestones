@@ -8,5 +8,5 @@ When you feel you are done with your quiz and ready to be reviewed, just send th
 
 Complete these in the following order.
 
-1. [HTML + CSS Quiz](HTML_CSS.md)
-1. [JavaScript Quiz](JAVASCRIPT.md)
+1. [HTML + CSS Quiz](html-css/HTML_CSS.md)
+1. [JavaScript Quiz](javascript/JAVASCRIPT.md)
