@@ -22,7 +22,7 @@ git checkout -b version-4
 
 ### Part One
 
-1. Read from local JSON file with jQuery.
+1. Read from local JSON file with an XHR.
 1. Loop over results and inject into Music History list view.
 1. Add delete button DOM to each row and, when it is clicked, delete the entire row in the DOM.
 
