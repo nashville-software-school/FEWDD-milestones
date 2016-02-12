@@ -1,4 +1,4 @@
-# Sandwich Maker
+# Browserify Your Sandwich Maker
 
 ## Setup
 
