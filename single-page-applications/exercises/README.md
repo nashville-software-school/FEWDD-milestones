@@ -26,6 +26,6 @@
 ## XHRs
 1. [Music History 4](MUSIC_HISTORY_4.md)
 1. [Seasonal sales](XHR_SEASONAL_SALES.md)
-1. [IIFE, XHRs and Callbacks, Oh My](MIND_MELTING.md)
+1. [IIFE, XHRs and Callbacks, Oh My](XHR_MIND_MELTING.md)
 1. [Group project: Pet food](XHR_FOOD.md)
 
