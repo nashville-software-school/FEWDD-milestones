@@ -12,3 +12,7 @@
 
 1. [Writing Math Tests](TESTING_MATH.md)
 1. [Word Checking Tests](TESTING_WORD_CHECKER.md)
+
+## Promises
+
+1. [Promises](PROMISES.md)

@@ -11,3 +11,5 @@
 ## [Unit Testing](TESTING.md)
 
 ## [Advanced Grunt](ADVANCED_GRUNT.md)
+
+## [Promises](PROMISES.md)
