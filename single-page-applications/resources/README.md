@@ -1,13 +1,13 @@
 # The Static Web Resources
 
-## [JAVASCRIPT 102](JAVASCRIPT_102.md)
+## [Javascript 102](JAVASCRIPT_102.md)
 
-## [JAVASCRIPT 103](JAVASCRIPT_103.md)
+## [Javascript 103](JAVASCRIPT_103.md)
 
-## [JAVASCRIPT_104](JAVASCRIPT_104.md)
+## [Javascript 104](JAVASCRIPT_104.md)
 
-## [VIM OVERVIEW](VIM_OVERVIEW.md)
+## [VIM Overview](VIM_OVERVIEW.md)
 
-## [INTERMEDIATE GIT](INTERMEDIATE_GIT.md)
+## [Intermediate Git](INTERMEDIATE_GIT.md)
 
 ## [XHR](XHR.md)
