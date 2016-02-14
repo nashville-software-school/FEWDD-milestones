@@ -6,8 +6,8 @@
 
 ## [CSS 102](CSS_102.md)
 
-## [JAVASCRIPT 101](JAVASCRIPT_101.md)
+## [Javascript 101](JAVASCRIPT_101.md)
 
-## [INTRODUCTION TO GIT](INTRODUCTION_GIT.md)
+## [Introduction To Git](INTRODUCTION_GIT.md)
 
-## [BASIC DEV TOOLS](BASIC_DEV_TOOLS.md)
+## [Basic Dev Tools](BASIC_DEV_TOOLS.md)
