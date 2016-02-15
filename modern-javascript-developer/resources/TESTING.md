@@ -1,76 +1,16 @@
 # Unit testing your code
 
-We're going to be using the [Jest](https://facebook.github.io/jest/) library which was open-sourced by Facebook.
+We're going to be using the [Jasmine](https://jasmine.github.io/2.4/introduction.html).
 
 ## Setup
 
 ```bash
-mkdir ~/workspace/jest && cd $_
-mkdir __tests__
-npm install jest-cli@^0.7.0 -g
-touch package.json
-touch Gruntfile.js
-```
-
-Open the `package.json` file and add the following code.
-
-```json
-{
-  "name": "testing",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-jshint": "^0.11.2",
-    "grunt-contrib-nodeunit": "~0.4.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-jest": "^0.2.0",
-    "matchdep": "^0.3.0"
-  }
-}
-```
-
-Then run `npm install`.
-
-Open your `Gruntfile.js` and paste in the following code.
-
-```js
-module.exports = function(grunt) {
-
-  grunt.initConfig({
-    jshint: {
-      files: ['./app/**/*.js'],
-      options: {
-        esnext: true
-      }
-    },
-    jest: {
-      options: {
-        coverage: true,
-        testPathPattern: /.\/__tests__\/.*-test.js/
-      }
-    },
-    watch: {
-      javascripts: {
-        files: ['./app/**/*.js'],
-        tasks: ['jshint']
-      },
-      jester: {
-        files: ['./app/**/*.js'],
-        tasks: ['jest']
-      }
-    }
-  });
-
-  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
-  grunt.registerTask('default', ['jshint', 'jest', 'watch']);
-};
+mkdir ~/workspace/unit-testing && cd $_
+wget https://github.com/jasmine/jasmine/releases/download/v2.4.1/jasmine-standalone-2.4.1.zip
+unzip jasmine-standalone-2.4.1.zip
+touch src/math.js
+touch spec/MathSpec.js
+echo "Done"
 ```
 
 ## Write the test before the solution
@@ -86,97 +26,61 @@ A key aspect of this process: don't try to implement two things at a time, don't
 
 ## Basic example
 
-Let's think about a very basic Calculator application you want to write with JavaScript. It will have the ability to add, subtract, multiply, and divide two numbers.
+Let's think about a very basic math application you want to write with JavaScript. It will have the ability to add, and subtract two numbers.
 
-Using the Jest syntax, let's write the tests first.
-
-```bash
-touch __tests__/math-test.js
-```
-
-Paste in the following code to that file.
-
-```
-// Load the file that exports the functionality to test
-jest.dontMock('../app/math');  // Don't create mock functions
-var math = require('../app/math');
-
-// Test to verify the math.sum() function
-describe('sum', function() {
-  it('defines a sum function', function() {
-    expect(math.sum).toBeDefined();
-  });
-
-  it('adds 5 + 2 to equal 7', function() {
-    expect(math.sum(2, 5)).toBe(7);
-  });
-});
-
-// Test to verify the math.difference() function
-describe('difference', function() {
-  it('subtracts 5 - 2 to equal 3', function() {
-    expect(math.difference(5, 2)).toBe(3);
-  });
-});
-
-// Test to verify the math.product() function
-describe('product', function() {
-  it('mutiplies 2 * 5 to equal 10', function() {
-    expect(math.product(2, 5)).toBe(10);
-  });
-});
-
-// Test to verify the math.quotient() function
-describe('quotient', function() {
-  it('divides 10 / 2 to equal 5', function() {
-    expect(math.quotient(10, 2)).toBe(5);
-  });
-});
-```
-
-Now run `npm test` in the CLI. Jest will run and tell you the obvious - all your tests failed.
-
-```
-Using Jest CLI v0.5.10
- FAIL  __tests__/math-test.js (0.022s)
-● sum › it adds 5 + 2 to equal 7
-  - TypeError: math.sum is not a function
-        at Spec.<anonymous> (__tests__/math-test.js:7:17)
-● difference › it subtracts 5 - 2 to equal 3
-  - TypeError: math.difference is not a function
-        at Spec.<anonymous> (__tests__/math-test.js:13:17)
-● product › it mutiplies 2 * 5 to equal 10
-  - TypeError: math.product is not a function
-        at Spec.<anonymous> (__tests__/math-test.js:19:17)
-● quotient › it divides 5 / 2 to equal 2.5
-  - TypeError: math.quotient is not a function
-        at Spec.<anonymous> (__tests__/math-test.js:25:17)
-1 test failed, 0 tests passed (1 total)
-Run time: 0.43s
-npm ERR! Test failed.  See above for more details.
-```
-
-So now you can start writing functions to make the tests pass. Run the following commands.
-
-```bash
-mkdir app
-touch app/math.js
-```
-
-Open the `math.js` file and paste the following code into it.
+Using the Jasmine syntax, let's write the tests first in the `spec/MathSpec.js` file.
 
 ```js
-var module = module || {};
+describe("The specification for basic math", function() {
 
-function sum(one, two) {
-  return one + two;
-}
+  it("should have an add function", function() {
+    expect(add).toBeDefined();
+  });
 
-module.exports = { sum };
+  it("should add two integers", function() {
+    expect(add(2, 5)).toBe(7);
+  });
+
+  it("should have a subtract function", function() {
+    expect(subtract).toBeDefined();
+  });
+
+  it("should subtract two integers", function() {
+    expect(subtract(7, 5)).toBe(2);
+  });
+
+});
 ```
 
-Run `npm test` again to see the output. The test suite **still** fails because there are failing tests. Now it's your job to add in the other functions you need to make the test suite pass.
+### Adding assets
+
+Now open your `SpecRunner.html` file and include the `src/math.js` file and the `spec/MathSpec.js` file.
+
+```html
+  <!-- include source files here... -->
+  <script src="src/math.js"></script>
+
+  <!-- include spec files here... -->
+  <script src="spec/MathSpec.js"></script>
+```
+
+### Running failed tests
+
+Open up the `SpecRunner.html` file in your browser and see your tests fail. This is the first step in test driven development.
+
+### Making tests pass
+
+Open the `src/math.js` file and paste the following code into it.
+
+```js
+function add (one, two) {
+  return one + two;
+}
+```
+
+Reload your browser and you'll see that 1 less test failed. Now, implement code to make all the tests pass.
 
 # Resources
 
-The [Jest API docs](https://facebook.github.io/jest/docs/api.html#content)
+* A basic [Jasmine tutorial](http://evanhahn.com/how-do-i-jasmine/)
+* [Jasmine install docs](https://github.com/jasmine/jasmine#installation)
