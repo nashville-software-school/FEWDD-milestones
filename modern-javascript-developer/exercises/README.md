@@ -2,11 +2,13 @@
 
 ## jQuery
 
-1. [Music History 5 - jQuery Basics](MUSIC_HISTORY_5.md)
+1. [Music History 5](MUSIC_HISTORY_5.md)
+1. Chatty Revisited - Create your own branch from your group project and use jQuery for all XHRs, DOM querying & manipulation, and CSS manipulation.
 
 ## Browserify
 
 1. [Sandwich Maker upgrade with Browserify](SANDWICH_MAKER.md)
+1. [Music History 6](MUSIC_HISTORY_6.md)
 
 ## Testing
 

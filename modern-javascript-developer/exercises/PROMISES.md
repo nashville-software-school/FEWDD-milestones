@@ -1,4 +1,4 @@
-### Promises Exercise
+# Acme Explosives
 
 You're going to be working on a group project to refactor an small app that uses jQuery and XHRs with callbacks to use promises instead.
 
