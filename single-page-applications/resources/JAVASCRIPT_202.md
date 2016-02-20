@@ -1,4 +1,6 @@
-# Event based programming
+#Javascript 202
+
+## Event based programming
 
 Modern web application are becoming more and more event based rather than procedural. When a user performs any kind of gesture (click, key press, mouse over, etc.), the JavaScript layer will listen for that event and then perform some appropriate logic.
 
@@ -98,7 +100,7 @@ document.querySelector("body").addEventListener("click", function(event) {
 ```
 
 
-## Simple SPA using events and CSS
+### Simple SPA using events and CSS
 
 Let's look at a very basic implementation of a single page application.
 
