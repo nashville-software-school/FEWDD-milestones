@@ -20,7 +20,6 @@
 #### IIFE
 
 1. [Sandwich maker](IIFE_SANDWICH.md)
-1. [Translator group exercise](IIFE_TRANSLATOR.md)
 
 #### XHRs
 
@@ -35,5 +34,6 @@
 # Group Exercises
 
 1. [Pet food](XHR_FOOD.md)
+1. [Translator](IIFE_TRANSLATOR.md)
 
 

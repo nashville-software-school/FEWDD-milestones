@@ -6,6 +6,8 @@
 
 ## [Javascript 203](JAVASCRIPT_203.md)
 
+## [Javascript 204](JAVASCRIPT_204.md)
+
 ## [VIM Overview](VIM_OVERVIEW.md)
 
 ## [Intermediate Git](INTERMEDIATE_GIT.md)
