@@ -1,6 +1,7 @@
 # The Static Web Exercises
 
 ## Mastery Exercises (required)
+---
 
 #### HTML 101
 
@@ -32,14 +33,12 @@
 1. [Music History 01](MUSIC_HISTORY_01.md)
 1. [Music History 02](MUSIC_HISTORY_02.md)
 
----
-
 ## In-class Exercises
+---
 
 1. [Sonnet](JS_SONNET.md)
 
----
-
 ## Group Projects
+---
 
 1. [Mock business site](HTML_MOCK_BUSINESS.md)
