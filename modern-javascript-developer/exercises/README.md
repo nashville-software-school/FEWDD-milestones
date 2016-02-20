@@ -1,4 +1,4 @@
-# Exercises
+# Mastery Exercises (required)
 
 ## jQuery
 
@@ -7,7 +7,7 @@
 
 ## Browserify
 
-1. [Sandwich Maker upgrade with Browserify](SANDWICH_MAKER.md)
+1. [Sandwich Maker upgrade with Browserify](BROWSRIFY_SANDWICH_MAKER.md)
 1. [Music History 6](MUSIC_HISTORY_6.md)
 
 ## Testing
