@@ -1,6 +1,4 @@
-# Single Page Applications Exercises
-
-## Mastery Exercises (required)
+# Mastery Exercises (required)
 
 #### Advanced Functions
 
@@ -30,15 +28,11 @@
 1. [Seasonal sales](XHR_SEASONAL_SALES.md)
 1. [IIFE, XHRs and Callbacks, Oh My](XHR_MIND_MELTING.md)
 
----
-
-## In-class Exercises
+# In-class Exercises
 
 1. [Solar system](IIFE_SOLAR_SYSTEM.md)
 
----
-
-## Group Exercises
+# Group Exercises
 
 1. [Pet food](XHR_FOOD.md)
 
