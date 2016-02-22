@@ -1,4 +1,6 @@
-# More about first order functions
+#Javascript 203
+
+## More about first order functions
 
 Since functions are objects, you can pass them as arguments to other function, just like you would any other native JavaScript type. This exercise is a simplistic example of a software development pattern called [Decorator](https://developer.mozilla.org/en-US/docs/Decorators).
 
@@ -102,7 +104,7 @@ modifyThing(elephant, makeYoung);
 console.log(elephant); // { bellyIs: "full", age: "young", color: "red" }
 ```
 
-# this
+## this
 
 What is `this` in JavaScript? It's a common misconception that when you see the keyword `this` inside a function that it refers to the function itself. However, it's the *context* in which a function is executed that drives what the value of `this` is.
 
@@ -143,7 +145,7 @@ So when you output `sample.counter` to the console, it was still at 0, its initi
 
 You will be learning more about `this` in future modules, but just keep in mind that its value is not the function containing it, but the context in which the function was executed.
 
-# Prototypal inheritance
+## Prototypal inheritance
 
 Prototypal inheritance is different from class based inheritance found in the traditional C-family of languages where a new object contains the properties of another class that it inherited from. In JavaScript, any object can specify what its prototype is, creating what's called a prototype chain.
 

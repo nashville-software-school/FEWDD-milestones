@@ -11,3 +11,5 @@
 ## [Introduction To Git](INTRODUCTION_GIT.md)
 
 ## [Basic Dev Tools](BASIC_DEV_TOOLS.md)
+
+## [Project Planning](PLANNING.md)

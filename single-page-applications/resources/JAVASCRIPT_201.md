@@ -1,4 +1,4 @@
-# JavaScript 102
+# JavaScript 201
 
 ## Variable names
 
