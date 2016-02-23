@@ -1,4 +1,4 @@
-# Exercises
+# Modern JavaScript Exercises
 
 ## jQuery
 
@@ -7,7 +7,7 @@
 
 ## Browserify
 
-1. [Sandwich Maker upgrade with Browserify](SANDWICH_MAKER.md)
+1. [Sandwich Maker upgrade with Browserify](BROWSRIFY_SANDWICH_MAKER.md)
 1. [Music History 6](MUSIC_HISTORY_6.md)
 
 ## Testing
@@ -20,6 +20,6 @@
 1. [Promises](PROMISES.md)
 1. [Acme Explosive](ACME_EXPLOSIVES.md)
 
-## Promises
+## Prototypal Inheritance
 
 1. [Car Manufactory](CARS.md)
