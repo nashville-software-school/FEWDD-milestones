@@ -1,17 +1,29 @@
-# The Static Web Resources
+# The Single Page Applications Resources
 
-## [Javascript 201](JAVASCRIPT_201.md)
+### [Advanced Git](SP_JS_GIT_ADVANCED.md)
 
-## [Javascript 202](JAVASCRIPT_202.md)
+### [Intermediate Git](SP_JS_GIT_INTERMEDIATE.md)
 
-## [Javascript 203](JAVASCRIPT_203.md)
+### [Javascript: Array Methods](SP_JS_ARRAY_METHODS.md)
 
-## [Javascript 204](JAVASCRIPT_204.md)
+### [Javascript: Core Principles](SP_JS_CORE_PRINCIPLES.md)
 
-## [VIM Overview](VIM_OVERVIEW.md)
+### [Javascript: Event Based Programming](SP_JS_EVENT_BASED_PROGRAMMING.md)
 
-## [Intermediate Git](INTERMEDIATE_GIT.md)
+### [Javascript: First Order Functions](SP_JS_FIRST_ORDER_FUNCTIONS.md)
 
-## [Advanced Git](ADVANCED_GIT.md)
+### [Javascript: Functions](SP_JS_FUNCTIONS.md)
 
-## [XHR](XHR.md)
+### [Javascript: Modular Development & IIFEs](SP_JS_MODULAR_DEVELOPMENT_IIFE.md)
+
+### [Javascript: Introduction to Objects](SP_JS_OBJECTS_INTRODUCTION.md)
+
+### [Javascript: Prototypal Inheritance](SP_JS_PROTOTYPAL_INHERITANCE.md)
+
+### [Javascript: Single Page Applications](SP_JS_SINGLE_PAGE_APPLICATIONS.md)
+
+### [Javascript: This](SP_JS_THIS.md)
+
+### [Javascript: XHR](SP_JS_XHR.md)
+
+### [VIM Overview](SP_VIM_OVERVIEW.md)

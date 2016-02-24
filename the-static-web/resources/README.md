@@ -1,15 +1,19 @@
 # The Static Web Resources
 
-## [HTML 101](HTML_101.md)
+### [Basic Dev Tools](SW_BASIC_DEV_TOOLS.md)
 
-## [CSS 101](CSS_101.md)
+### [CSS 101](SW_CSS_101.md)
 
-## [CSS 102](CSS_102.md)
+### [CSS 102](SW_CSS_102.md)
 
-## [Javascript 101](JAVASCRIPT_101.md)
+### [HTML 101](SW_HTML_101.md)
 
-## [Introduction To Git](INTRODUCTION_GIT.md)
+### [Introduction To Git](SW_GIT_INTRODUCTION.md)
 
-## [Basic Dev Tools](BASIC_DEV_TOOLS.md)
+### [Javascript: If, Switch & For](SW_JS_IF_SWITCH_FOR.md)
 
-## [Project Planning](PLANNING.md)
+### [Javascript: Primitives & Arrays](SW_JS_PRIMITIVES_ARRAYS.md)
+
+### [Javascript: String Manipulation](SW_JS_STRING_MANIPULATION.md)
+
+### [Project Planning](SW_PLANNING.md)
