@@ -7,7 +7,7 @@
 
 ## Browserify
 
-1. [Sandwich Maker upgrade with Browserify](BROWSRIFY_SANDWICH_MAKER.md)
+1. [Sandwich Maker upgrade with Browserify](BROWSERIFY_SANDWICH_MAKER.md)
 1. [Music History 6](MUSIC_HISTORY_6.md)
 
 ## Testing
@@ -23,3 +23,4 @@
 ## Prototypal Inheritance
 
 1. [Car Manufactory](CARS.md)
+1. Unit testing a [tree orchard](TREE_FARM.md)
