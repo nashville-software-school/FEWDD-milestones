@@ -9,6 +9,7 @@
 
 1. [String manipulation](SP_JS_ARRAYS_STRING_MANIPULATION.md)
 1. [Array method chaining](SP_JS_ARRAYS_CHAINING.md)
+1. [Solar system](SP_JS_ARRAYS_SOLAR_SYSTEM.md)
 
 #### Event Listeners
 
@@ -29,7 +30,7 @@
 
 # In-class Exercises
 
-1. [Solar system](SP_JS_IIFE_SOLAR_SYSTEM.md)
+1. Planets
 
 # Group Exercises
 

@@ -1,15 +1,17 @@
 # Modern Javascript Development Resources
 
-## [Introduction to jQuery](INTRODUCTION_JQUERY.md)
+### [Advanced Grunt](MJ_GRUNT_ADVANCED.md)
 
-## [Prototypal Inheritance](PROTOTYPAL_INHERITANCE.md)
+### [AJAX](MJ_JQUERY_AJAX.md)
 
-## [Browserify & Gulpfile](BROWSERIFY_GULPFILE.md)
+### [Browserify & Gulpfile](MJ_BROWSERIFY_GULPFILE.md)
 
-## [Modern Front End Tooling 101](GRUNT_BOWER.md)
+### [Introduction to jQuery](MJ_JQUERY_INTRODUCTION.md)
 
-## [Unit Testing](TESTING.md)
+### [Modern Front End Tooling 101](MJ_GRUNT_BOWER.md)
 
-## [Advanced Grunt](ADVANCED_GRUNT.md)
+### [Promises](MJ_PROMISES.md)
 
-## [Promises](PROMISES.md)
+### [Prototypal Inheritance](MJ_PROTOTYPAL_INHERITANCE.md)
+
+### [Unit Testing](MJ_TESTING.md)
