@@ -174,3 +174,7 @@ var Sedan = (function(sedan) {
 console.log(Sedan);
 console.log(Sedan.setOccupancy(9));
 ```
+
+
+###Read more about modules:
+[Eloquent Javascript: Chapter 10, Modules](http://eloquentjavascript.net/10_modules.html)

@@ -5,6 +5,7 @@ We're going to be using the [Jasmine](https://jasmine.github.io/2.4/introduction
 ## Setup
 
 ```bash
+# Instructions to install `wget` and `unzip`
 mkdir ~/workspace/unit-testing && cd $_
 wget https://github.com/jasmine/jasmine/releases/download/v2.4.1/jasmine-standalone-2.4.1.zip
 unzip jasmine-standalone-2.4.1.zip
