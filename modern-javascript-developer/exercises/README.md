@@ -1,4 +1,4 @@
-# Modern JavaScript Exercises
+# Mastery Exercises (required)
 
 ## jQuery
 
