@@ -27,3 +27,5 @@
 ### [Javascript: XHR](SP_JS_XHR.md)
 
 ### [VIM Overview](SP_VIM_OVERVIEW.md)
+
+### Automatic code validation with [Gulp](SP_GULP.md)
