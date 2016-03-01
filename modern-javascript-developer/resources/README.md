@@ -15,3 +15,5 @@
 ### [Prototypal Inheritance](MJ_PROTOTYPAL_INHERITANCE.md)
 
 ### [Unit Testing](MJ_TESTING.md)
+
+### [External Resources](MJ_EXTERNAL_RESOURCES.md)

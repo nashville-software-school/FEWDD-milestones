@@ -3,6 +3,7 @@
 ## Individual Challenges
 
 1. [Checkers](MJ_INDIVIDUAL_CHALLENGES.md#challenge-1)
+1. [Automates unit tests](MJ_INDIVIDUAL_CHALLENGES.md#challenge-2)
 
 ---
 
