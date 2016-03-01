@@ -4,6 +4,9 @@
 
 1. Overview of the most common [array methods](https://s3.amazonaws.com/nss-lecture-videos/Array+Methods.mp4)
 
+
+
+
 ## Functions and Modules
 
 1. Introduction to [callbacks](https://s3.amazonaws.com/nss-lecture-videos/Callback+Functions.mp4)
