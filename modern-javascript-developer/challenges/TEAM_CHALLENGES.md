@@ -8,3 +8,7 @@ For the first challenge, the requirements are simple.
 1. Build a browser-based game using [Phaser](http://phaser.io/).
 
 That's it. Have fun.
+
+######  <a id="challenge-2"></a>
+
+# Team Challenge \#2

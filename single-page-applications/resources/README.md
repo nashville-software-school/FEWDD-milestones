@@ -1,8 +1,8 @@
 # The Single Page Applications Resources
 
-### [Advanced Git](SP_JS_GIT_ADVANCED.md)
+### [Advanced Git](SP_GIT_ADVANCED.md)
 
-### [Intermediate Git](SP_JS_GIT_INTERMEDIATE.md)
+### [Intermediate Git](SP_GIT_INTERMEDIATE.md)
 
 ### [Javascript: Array Methods](SP_JS_ARRAY_METHODS.md)
 

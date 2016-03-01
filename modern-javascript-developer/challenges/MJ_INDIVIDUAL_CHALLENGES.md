@@ -46,3 +46,13 @@ Create a checkers game using only jQuery to manipulate the DOM. Augment your jav
     1. Display a `play again` button that resets the game
 
 *Bonus* Save game stats and output them when a player wins.
+
+
+
+######  <a id="challenge-2"></a>
+
+# Individual Challenge \#2
+
+For the truly brave.
+
+Develop a process that lets you automate the running of your unit tests with a Gulp task. You could start by looking at the [gulp-jasmine](https://www.npmjs.com/package/gulp-jasmine) npm package. You'll need Browserify and a few other tools in order to get it working. It will require a lot of Googling and reading articles because it is **not** a straightforward, or easy, task.
