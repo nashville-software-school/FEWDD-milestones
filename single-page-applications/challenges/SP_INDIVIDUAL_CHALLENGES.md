@@ -1,13 +1,11 @@
-######  <a id="challenge-1"></a>
-## Challenge \#1
+<a id="challenge-1"></a>
+## Challenge \#1 - Music History Part 2.5
 
-### Music History Part 2.5
-
-#### Create a new branch
+### Create a new branch
 
 `git checkout -b version2-5`
 
-#### Requirements
+### Requirements
 
 Using your new CSS skills, you'll build even better looking music history pages.
 
@@ -17,6 +15,16 @@ Using your new CSS skills, you'll build even better looking music history pages.
 1. The first song container should have bold text.
 1. Set the navigation bar's position so that it's always on the top of the page, even if you scroll down. To ensure this works, you can just add some div tags at the bottom of the page that add enough text that would force you to scroll the browser.
 
-#### Merging
+### Merging
 
 Remember to merge the `version2-5` branch back into `master` when you're done.
+
+<a id="challenge-2"></a>
+
+## Challenge \#2 - Building Tetris Foundations
+
+Investigate the HTML5 [canvas](http://www.html5canvastutorials.com/) tag to build the 7 different Tetris game shapes. Display them somewhere on the canvas as a staging area. Outline a separate area in the canvas as the game area.
+
+Allow the user to [drag one of the shapes](https://jsfiddle.net/davidbarszczak/EnZEa/) from the staging area to the game area. As soon as the user lets go of the mouse button, the shape should start moving towards the bottom of the game area.
+
+> Fun stuff with Canvas: [21 Canvas Experiments](http://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210)
