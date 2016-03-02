@@ -16,12 +16,30 @@ Using your new CSS skills, you'll build even better looking music history pages.
 1. Set the navigation bar's position so that it's always on the top of the page, even if you scroll down. To ensure this works, you can just add some div tags at the bottom of the page that add enough text that would force you to scroll the browser.
 
 ### Merging
-
 Remember to merge the `version2-5` branch back into `master` when you're done.
 
-<a id="challenge-2"></a>
+## Challenge \#2
+### Whither the Weather? 
+#### Use the OpenWeather API to build a weather forecast search tool
 
-## Challenge \#2 - Building Tetris Foundations
+* Pick three types of forecasts to choose from
+* User inputs zipcode and selects forecast type from a dropdown
+* Use an xhr to fetch the api data. The syntax will be just like the calls you have written to fetch a local JSON file, only you'll be pulling in remote data. It will return the data in JSON by default
+* Present the returned data in a nicely styled display. Use a image to accompany the forecast/conditions, such as a cloud with raindrops when the chance for precip is above a certain percentage.
+* The UI should use Bootstrap
+
+OpenWeatherMap API (scroll to bottom to see documentation)
+> http://openweathermap.org/api 
+
+You must sign up to receive an API key
+> http://home.openweathermap.org/users/sign_up
+
+Example of an API call to get a 5-day forecast for 37201
+> api.openweathermap.org/data/2.5/weather?zip=37201&APPID=1111111111
+
+<a id="challenge-3"></a>
+
+## Challenge \#3 - Building Tetris Foundations
 
 Investigate the HTML5 [canvas](http://www.html5canvastutorials.com/) tag to build the 7 different Tetris game shapes. Display them somewhere on the canvas as a staging area. Outline a separate area in the canvas as the game area.
 
