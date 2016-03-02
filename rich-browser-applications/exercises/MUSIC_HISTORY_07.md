@@ -1,35 +1,31 @@
 # Music History 7
 
-1. Use jQuery to retrieve the songs from your API.
-1. Use the JSON objects to populate Handlebar templates.
-1. Use the populated templates to update the browser.
-1. Add new songs to your Firebase API with POST AJAX calls.
-1. Populate the form fields with data from your API.
-1. When "Filter" button is pressed, update the song list with songs that only match the specified criteria.
+## Setup
 
-Make sure that you are using Handlebars for all DOM rendering. Do not fall back to using jQuery to hide and show songs in order to get the filtering to work. If you want to display a subset of songs that match an artist or an album, you need to send a new object to the Handlebar templates.
+### Create a new branch
 
-Example:
+`git checkout -b version7`
 
-```js
-var filteredSongs = { songs: { } };
+### Update your .gitignore file for SASS
 
-for (var key in existingSongObjectFromFirebase.songs) {
-    var currentSong = existingSongObjectFromFirebase.songs[key];
+Add the following line to .gitignore
 
-    // Check if the currentSong.artist key value matches what the user selected
-    // If it does, add the current song to the `filteredSongs.song` object
-}
-
-// Send filteredSongs to your Handlebar templates
-require("path/to/template", function(tpl) {
-    $("#someDOMElement").append(tpl(filteredSongs));
-});
+```
+.sass-cache
 ```
 
-## Post promises requirements
+## Requirements
 
-These requirements only apply after we cover promises in class.
+## Using SASS
 
-1. When you add, or delete, a song, the modules that perform the XHRs should return promises.
-1. After the promise is resolved, you should display a [Bootstrap modal](http://getbootstrap.com/javascript/#modals) window to provide feedback on if the operation was successful, or not.
+All your current CSS should be converted into SASS, and you must use SASS from this point forward.
+
+## Using Automation
+
+As you are working, ensure that your Gulp/Grunt task is running at all times so that your JavaScript code is automatically checked as you're writing it, and your SASS is compiled into CSS.
+
+> **Note:** After you run your Gulp/Grunt task, if you add more JavaScript files, you need to restart grunt so that it recognizes the new file you added.
+
+## Using Bootstrap
+
+You need to have your application refactored to use the Bootstrap grid system for layout. From this point on, styling of your application is completely up to you, but you must be using Bootstrap grid system for layouts.

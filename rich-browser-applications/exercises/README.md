@@ -1,22 +1,22 @@
 # Exercises
 
-## Angular
-
-1. [Refactoring Music History](ANGULAR_REFACTORING.md)
-1. [Back To The Future](BACK_TO_THE_FUTURE.md)
-
-## Api
+## API
 
 1. [Weather App](API_WEATHER_APP.md)
 
 ## Firebase
-1. [Music History 7](MUSIC_HISTORY_07.md)
 
-## Modular Programming
-
-1. [Movie History Refactoring](MOVIE_HISTORY_REFACTORING.md)
+1. [Music History 8](MUSIC_HISTORY_08.md)
+1. [Family Members](FAMILY_MEMBERS.md)
 
 ## SASS
 
-1. [Music History 6](MUSIC_HISTORY_06.md)
+1. [Music History 7](MUSIC_HISTORY_07.md)
 
+## Angular
+
+1. [Music History 9](MUSIC_HISTORY_09.md)
+
+## Team Exercises
+
+1. [Battleship](BATTLESHIP.md)

@@ -14,5 +14,5 @@ You will be split up into teams of three, and your team will build a new applica
    1. An array of major actors
    1. An integer rating of 1-5
    1. A boolean value that, if true, means that you have watched the movie
-1. You must be using Grunt to automate Javascript testing
-1. You must be using Grunt to automate SASS compilation
+1. You must be using an automation tool to automate JavaScript testing
+1. You must be using an automation tool to automate SASS compilation
