@@ -35,6 +35,11 @@ gulp.task('lint', function() {
     .pipe(jshint())
     .pipe(jshint.reporter('jshint-stylish'));
 });
+
+var onError = function ( err ) {
+  gutil.log( gutil.colors.green( err.message ) );
+  this.emit( 'end' );
+};
 ```
 
 Set some options for jshint. Create a `.jshintrc` in your directory and paste in the following configuration object.
