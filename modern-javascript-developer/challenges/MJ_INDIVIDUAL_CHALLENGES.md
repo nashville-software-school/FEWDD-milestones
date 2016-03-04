@@ -1,16 +1,10 @@
-######  <a id="challenge-1"></a>
+<a id="challenge-1"></a>
 # Individual Challenge \#1
 
 ## Checkers using jQuery
 
 ### Setup
 These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
-
-#### Vagrant machine
-
-```bash
-mkdir -p /vagrant/exercises/mjd/checkers && cd $_
-```
 
 #### Host machine (students not using Vagrant)
 
@@ -49,10 +43,23 @@ Create a checkers game using only jQuery to manipulate the DOM. Augment your jav
 
 
 
-######  <a id="challenge-2"></a>
-
+<a id="challenge-2"></a>
 # Individual Challenge \#2
 
 For the truly brave.
 
 Develop a process that lets you automate the running of your unit tests with a Gulp task. You could start by looking at the [gulp-jasmine](https://www.npmjs.com/package/gulp-jasmine) npm package. You'll need Browserify and a few other tools in order to get it working. It will require a lot of Googling and reading articles because it is **not** a straightforward, or easy, task.
+
+<a id="challenge-3"></a>
+# Individual Challenge \#3
+
+## Cutting edge prototypal inheritance & composition
+
+Pick any exercise or group project that you've completed so far and use `Object.create()` instead of the `new` keyword to create objects and establish prototype chains.
+
+### Resources
+
+1. [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create) entry on `Object.create()`
+1. [Video intro](https://www.youtube.com/watch?v=giJV6boOLxU) to using `Object.create()` for inheritance
+1. I am not covering the `class` feature of ES6 until it is fixed. Please do not use it until [it is fixed](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#).
+1. Great article titled [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.8a0kdyghs) which discusses the pitfalls of using `new`.

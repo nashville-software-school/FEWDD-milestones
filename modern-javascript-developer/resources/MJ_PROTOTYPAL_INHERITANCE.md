@@ -1,4 +1,4 @@
-# Prototypal inheritance and composition
+# Prototypal Inheritance and Composition
 
 ## is-a vs. has-a
 
@@ -159,3 +159,10 @@ gameDayOrder.beverage = pepsi;
 
 console.log("My game day order: ", gameDayOrder);
 ```
+
+# External Resources
+
+1. [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.2le5vxm7w)
+1. [JavaScript is object oriented](https://medium.com/just-javascript/javascript-is-object-oriented-a6f5e0f440f3#)
+1. I am not covering the `class` feature of ES6 until it is fixed. Please do not use it until [it is fixed](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf#).
+1. Great article titled [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.8a0kdyghs) which discusses the pitfalls of using `new`.
