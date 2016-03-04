@@ -1,23 +1,6 @@
 # Promises and deferred actions
 
-We will be using the [Q](https://github.com/kriskowal/q) library to work with Promises.
-
-```bash
-bower install q#1.0.1 --save
-```
-
-Add the library to the RequireJS configuration.
-
-```js
-requirejs.config({
-  baseUrl: './javascripts',
-  paths: {
-    'q': '../lib/bower_components/q/q'
-  }
-});
-```
-
-We'll be using deferred objects to control the order of execution in our asynchronous code. Up to this point, we've been using callbacks to handle when the status of an asynchronous operation is updated.
+We'll be using Promises to control the order of execution in our asynchronous code. Up to this point, we've been using callbacks to handle when the status of an asynchronous operation is updated.
 
 ```js
 function get_some_api_data(successCallback, failedCallback) {
@@ -31,79 +14,77 @@ $.ajax(...)
 }
 ```
 
-With deferred objects, we can let any other code that is listening to the operation know when it either succeeded or failed.
-
-With Q, we create a deferred object to handle an asynchronous action like an XHR request (AJAX). First, we define a function that will execute the XHR, and make a variable to hold a deferred object.
+With Promises, we can let any other code that is listening to the operation know when it either succeeded or failed. Let's look at an example of loading songs for Music History.
 
 ```js
 function getSongs() {
-  var deferred = Q.defer();
+  return new Promise((resolve, reject) => {
+    // There will be an asynchronous operation here (e.g. XHR)
+  });
 }
 ```
 
-This function will then return a Promise.
+This function will now return a Promise. When the function gets invoked, it **will be** a Promise.
 
 ```js
-function getSongs() {
-  var deferred = Q.defer();
-
-  return deferred.promise;
-}
+var iAmAPromise = getSongs();
+console.log("iAmAPromise", iAmAPromise); // You will see a promise definition in the console
 ```
 
-So now anywhere that you call `getSongs()`, you can use callback functions to handle what happened with your XHR. How do we do that?
+Using Promises, any other code can now invoke a function that performs some ansynchronous operation, and then write handler functions that will be invoked when that operation is successful, or failed.
 
  - Resolve is used to broadcast that the action succeeded.
  - Reject is used to broadcast that the action failed.
 
 ```js
 function getSongs() {
-  var deferred = Q.defer();
+  return new Promise((resolve, reject) => {
+    // Create an XHR to load songs
+    var loader = new XMLHttpRequest();
 
-  $.ajax({ url: "songs.json" })
-    // XHR was successful
-    .done(function(json_data) {
-      // Now we can resolve the promise and send the data
-      deferred.resolve(json_data);
-    })
-
-    // XHR failed for some reason
-    .fail(function(xhr, status, error) {
-      // Since the call failed, we have to reject the promise
-      deferred.reject(error);
+    // Listen for when the load event is broadcast
+    // and execute an anonymous callback
+    loader.addEventListener("load", function () {
+      var songList = JSON.parse(this.responseText).songs;
+      resolve(songList);
     });
 
-  return deferred.promise;
+    // If an error occurs, reject the promise
+    loader.addEventListener("error", function () {
+      reject();
+    });
+
+    loader.open("GET", "songs.json");
+    loader.send();
+
+  });
 }
 ```
 
-When a promise is resolved, you can specify which function will get executed in the `then()` method.
+Now you can invoke the function, and use the `then()` method on the Promise to specify code to be executed on success and failure. You will write a callback function for each case.
 
 ```js
+/*
+  asyncFunction().then(resolveFunctionReference, rejectFunctionReference)
+ */
+
+
 //Original call site of the promise
 getSongs()
-  // Then gets executed when promise is resolved
-  .then(function(json_data) {
-    console.log("API call successful and responded with", json_data);
-  });
+  // Then gets executed when promise is resolved or rejected
+  .then(
+    // The first callback function will be invoked when you resolve
+    function(json_data) {
+      console.log("API call successful and responded with", json_data);
+    },
+    // The second callback function will be invoked when you reject
+    function(json_data) {
+      console.log("API call not successful");
+    }
+  );
 ```
 
-When a promise is rejected, you can specify which function will get executed in the `fail()` method.
-
-```js
-//Original call site of the promise
-getSongs()
-  // Then gets executed when promise is resolved
-  .then(function(json_data) {
-    console.log("API call successful and responded with", json_data);
-  })
-  // Fail gets executed when promise is rejected
-  .fail(function(error) {
-    console.log("API call failed with error", error);
-  });
-```
-
-This code is easier to follow because we don't have a callback function reference that we're passing around anymore. We handle the success, or failure, of the asynchronous logic with `then()` or `fail()` at the original call site.
+This code is easier to follow because we don't have a callback function reference that we're passing around anymore. We handle the success, or failure, of the asynchronous logic with `then()` at the original call site.
 
 Where Promises come in particularly handy is when dependent XHR calls start creating a **Pyramid of Doom**.
 
@@ -174,6 +155,10 @@ var thirdXHR = function(result_of_secondXHR) {
 /*
   Now we use those Promises to describe the order of execution, 
   and how data flows between each one.
+
+  Note how the resolve callback function, itself, returns another
+  promise. This is how you can chain promises, and dictate the
+  order of execution of multiple aynschronous operations.
  */
 firstXHR()
   .then(function(data1) {
@@ -191,22 +176,28 @@ By using a promise to broadcast, and maintain, the state of that operation, you 
 
 ```js
 // This stores the Promise object
- var promiseStorage = promise();
+var promiseStorage = promise();
 
 // You can then handle success/failure of the promise
- promiseStorage.then(function(results) {
-   console.log("results",results);
- }).fail(function(error) {
-   console.log("error", error);
- });
+promiseStorage.then(
+  function(results) {
+    console.log("results",results);
+  },
+  function(error) {
+    console.log("error", error);
+  }
+);
 
  $("#clearFilter").click(function() {
-   // This does not execute the XHR function again, but simply
-   // checks the state of the Promise and acts accordingly
-   promiseStorage.then(function(results) {
-     console.log("results",results);
-   }).fail(function(error) {
+  // This does not execute the XHR function again, but simply
+  // checks the state of the Promise and acts accordingly
+  promiseStorage.then(
+    function(results) {
+      console.log("results",results);
+    },
+    function(error) {
       console.log("error", error);
-   });
+    }
+  );
  });
 ```
