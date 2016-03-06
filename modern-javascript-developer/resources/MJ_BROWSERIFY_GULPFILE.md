@@ -1,12 +1,19 @@
 # Use Gulp to Run Browserify
 
-Here's a `gulpfile.js` setup you can use for compiling CommonJS modules with Browserify as a Gulp task.
+Here's a `gulpfile.js` setup you can use for compiling CommonJS modules with Browserify as a Gulp task. It also runs `jshint` on your code before it is bundled by Browserify.
 
-Look at all of the dev dependencies listed below and make sure you use `npm` to install all of them for your project first.
+First you need to install all of the packages as development dependencies.
+
+```bash
+npm install gulp gulp-jshint gulp-watch watchify browserify gulp vinyl-source-stream vinyl-buffer gulp-util gulp-sourcemaps lodash.assign --save-dev
+```
+
+##### gulpfile.js
 
 ```js
-'use strict';
-
+var gulp = require('gulp');
+var jshint = require('gulp-jshint');
+var watch = require('gulp-watch');
 var watchify = require('watchify');
 var browserify = require('browserify');
 var gulp = require('gulp');
@@ -18,18 +25,32 @@ var assign = require('lodash.assign');
 
 // add custom browserify options here
 var customOpts = {
-  entries: ['./src/index.js'],
+  entries: ['./src/scripts/index.js'],
   debug: true
 };
 var opts = assign({}, watchify.args, customOpts);
 var b = watchify(browserify(opts)); 
 
-// add transformations here
-// i.e. b.transform(coffeeify);
 
-gulp.task('default', bundle); // so you can run `gulp js` to build the file
+gulp.task('default', ['watch']);
 b.on('update', bundle); // on any dep update, runs the bundler
 b.on('log', gutil.log); // output build logs to terminal
+
+
+gulp.task('lint', function() {
+  return gulp.src('./src/scripts/**/*.js')
+    .pipe(jshint())
+    .pipe(jshint.reporter('jshint-stylish'));
+});
+
+gulp.task('watch', ['lint'], function() {
+  gulp.watch(['./src/scripts/index.js'],[
+    'lint',
+    'browserify'
+  ]);
+});
+
+gulp.task('browserify', bundle);
 
 function bundle() {
   return b.bundle()
