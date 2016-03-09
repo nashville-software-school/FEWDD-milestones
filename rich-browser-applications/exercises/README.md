@@ -9,6 +9,10 @@
 1. [Music History 8](MUSIC_HISTORY_08.md)
 1. [Family Members](FAMILY_MEMBERS.md)
 
+## Authentication
+
+1. [Music History 10](MUSIC_HISTORY_10.md)
+
 ## SASS
 
 1. [Music History 7](MUSIC_HISTORY_07.md)
