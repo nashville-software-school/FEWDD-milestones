@@ -16,6 +16,8 @@ npm install gulp jshint gulp-jshint jshint-stylish gulp-watch
 touch gulpfile.js
 ```
 
+### Gulp File
+
 Paste in the following code in your `gulpfile.js`.
 
 ```js
@@ -26,28 +28,34 @@ var watch = require('gulp-watch');
 gulp.task('default', ['lint', 'watch']);
 
 gulp.task('watch', function() {
-  gulp.watch('./javascripts/**/*.js', ['lint']);
+  gulp.watch('path/to/javascript/files/**/*.js', ['lint']);
 });
 
 
 gulp.task('lint', function() {
-  return gulp.src('./javascripts/**/*.js')
+  return gulp.src(['path/to/javascript/files/**/*.js'])
     .pipe(jshint())
-    .pipe(jshint.reporter('jshint-stylish'));
+    .pipe(jshint.reporter('jshint-stylish'))
+    .on('error', function() {}
+  );
 });
-
-var onError = function ( err ) {
-  gutil.log( gutil.colors.green( err.message ) );
-  this.emit( 'end' );
-};
 ```
 
-Set some options for jshint. Create a `.jshintrc` in your directory and paste in the following configuration object.
+### JSHint Options
+
+Create a `.jshintrc` in the root directory of your project and paste in the following configuration object.
 
 ```js
 {
-  "predef": [ "document", "jQuery", "$", "console" ],
+  "predef": [ "document", "console", "angular", "require" ],
   "esversion": 6,
-  "globalstrict": true
+  "globalstrict": true,
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "unused": true,
+  "globals": {
+    "SomeGlobalVariableYouWantToUse": true
+  }
 }
 ```
