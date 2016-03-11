@@ -422,6 +422,8 @@ allSongsPromise.then(function () {
 });
 ```
 
+# Angular Application Architecture Visualization
 
+![Angular Architecture](angular-architecture.png)
 
 
