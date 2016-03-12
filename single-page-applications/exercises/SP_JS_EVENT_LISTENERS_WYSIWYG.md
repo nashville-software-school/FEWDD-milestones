@@ -4,16 +4,7 @@
 
 These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
 
-### Vagrant machine
-
-```bash
-mkdir -p /vagrant/exercises/spa/wysiwyg && cd $_
-touch index.html
-touch wysiwyg.js
-touch wysiwyg.css
-```
-
-### Host machine (students not using Vagrant)
+### Host machine
 
 ```bash
 mkdir -p ~/workspace/exercises/spa/wysiwyg && cd $_
@@ -37,10 +28,16 @@ touch wysiwyg.css
 1. When you press the enter/return key when typing in the input field, then the content of the input field should immediately be blank.
 
 
-##### Person element structure
+##### Sample Person Element & Children
+
+This is just a sample and is not what your final HTML will look like. You need to add all the appropriate **id** and **class** attribute needed to make it work as intended.
 
 ```html
-<!-- person element? what??? -->
+<!-- ///
+  HTML is a flexible specification. I just made up the person tag, 
+  and that's perfectly legal. You can then style it with CSS however
+  you wish.
+/// -->
 <person>
   <header>Name and title go here</header>
   <section>Bio and image go here</section>
@@ -61,5 +58,58 @@ touch wysiwyg.css
     death: 1797
   }
 }
+```
+
+## Helpful Tip
+
+We've discussed in class how you cannot add an event listener to an element that you expect to be in the DOM *in the future*. An element has to exist in the DOM tree before you can invoke the `addEventLister()` method on it.
+
+Luckily, you can use JavaScript to add an element to the DOM and then immediately attach an event listener to it.
+
+Here's an example of what would *not* work, and one that would.
+
+##### Incorrect
+
+```js
+// containerEl will be an empty array
+var containerEl = document.getElementByClassName("person__container");
+
+// Nothing will happen here since there is nothing in the array
+containerEl.forEach(function (currentPerson) {
+  currentPerson.addEventListener("click", function (event) {
+    // Logic to execute when the element is clicked
+  });
+}
+
+var counter = 0;
+var outputEl = document.getElementById("outputEl");
+for (; counter < 5; counter++) {
+  // Give each person element a unique identifier
+  outputEl.innerHTML += `<div class="person__container" id="person--${counter}"></div>`;
+}
+```
+
+> Refresh your knowledge of [forEach](https://github.com/nashville-software-school/front-end-milestones/blob/master/single-page-applications/resources/SP_JS_ARRAY_METHODS.md#advanced-array-methods)
+
+##### Correct
+
+```js
+var counter = 0;
+var outputEl = document.getElementById("outputEl");
+for (; counter < 5; counter++) {
+  // Give each person element a unique identifier
+  outputEl.innerHTML += `<div class="person__container" id="person--${counter}"></div>`;
+}
+
+// Now containerEl will have elements in it
+var containerEl = document.getElementByClassName("person__container");
+
+// Event listeners are created
+containerEl.forEach(function (currentPerson) {
+  currentPerson.addEventListener("click", function (event) {
+    // Logic to execute when the element is clicked
+  });
+}
+
 ```
 
