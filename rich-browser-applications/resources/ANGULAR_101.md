@@ -217,3 +217,18 @@ Check out this bad boy. Angular can automatically group option elements in the s
   </select>
 </div>
 ```
+
+
+# More reading
+
+## Read these articles first
+[Angular for beginners](http://medialoot.com/blog/angularjs-for-absolute-beginners/)
+[Angular tutorial](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
+[Angular in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+
+## Then do these exercises
+[A Better Way to Learn Angular](https://thinkster.io/a-better-way-to-learn-angularjs/)
+[Angular on Code Academy](https://www.codecademy.com/courses/javascript-advanced-en-2hJ3J/0/1)
+
+## Keep this one bookmarked for quick reference
+[Angular in 30 Minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
