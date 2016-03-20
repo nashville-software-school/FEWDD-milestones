@@ -8,7 +8,7 @@ First you need to install all of the packages as development dependencies.
 
 ```bash
 npm init
-npm install gulp jshint gulp-sassgulp-jshint gulp-watch watchify browserify gulp vinyl-source-stream vinyl-buffer gulp-util gulp-sourcemaps jshint-stylish --save-dev
+npm install gulp jshint gulp-sass gulp-jshint gulp-watch watchify browserify  vinyl-source-stream vinyl-buffer gulp-util gulp-sourcemaps jshint-stylish --save-dev
 ```
 
 ##### gulpfile.js
