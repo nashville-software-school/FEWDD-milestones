@@ -2,7 +2,7 @@
 
 Welcome to an experiment in education. Learning software development isn't ike learning anything else , so we're not going to treat it like anything else. This is likely going to be a very different experience from your high school chemistry class, or your college intro to philosophy.
 
-## How is mastery learning different from what I've done before?
+## How is mastery learning different from what I've experienced before?
 Basically, we're aiming for 100% of students to have 100% mastery of the material. This is an ambitous plan and we're plannning on reaching it by allowing students to work at their own pace, providing students with lots of instructor guidance, and generally being awesome.
 
 
