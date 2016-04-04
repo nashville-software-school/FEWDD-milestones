@@ -74,35 +74,6 @@ Here's the [official page](https://chocolatey.org/), but it's instructions are w
 
 > When you read the text "execute the command `something`", enter in the command in your terminal, and always follow the command by pressing the enter key.
 
-## Setting up Vagrant
-
-Vagrant is a tool that lets you run a virtual machine that has much of the software that you'll need for class already installed and configured. Think of it as an operating system _**inside**_ your operating system. It's actually an operating system called Linux, a specific brand called Ubuntu, that will run while your machine's default operating system is running. You can start it up, shut it down, pause it, or delete it entirely without affecting your default operating system.
-
-It's why it's called a *virtual* machine.
-
-### OSX
-
-1. Open your terminal application by hitting the combination of the command key and the space key, and then typing in `terminal` and pressing enter.
-1. Execute the command `cd` which is the command to change directory. This is what's called your home directory. You can execute the command `pwd` (print working directory) to see the actual path in on your hard drive to that directory. It should be something like `/Users/username`.
-1. Create a new directory inside your home directory by executing the command `mkdir workspace`. This creates the directory `/Users/username/workspace`. This is the directory on your hard drive where we will be writing all of the code your learn during class.
-1. Go into that directory by executing the command `cd workspace`.
-1. If you have not yet installed Vagrant or VirtualBox, please go and do that now.
-1. Execute the following command. Hint, you can copy and paste from here into your terminal so you don't have to manually type all that in.
-  `vagrant init vagrant-trusty64 http://www.stevebrownlee.com/content/images/nss-base.box`
-1. Once that completes, execute the command `vagrant up`. This will take some time and you'll notice a progress bar in your terminal while it's working.
-1. After that machine starts, you can then execute the command `vagrant halt` which will put the virtual machine into suspended animation until you're ready to start using it in class.
-
-### Windows
-
-1. Open the Git powershell program that you installed earlier as an administrator. It will be labeled "Git bash" in your start menu or desktop. To open as administrator, right-click the icon and select "Run as administrator option".
-1. Execute the command `cd` which is the command to change directory. This is what's called your home directory. You can execute the command `pwd` (print working directory) to see the actual path in on your hard drive to that directory. It should be something like `/c/Users/Steve`, except instead of `Steve` you will see **your** account username.
-1. Create a new directory inside your home directory by executing the command `mkdir workspace`. This creates the directory `/c/Users/Steve/workspace`. This is the directory on your hard drive where we will be writing all of the code your learn during class.
-1. Go into that directory by executing the command `cd workspace`.
-1. If you have not yet installed Vagrant or VirtualBox, please go and do that now.
-1. Execute the following command. Hint, you can copy and paste from here into your terminal so you don't have to manually type all that in.
-  `vagrant init vagrant-trusty64 http://www.stevebrownlee.com/content/images/nss-base.box`
-1. Once that completes, execute the command `vagrant up`. This will take some time and you'll notice a progress bar in your terminal while it's working.
-1. After that machine starts, you can then execute the command `vagrant halt` which will put the virtual machine into suspended animation until you're ready to start using it in class.
 
 # Homebrew for Mac users
 
