@@ -41,14 +41,6 @@ Install the Sublime Text [package control](https://packagecontrol.io/installatio
 
 Read [this excellent introduction](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings) to getting the very most out of Sublime Text. These tips will make coding more enjoyable and increase your speed.
 
-### Vagrant
-
-Visit the [Vagrant download](https://www.vagrantup.com/downloads.html) page and download the installer for your operating system. Once complete, run the installer using all of the default options it provides.
-
-### Virtual Box
-
-Visit the [VirtualBox download](https://www.virtualbox.org/wiki/Downloads) page and download the installer for your operating system. Once complete, run the installer using all of the default options it provides.
-
 ## Windows users
 
 ###Git powershell
