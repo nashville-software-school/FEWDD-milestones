@@ -2,17 +2,17 @@
 
 ## Setup
 
-When you are ready to start the quiz, request the Github Classroom link from your instructor. After you've successfully created the repository on Github for your quiz, execute the following command **in your host machine**.
+When you are ready to start the quiz, request the Github Classroom link from your instructor.  
++ Once your repository is created on GitHub, you will see the *Quick Setup* page.  
++ Copy the commands for the section labeled **…or create a new repository on the command line**  
++ Then execute the following command in your terminal:  
 
 ```bash
 mkdir -p ~/workspace/quizzes/static-web/html && cd $_
 ```
 
-1. Your instructor will send you the Github Classroom link that will create a blank repository to hold your quiz.
-1. Once your repository is created, you will see the *Quick Setup* page.
-1. Copy the commands for the section labeled **…or create a new repository on the command line**
-1. Paste those commands into your terminal and press **return** to make sure the last command gets executed.
-1. Now run the following commands.
++ Paste the commands you copied from GitHub into your terminal and press **return** to make sure the last command gets executed.  
++ Now run the following commands.  
 
 ```
 git checkout -b quiz
