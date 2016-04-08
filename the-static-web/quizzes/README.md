@@ -2,7 +2,7 @@
 
 ## How to submit your quiz
 
-When you feel you are done with your quiz and ready to be reviewed, just send the link to your repository, via Slack, directly to Caitlin or Joe.
+When you feel you are done with your quiz and ready to be reviewed, just send the link to your repository, via Slack, directly to an instructor.
 
 ## Quizzes
 
