@@ -42,7 +42,7 @@ switch (value) {
 
 Learn how to execute the same code against every items in an array. The *for* loop has several key elements that allow you to execute the same logic over and over again, a predetermined number of times.
 
-First, you state an initial value that will be checked each time through the loop.
+First, you state an initial value that will be checked the first time through the loop.
 
 ```
 for (var count = 1;;) {
