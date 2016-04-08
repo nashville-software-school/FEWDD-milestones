@@ -15,7 +15,7 @@ git init
 ```
 + Now run the following commands:
 ```bash
-git remote add origin (plus your GitHUb repo address)
+git remote add origin (plus your GitHUb repo address, ie https://github.com/nss-day-cohort-13/static-web-html-css-quiz-JoeShep)
 git pull origin master
 ```
 
