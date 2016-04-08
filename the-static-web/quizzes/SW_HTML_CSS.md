@@ -3,18 +3,25 @@
 ## Setup
 
 When you are ready to start the quiz, request the Github Classroom link from your instructor.  
-+ Once your repository is created on GitHub, you will see the *Quick Setup* page.  
-+ Copy the commands for the section labeled **…or create a new repository on the command line**  
-+ Then execute the following command in your terminal:  
++ Once your repository is created on GitHub, execute the following command in your terminal:  
 
 ```bash
 mkdir -p ~/workspace/quizzes/static-web/html && cd $_
 ```
 
-+ Paste the commands you copied from GitHub into your terminal and press **return** to make sure the last command gets executed.  
-+ Now run the following commands.  
-
++ You will now be inside your project folder and can intialize a local repo for your project with 
+```bash
+git init
 ```
++ Now run the following commands:
+```bash
+git remote add origin (then paste in your GitHUb repo address
+git pull origin master
+```
+
+Now you've connected your remote and local repos and are ready to get to work. All of your quiz work should be on a branch, NOT on master. To do this, type:
+
+```bash
 git checkout -b quiz
 touch index.html
 touch quiz.css
