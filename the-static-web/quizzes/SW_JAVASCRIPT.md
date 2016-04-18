@@ -26,7 +26,7 @@ When your work in complete, push up the branch (`git push origin quiz`) and subm
 
 ## Instructions
 
-Create a `tree` function that should build a pine tree out of a character in the browser console. It accepts a single object as an argument. The object should have two key/value pairs.
+Create a `tree` function that should build a pine tree out of a character in the Chrome dev tools console. It accepts a single object as an argument. The object should have two key/value pairs.
 
 1. A key that specifies the height of the pine tree.
 1. The value for the height of the tree should be from user input in a `<input type="text">` field in the DOM.
