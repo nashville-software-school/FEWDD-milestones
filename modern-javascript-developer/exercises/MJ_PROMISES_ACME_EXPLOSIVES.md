@@ -62,14 +62,14 @@ Create a JSON file describing each product you offer. Add a key/value pair that 
 
 ```js
 {
-    "products": [
+    "products": [{
         "fairy_sparklers": {
             "id": 0,
             "type": 0,
             "name": "Fairy Sparklers",
             "description": "Multi-colored sparklers that are safe for any age."
         }
-    ]
+    }]
 }
 ```
 
