@@ -17,6 +17,7 @@ git init
 ```bash
 git remote add origin (plus your GitHUb repo address, ie https://github.com/nss-day-cohort-13/static-web-html-css-quiz-JoeShep)
 git pull origin master
+Add one line to your README file. It can be anything. We just need to make a change on the master branch, add it, and commit it, before switching to a quiz branch,
 ```
 
 Now you've connected your remote and local repos and are ready to get to work. All of your quiz work should be on a branch, NOT on master. To do this, type:
