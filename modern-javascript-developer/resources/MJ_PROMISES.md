@@ -19,7 +19,7 @@ With Promises, we can let any other code that is listening to the operation know
 ```js
 function getSongs() {
   return new Promise((resolve, reject) => {
-    // There will be an asynchronous operation here (e.g. XHR)
+    // There will be an asynchronous operation here (e.g. XHR or AJAX)
   });
 }
 ```
@@ -107,49 +107,43 @@ By separating each of the XHR calls into their own functions that return a promi
 ```js
 // This function does one thing, and returns a promise
 var firstXHR = function() {
-  var deferred = Q.defer();
-
-  $.ajax({
-    url: "https://nss-demo-instructor.firebaseio.com/songs.json"
-  }).done(function(data) {
-    deferred.resolve(data);
-  }).fail(function(xhr, status, error) {
-    deferred.reject(error);
-  });
-
-  return deferred.promise;
+  return new Promise((resolve, reject) => {
+    $.ajax({
+      url: "https://nss-demo-instructor.firebaseio.com/songs.json"
+    }).done(function(data) {
+      resolve(data);
+    }).fail(function(xhr, status, error) {
+      reject(error);
+    });
+  }
 };
 
 // This function does one thing, and returns a promise
 var secondXHR = function(result_of_firstXHR) {
-  var deferred = Q.defer();
-
-  $.ajax({
-    url: "https://nss-demo-instructor.firebaseio.com/more-songs-info.json",
-    data: result_of_firstXHR
-  }).done(function(data) {
-    deferred.resolve(data);
-  }).fail(function(xhr, status, error) {
-    deferred.reject(error);
-  });
-
-  return deferred.promise;
+  return new Promise((resolve, reject) => {
+    $.ajax({
+      url: "https://nss-demo-instructor.firebaseio.com/more-songs-info.json",
+      data: result_of_firstXHR
+    }).done(function(data) {
+      resolve(data);
+    }).fail(function(xhr, status, error) {
+      reject(error);
+    });
+  }
 };
 
 // This function does one thing, and returns a promise
 var thirdXHR = function(result_of_secondXHR) {
-  var deferred = Q.defer();
-
-  $.ajax({
-    url: "https://nss-demo-instructor.firebaseio.com/song-details.json",
-    data: result_of_secondXHR
-  }).done(function(data) {
-    deferred.resolve(data);
-  }).fail(function(xhr, status, error) {
-    deferred.reject(error);
-  });
-
-  return deferred.promise;
+  return new Promise((resolve, reject) => {
+    $.ajax({
+      url: "https://nss-demo-instructor.firebaseio.com/song-details.json",
+      data: result_of_secondXHR
+    }).done(function(data) {
+      resolve(data);
+    }).fail(function(xhr, status, error) {
+      reject(error);
+    });
+  }
 };
 
 /*
