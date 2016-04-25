@@ -133,3 +133,15 @@ gulp.task('watch', function() {
 // This task runs when you type `gulp` in the CLI
 gulp.task('default', ['lint', 'sass', 'watch'], bundle);
 ```
+
+Here is a link to a simpler version example that sets up a basic [watch/lint task](https://gist.github.com/chortlehoort/552acdb39294d4c105b5)
+
+Note that when setting up jshint you may need to create a .jshintrc in the roof of your project. Add this code to get you started:  
+
+```js
+{
+  "predef": [ "document", "jQuery", "$", "console" ],
+  "esversion": 6,
+  "globalstrict": true
+}
+```
