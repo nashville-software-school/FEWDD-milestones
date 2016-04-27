@@ -2,7 +2,7 @@
 
 ##Angular, APIs, and Charts
 
-For this project, you must use Angular, and the [Angular Google Chart](http://angular-google-chart.github.io/angular-google-chart/docs/latest/guides/getting-started/) library to create a chart based on data from [data.Nashville.gov](data.nashville.gov).
+For this project, you must use Angular, and the [Angular Google Chart](http://angular-google-chart.github.io/angular-google-chart/docs/latest/guides/getting-started/) library to create a chart based on data from [data.Nashville.gov](http://data.nashville.gov).
 
 ------
 ###Setup
