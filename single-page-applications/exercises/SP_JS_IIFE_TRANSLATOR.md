@@ -24,7 +24,7 @@ This is Swedish, so please choose other languages. You can add as many words/tra
 1. The team must discuss and choose a single variable name that will hold all of the logic that the team creates (i.e. see the Sedan example above).
 1. Each team member will create one JavaScript file that contains one IIFE. Each teammate's IIFE will augment the other teammates' IIFEs.
 1. The lexicon should be a private variable that cannot be accessed by the other team member's module except through an accessor (getter) method.
-1. Each IIFE should expose, in its public interface, a method named `translateTo{Language}` (e.g. `translateToSpanish` or `translateToFinnish`) that accepts a single argument. That argument's value should be the text entered in by the user.
+1. Each IIFE should expose, in its public interface, a method named `translateTo{Language}` (e.g. `translateToSpanish` or `translateToFinnish`) that accepts a single argument. That argument's value should be the text entered in by the user. The method should return the translated text.
 1. The team should create an extra JavaScript file that handles interacting with the form elements and determining which method should be called.
 
 > **Optional Bonus 1**
@@ -36,4 +36,4 @@ This is Swedish, so please choose other languages. You can add as many words/tra
 > **Optional Bonus 2**
 >
 > In addition to inserting the translated text into the HTML document, have the browser read the translated text to the user.
-> 
+>
