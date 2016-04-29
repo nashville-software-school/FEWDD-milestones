@@ -53,36 +53,7 @@ Here's the [official page](https://chocolatey.org/), but it's instructions are w
 1. When that starts, copy the following command with Ctrl+C, and once that's done paste it into the command line by right-clicking anywhere in that window.
   `@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin`
 
-# System setup
-
-> When you read the text "execute the command `something`", enter in the command in your terminal, and always follow the command by pressing the enter key.
-
 # Homebrew for Mac users
 
 Visit the [homebrew home page](http://brew.sh/) and follow the single instruction there to get it installed.
-
----
-
-## Sublime Text shortcuts
-
-1. Cmd+O (_Open file/folder_)
-1. Cmd+K, B (_Show/hide sidebar_)
-1. Cmd+N (_New file_)
-1. Cmd+S (_Save file_)
-1. Cmd+P (_Quick open file_)
-1. Shift+Arrows for selection
-1. Copy, cut, paste (_Cmd+C, X, V_)
-1. Undo, redo (_Cmd+z, Cmd+Y_)
-1. Shift+Alt+Arrows for word selection
-1. Ctrl+Cmd+Up/Down
-1. Ctrl+Shift+K (_Delete entire line of code_)
-1. Cmd+[] (_Indent,unindent_)
-1. Ctrl+Shift+Up/Down for mutiple cursors
-1. Cmd+D (_Select entire word_)
-1. Cmd+F (_Find_)
-1. Cmd+Shift+F (_Advanced find_)
-1. Ctrl+Cmd+G for selecting all occurances
-
----
-
 
