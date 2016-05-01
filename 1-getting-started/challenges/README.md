@@ -1,6 +1,6 @@
 # Challenge \#1
 
-Install and configure [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) shell for your Vagrant and/or OSX terminal.
+If you are on OSX or Linux, install and configure [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) shell for your terminal.
 
 ## Useful plugins
 
@@ -16,4 +16,8 @@ There's a plugin called [autojump](https://github.com/joelthelion/autojump) that
 
 # Challenge \#3
 
-There is another account on the Vagrant machine named `student`. The password is `nss`. Go ahead and `ssh` to the machine using those credentials. Your challenge is to find out how you can `ssh` into the box on that account without needing to enter in a password.
+Using [bash aliases](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html), create an alias for the following commands.
+    1. `git checkout `
+    1. `git push origin `
+    1. `git status`
+    1. `git fetch --all`
