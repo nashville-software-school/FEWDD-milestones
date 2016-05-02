@@ -75,8 +75,8 @@ Here's an example of what would *not* work, and one that would.
 var containerEl = document.getElementsByClassName("person__container");
 
 // Nothing will happen here since there is nothing in the array
-containerEl.forEach(function (currentPerson) {
-  currentPerson.addEventListener("click", function (event) {
+for (var i = 0; i < containerEl.length; i++) {
+  containerEl[i].addEventListener("click", function (event) {
     // Logic to execute when the element is clicked
   });
 }
@@ -88,8 +88,6 @@ for (; counter < 5; counter++) {
   outputEl.innerHTML += `<div class="person__container" id="person--${counter}"></div>`;
 }
 ```
-
-> Refresh your knowledge of [forEach](https://github.com/nashville-software-school/front-end-milestones/blob/master/single-page-applications/resources/SP_JS_ARRAY_METHODS.md#advanced-array-methods)
 
 ##### Correct
 
@@ -105,11 +103,11 @@ for (; counter < 5; counter++) {
 var containerEl = document.getElementsByClassName("person__container");
 
 // Event listeners are created
-containerEl.forEach(function (currentPerson) {
-  currentPerson.addEventListener("click", function (event) {
+for (var i = 0; i < containerEl.length; i++) {
+  containerEl[i].addEventListener("click", function (event) {
     // Logic to execute when the element is clicked
   });
-}
+});
 
 ```
 
