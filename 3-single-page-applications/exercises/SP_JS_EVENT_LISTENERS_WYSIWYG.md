@@ -34,7 +34,7 @@ This is just a sample and is not what your final HTML will look like. You need t
 
 ```html
 <!-- ///
-  HTML is a flexible specification. I just made up the person tag, 
+  HTML is a flexible specification. I just made up the person tag,
   and that's perfectly legal. You can then style it with CSS however
   you wish.
 /// -->
@@ -72,11 +72,11 @@ Here's an example of what would *not* work, and one that would.
 
 ```js
 // containerEl will be an empty array
-var containerEl = document.getElementByClassName("person__container");
+var containerEl = document.getElementsByClassName("person__container");
 
 // Nothing will happen here since there is nothing in the array
-containerEl.forEach(function (currentPerson) {
-  currentPerson.addEventListener("click", function (event) {
+for (var i = 0; i < containerEl.length; i++) {
+  containerEl[i].addEventListener("click", function (event) {
     // Logic to execute when the element is clicked
   });
 }
@@ -89,8 +89,6 @@ for (; counter < 5; counter++) {
 }
 ```
 
-> Refresh your knowledge of [forEach](https://github.com/nashville-software-school/front-end-milestones/blob/master/single-page-applications/resources/SP_JS_ARRAY_METHODS.md#advanced-array-methods)
-
 ##### Correct
 
 ```js
@@ -102,14 +100,14 @@ for (; counter < 5; counter++) {
 }
 
 // Now containerEl will have elements in it
-var containerEl = document.getElementByClassName("person__container");
+var containerEl = document.getElementsByClassName("person__container");
 
 // Event listeners are created
-containerEl.forEach(function (currentPerson) {
-  currentPerson.addEventListener("click", function (event) {
+for (var i = 0; i < containerEl.length; i++) {
+  containerEl[i].addEventListener("click", function (event) {
     // Logic to execute when the element is clicked
   });
-}
+});
 
 ```
 
