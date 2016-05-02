@@ -72,7 +72,7 @@ Here's an example of what would *not* work, and one that would.
 
 ```js
 // containerEl will be an empty array
-var containerEl = document.getElementByClassName("person__container");
+var containerEl = document.getElementsByClassName("person__container");
 
 // Nothing will happen here since there is nothing in the array
 containerEl.forEach(function (currentPerson) {
@@ -102,7 +102,7 @@ for (; counter < 5; counter++) {
 }
 
 // Now containerEl will have elements in it
-var containerEl = document.getElementByClassName("person__container");
+var containerEl = document.getElementsByClassName("person__container");
 
 // Event listeners are created
 containerEl.forEach(function (currentPerson) {
