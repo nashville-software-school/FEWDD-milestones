@@ -34,7 +34,7 @@ This is just a sample and is not what your final HTML will look like. You need t
 
 ```html
 <!-- ///
-  HTML is a flexible specification. I just made up the person tag, 
+  HTML is a flexible specification. I just made up the person tag,
   and that's perfectly legal. You can then style it with CSS however
   you wish.
 /// -->
