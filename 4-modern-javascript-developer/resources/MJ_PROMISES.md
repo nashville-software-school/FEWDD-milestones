@@ -106,7 +106,7 @@ By separating each of the XHR calls into their own functions that return a promi
 
 ```js
 // This function does one thing, and returns a promise
-var firstXHR = function() {
+var firstAJAX = function() {
   return new Promise((resolve, reject) => {
     $.ajax({
       url: "https://nss-demo-instructor.firebaseio.com/songs.json"
@@ -119,7 +119,7 @@ var firstXHR = function() {
 };
 
 // This function does one thing, and returns a promise
-var secondXHR = function(result_of_firstXHR) {
+var secondAJAX = function(result_of_firstXHR) {
   return new Promise((resolve, reject) => {
     $.ajax({
       url: "https://nss-demo-instructor.firebaseio.com/more-songs-info.json",
@@ -133,7 +133,7 @@ var secondXHR = function(result_of_firstXHR) {
 };
 
 // This function does one thing, and returns a promise
-var thirdXHR = function(result_of_secondXHR) {
+var thirdAJAX = function(result_of_secondXHR) {
   return new Promise((resolve, reject) => {
     $.ajax({
       url: "https://nss-demo-instructor.firebaseio.com/song-details.json",
@@ -154,12 +154,14 @@ var thirdXHR = function(result_of_secondXHR) {
   promise. This is how you can chain promises, and dictate the
   order of execution of multiple aynschronous operations.
  */
-firstXHR()
+firstAJAX()
   .then(function(data1) {
-    return secondXHR(data1);
+    return secondAJAX(data1);
   })
   .then(function(data2) {
-    return thirdXHR(data2);
+    return thirdAJAX(data2);
+  }).then(function(data3){
+    console.log(data3);
   });
 ```
 
