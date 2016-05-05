@@ -11,6 +11,8 @@ npm init
 npm install gulp jshint gulp-sass gulp-jshint gulp-watch watchify browserify  vinyl-source-stream vinyl-buffer gulp-util gulp-sourcemaps jshint-stylish --save-dev
 ```
 
+Then, create a `gulpfile.js` in your project's root directory and paste this code into it.
+
 ##### gulpfile.js
 
 ```js
