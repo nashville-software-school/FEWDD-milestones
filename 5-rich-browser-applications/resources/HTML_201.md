@@ -25,8 +25,6 @@ Run the following commands.
 
 ```
 mkdir ~/workspace/handlebars && cd $_ #If you've switched to running from host machine
-mkdir /vagrant/handlebars && cd $_ #If you're still running Vagrant
-
 touch index.html
 
 mkdir javascripts

@@ -9,7 +9,7 @@ Talk about what Grunt does for modern front end developers.
  * Concatenate files
  * Other cool stuff
 
-In your Vagrant machine, run the command `which grunt`. You should see the output `/usr/local/bin/grunt`.  If you don't, execute the following command in yor Vagrant machine `sudo npm install grunt-cli -g`.
+Run the command `which grunt`. You should see the output `/usr/local/bin/grunt`.  If you don't, execute the following command in yor Vagrant machine `sudo npm install grunt-cli -g`.
 
 ## Web application code organization
 
@@ -18,7 +18,7 @@ Up until now, we've simply been putting all of our files into one directory. You
 First, in every project directory, you are going to create a few standard directories and files.
 
 ```bash
-mkdir -p /vagrant/requirejs && cd $_
+mkdir -p ~/workspace/requirejs && cd $_
 mkdir javascripts # Will store all of our JavaScript code
 mkdir styles # Will store all of our CSS
 mkdir lib # Will store all 3rd-party libraries

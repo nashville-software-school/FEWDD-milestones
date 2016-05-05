@@ -10,7 +10,7 @@ At its core, jQuery allows a developer to quickly obtain references to DOM eleme
 
 > **Term:** CDN is an acronym for Content Delivery Network which is a way for companies to distribute their code throughout the globe to strategic points, so that downloads are faster.
 
-1. Create the directory `/vagrant/jquery` and create an `index.html` file and a `script.js` file and link them together.
+1. Create the directory `~/workspace/jquery` and create an `index.html` file and a `script.js` file and link them together.
 1. Visit the [jQuery download page](https://jquery.com/download/#using-jquery-with-a-cdn) where you can copy the first line of code in that section. You do not need the one with the word `migrate` in it.
 1. Paste that into your HTML file above the script tag to your JavaScript file.
 1. Open your `script.js` file and add the following code

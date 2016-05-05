@@ -15,7 +15,7 @@ Add the following HTML to your jQuery DOM. Feel free to comment out all the othe
 Now create a new directory named `data`, and then create a new file named `songs.json`.
 
 ```bash
-cd /vagrant/jquery
+cd ~/workspace/jquery
 mkdir data
 touch data/songs.json
 ```

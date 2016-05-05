@@ -84,7 +84,7 @@
     gulp watch
 ```
 
-### In a Vagrant Terminal tab:
+### On the command line
 ```
     http-server
 ```

@@ -98,7 +98,7 @@ app.config(['$routeProvider',
 ]);
 ```
 
-What this does is make Angular now watch the values URL in the browser, and when it changes, it tries to match the pattern `/songs/list`. If it matches, it loads the HTML in our partial, and then binds that DOM to the `SongCtrl` controller. Try it out by putting this URL in your browser `http://localhost:8080/#/songs/list`, or if you're on your Vagrant machine `http://192.168.33.10:8080/#/songs/list`.
+What this does is make Angular now watch the values URL in the browser, and when it changes, it tries to match the pattern `/songs/list`. If it matches, it loads the HTML in our partial, and then binds that DOM to the `SongCtrl` controller. Try it out by putting this URL in your browser `http://localhost:8080/#/songs/list`.
 
 It should display your list of songs.
 
