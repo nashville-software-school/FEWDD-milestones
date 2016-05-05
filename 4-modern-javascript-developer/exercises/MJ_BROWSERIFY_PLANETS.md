@@ -34,4 +34,8 @@ You'll be creating a web page that will display important scientific data about 
     8. Name of any probes/orbiters/explorers that have visited or landed on that planet
 3. Create a main module that uses `require` to include each planet's module as a dependency and then subsequently calls the `outputTo()` method for each one, in the right order.
 
+## Bonus stretch goal
+
+Once you've got the basic implementation working, find a way to have the `outputTo()` only defined once, and still be able to output each planet's information to the DOM. It can't be defined in the **main** module.
+
 
