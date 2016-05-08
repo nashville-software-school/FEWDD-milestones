@@ -12,4 +12,4 @@ mkdir -p ~/workspace/exercises/mjd/sandwich && cd $_
 
 ## Instructions
 
-Convert your Sandwich Maker code to use CommonJS module pattern instead of the IIFE pattern and have a [Grunt/Gulp task](../resources/BROWSERIFY_GULPFILE.md) for compiling your modules.
+Convert your Sandwich Maker code to use CommonJS module pattern instead of the IIFE pattern and have a [Gulp task](../resources/BROWSERIFY_GULPFILE.md) for compiling your modules.
