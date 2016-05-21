@@ -14,7 +14,7 @@ Use JavaScript arrays and innerHTML to show the music you love.
 
 Students must use JavaScript to create arrays, modify them (using only the following methods: join, push, reverse, sort or unshift), and output lists to the DOM.
 
-1. Each student must create four separate arrays, one for songs, one for ablums, one for artists and one for genres.
+1. Each student must create four separate arrays, one for songs, one for albums, one for artists and one for genres.
 1. The song array should be initialized with 10 songs.
 1. Each subsequent array should hold the corresponding data (artist, album and genre).
 1. A genre input field should be added to the add song form.
