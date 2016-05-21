@@ -1,5 +1,8 @@
 # Very Large Array - Muscle Memory Exercise
 
+## Prerequisite
+Students should have music history 3 completed before attempting this muscle memory exercise.
+
 ## Setup
 
 1. Create a branch in your `musichistory` repository named `MM-arrays`.
