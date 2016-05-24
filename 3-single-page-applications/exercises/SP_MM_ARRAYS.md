@@ -18,7 +18,6 @@ Students must use JavaScript to create arrays, modify them (using only the follo
 1. The song array should be initialized with 10 songs.
 1. Each subsequent array should hold the corresponding data (artist and album).
     *For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise*
-1. A genre input field should be added to the add song form.
 1. An output should be added on the add song page, under the form, for each of the sections (songs, artists & albums).
 1. Add 10 more songs from the add song form.
     + Each song should be added to the end of the song array.
