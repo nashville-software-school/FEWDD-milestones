@@ -10,6 +10,8 @@ Students should have music history 3 completed before attempting this muscle mem
 
 ## Requirements
 
+`Muscle memory exercises are meant to improve your muscule memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
+
 Use JavaScript arrays and innerHTML to show the music you love.
 
 Students must use JavaScript to create arrays, modify them (using only the following methods: join, push, reverse, sort or unshift), and output lists to the DOM.
@@ -19,14 +21,24 @@ Students must use JavaScript to create arrays, modify them (using only the follo
 1. Each subsequent array should hold the corresponding data (artist and album).
     *For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise*
 1. An output should be added on the add song page, under the form, for each of the sections (songs, artists & albums).
-1. Add 10 more songs from the add song form.
+1. Each output section should have some sort of title or headline before it.
+1. Add 2 more songs from the add song form.
     + Each song should be added to the end of the song array.
     + Each artist should be added to the beginning of the artist array.
     + Each album should be added to the end of the album array.
 1. For each output element send the corresponding data as follows:
-    + Songs should output vertically down the page descending alphabetically.
-    + Artists should output exactly as they were added horizontally, separated by ` : `.
-    + Albums should output vertically down the page ascending alphabetically.
+    *   Output vertically descending alphabetically.
+    *   Output vertically ascending alphabetically.
+    *   Output vertically exactly as they were added.
+    *   Output vertically exactly as they were added, inverted.
+    *   Output horizontally descending alphabetically, separated by `, `.
+    *   Output horizontally ascending alphabetically, separated by ` >> `.
+    *   Output horizontally exactly as they were added, separated by ` : `.
+    *   Output horizontally exactly as they were added, inverted, separated by ` | `.
+1. Each output area should be separated by a headline tag.
+
+#### Bonus
+*   Handle both upper and lowercase inputs. The way this is accomplished is up to the student. Additional array methods may have to be employed to complete this bonus item.
 
 
 ## Merging your branch
