@@ -61,15 +61,17 @@ Use can use another kind of `for` loop to [iterate over objects](https://develop
 
 ```js
 var antSpecies = {
-  "argentine": {},
-  "army": {},
-  "big headed": {},
-  "black": {},
-  "bull": {},
-  "carpenter": {},
-  "crazy": {},
-  "fire": {},
-  "glider": {},
-  "honey pot": {},
-  "jack jumper": {}
+  argentine: {},
+  army: {},
+  bigHeaded: {},
+  black: {},
+  bull: {},
+  carpenter: {},
+  crazy: {},
+  fire: {},
+  glider: {},
+  honeyPot: {},
+  jackJumper: {}
 }
+```
+
