@@ -28,7 +28,7 @@ Students must use JavaScript to create arrays, modify them (using only for loops
     *   Output horizontally exactly as they were added, separated by ` : `.
     *   Output horizontally exactly as they were added, inverted, separated by ` | `.
 1. Add a couple of songs in the add song form and make sure your loop logic works.
-    *For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise*
+    -   For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise
 
 #### Bonus
 *   Handle both upper and lowercase inputs. The way this is accomplished is up to the student. Additional array methods may have to be employed to complete this bonus item.

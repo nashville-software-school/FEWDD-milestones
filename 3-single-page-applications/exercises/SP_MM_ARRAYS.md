@@ -19,7 +19,7 @@ Students must use JavaScript to create arrays, modify them (using only the follo
 1. Each student must create three separate arrays, one for songs, one for albums, and one for artists.
 1. The song array should be initialized with 10 songs.
 1. Each subsequent array should hold the corresponding data (artist and album).
-    `For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise`
+    - For this exercise make sure each song is from a unique artist and album. We will deal with multiples in a later exercise
 1. An output should be added on the add song page, under the form, for each of the sections (songs, artists & albums).
 1. Each output section should have some sort of title or headline before it.
 1. Add 2 more songs from the add song form.
