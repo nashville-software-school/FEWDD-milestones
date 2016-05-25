@@ -14,7 +14,7 @@ Students should have music history 3 completed before attempting this muscle mem
 
 Use JavaScript arrays and innerHTML to show the music you love.
 
-Students must use JavaScript to create arrays, modify them (using only the following methods: join, push, reverse, sort or unshift), and output lists to the DOM.
+Students must use JavaScript to create arrays, modify them (using only the following methods: join, push, reverse, sort, concat and unshift), and output lists to the DOM.
 
 1. Each student must create three separate arrays, one for songs, one for albums, and one for artists.
 1. The song array should be initialized with 10 songs.
