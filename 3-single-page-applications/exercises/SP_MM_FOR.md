@@ -1,7 +1,7 @@
 # For The Love Of Loops - Muscle Memory Exercise
 
 ## Prerequisite
-Students should have Very Large Array[SP_MM_ARRAYS.md] completed before attempting this muscle memory exercise.
+Students should have [Very Large Array](SP_MM_ARRAYS.md) completed before attempting this muscle memory exercise.
 
 ## Setup
 

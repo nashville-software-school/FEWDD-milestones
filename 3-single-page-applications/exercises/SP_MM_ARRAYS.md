@@ -1,7 +1,7 @@
 # Very Large Array - Muscle Memory Exercise
 
 ## Prerequisite
-Students should have music history 3 completed before attempting this muscle memory exercise.
+Students should have [music history 3](SP_JS_MUSIC_HISTORY_3.md) completed before attempting this muscle memory exercise.
 
 ## Setup
 
