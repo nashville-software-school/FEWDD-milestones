@@ -34,6 +34,7 @@ Students must use JavaScript to create arrays, modify them (using only for loops
 *   Handle both upper and lowercase inputs. The way this is accomplished is up to the student. Additional array methods may have to be employed to complete this bonus item.
 *   Try to output each section using just one for loop for each section.
 *   Try to achieve the same results using just one for loop for all three sections.
+*   Handle extra punctuation at the end of a list.
 
 
 ## Merging your branch
