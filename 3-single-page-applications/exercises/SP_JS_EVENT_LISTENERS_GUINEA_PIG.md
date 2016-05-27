@@ -1,4 +1,4 @@
-# Basic Array Methods
+# The Guinea Pig
 
 ## Setup
 
