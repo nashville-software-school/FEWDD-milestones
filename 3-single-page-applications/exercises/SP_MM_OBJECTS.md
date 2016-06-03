@@ -23,12 +23,10 @@ Students must use JavaScript to filter objects, modify them, and output lists to
 1. Use for loops to populate the DOM on the add song section.
 1. Each song should be displayed as follows:
 
-        ```
-        Song Title
-        Artist
-        Album
-        Genre
-        ```
+    >  Song Title
+    >  Artist
+    >  Album
+    >  Genre
 
 1. When a song is added it shoud be added not only to the DOM but to the array of objects as well.
 
