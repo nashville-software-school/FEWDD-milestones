@@ -8,12 +8,22 @@
 
 ### Using Firebase references
 
-In the [Firebase Overview](https://www.firebase.com/docs/web/quickstart.html) documentation, there is a CDN link you can use in your Music History application. Add that to your HTML.
+In the [Firebase Setup](https://firebase.google.com/docs/web/setup#add_firebase_to_your_app) there are instructions on how to get CDN and app setup information for your Firebase app. After clicking 'Add Firebase to your web app' on your project's Firebase main page, copy the CDN link into your HTML, and copy the JavaScript snippet into your JavaScript to initialize your app.
+
+```js
+var config = {
+  apiKey: "apiKey",
+  authDomain: "projectId.firebaseapp.com",
+  databaseURL: "https://databaseName.firebaseio.com"
+};
+
+firebase.initializeApp(config);
+```
 
 Then, in your JavaScript, you can create what's called a Firebase Reference.
 
 ```js
-var myFirebaseRef = new Firebase("https://<YOUR-FIREBASE-APP>.firebaseio.com/");
+var myFirebaseRef = firebase.database().ref();
 ```
 
 You will use this reference for authentication
