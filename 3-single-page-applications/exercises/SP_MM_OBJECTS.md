@@ -10,9 +10,9 @@ Students should have [Music History 4](SP_JS_MUSIC_HISTORY_4.md) & [For The Love
 
 ## Requirements
 
-`Muscle memory exercises are meant to improve your muscule memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
+`Muscle memory exercises are meant to improve your muscle memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
 
-Use JavaScript objects and innerHTML to show the music you love.
+Use JavaScript objects, for loops and innerHTML to show the music you love.
 
 Students must use JavaScript to filter objects, modify them, and output lists to the DOM. Use the three separate arrays created in the Very Large Array exercise to build objects.
 
@@ -27,7 +27,7 @@ Students must use JavaScript to filter objects, modify them, and output lists to
     >  Album  
     >  Genre  
 
-1. Write four more functions that use for loops to populate the DOM on the add song section for each of the for categories (song title, artist, album & genre).
+1. Write four more functions that use for loops to populate the DOM on the add song section for each of the four categories (song title, artist, album & genre).
 
 #### Bonus
 *   Refactor your code to accomplish the same results using only one function and one for loop.
