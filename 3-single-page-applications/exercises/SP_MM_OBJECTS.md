@@ -14,24 +14,23 @@ Students should have [Music History 4](SP_JS_MUSIC_HISTORY_4.md) & [For The Love
 
 Use JavaScript objects and innerHTML to show the music you love.
 
-Students must use JavaScript to filter objects, modify them, and output lists to the DOM.
+Students must use JavaScript to filter objects, modify them, and output lists to the DOM. Use the three separate arrays created in the Very Large Array exercise to build objects.
 
-1. Using the three separate arrays you created in the Very Large Array exercise code the following functionality.
 1. Create a new empty array called `songObjects`.
-1. For each song in your previous array create an object that includes the song title, artist, album and genre.
+1. For each song in your previous song title array create an object that includes the song title, artist, album and genre.
 1. Add a genre input to the add song section in the `index.html` file.
-1. Use for loops to populate the DOM on the add song section.
-1. Each song should be displayed as follows:
+1. When a song is added it shoud be added not only to the DOM but to the array of objects as well.
+1. Write a function that uses a for loop to populate the DOM on the add song section as follows:
 
     >  Song Title  
     >  Artist  
     >  Album  
     >  Genre  
 
-1. When a song is added it shoud be added not only to the DOM but to the array of objects as well.
+1. Write four more functions that use for loops to populate the DOM on the add song section for each of the for categories (song title, artist, album & genre).
 
 #### Bonus
-*   
+*   Refactor your code to accomplish the same results using only one function and one for loop.
 
 
 ## Merging your branch
