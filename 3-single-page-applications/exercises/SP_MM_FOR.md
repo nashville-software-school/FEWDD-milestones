@@ -10,7 +10,7 @@ Students should have [Very Large Array](SP_MM_ARRAYS.md) completed before attemp
 
 ## Requirements
 
-`Muscle memory exercises are meant to improve your muscule memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
+`Muscle memory exercises are meant to improve your muscle memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
 
 Use JavaScript arrays and innerHTML to show the music you love.
 

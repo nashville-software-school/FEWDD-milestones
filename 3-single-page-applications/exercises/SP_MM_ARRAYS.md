@@ -10,7 +10,7 @@ Students should have [music history 3](SP_JS_MUSIC_HISTORY_3.md) completed befor
 
 ## Requirements
 
-`Muscle memory exercises are meant to improve your muscule memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
+`Muscle memory exercises are meant to improve your muscle memory for important javascript concepts. While doing these exercises try to minimize, if not eliminate copying and pasting.`
 
 Use JavaScript arrays and innerHTML to show the music you love.
 
