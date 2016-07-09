@@ -6,7 +6,7 @@
 
 ## Functions and Modules
 
-1. Introduction to [callbacks](https://s3.amazonaws.com/nss-lecture-videos/Callback+Functions.mp4)
+1. Introduction to [callbacks](https://s3.amazonaws.com/nss-lecture-videos/callback-functions.mp4)
 1. Intro to [IIFE](https://s3.amazonaws.com/nss-lecture-videos/IIFE+Intro.mp4) pattern to modularize your code.
 1. [Augmented](https://s3.amazonaws.com/nss-lecture-videos/IIFE+Augmentation.mp4) IIFE pattern to make your modules follow the Single Responsibility Principle.
 1. Using [callbacks in the IIFE pattern](https://s3.amazonaws.com/nss-lecture-videos/XHR+and+Callbacks.mp4) to implement asynchronous operations.
