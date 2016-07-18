@@ -95,3 +95,7 @@ The code between the `<<<<<<<<` decorator and the `========` decorator is the co
 Once the code looks good, you will need to add and commit the resolved file.
 
 > **Note:** Sometimes when you commit after you resolve merge conflicts, you'll get thrown into vim with a default merge message. You can just accept the default message and press `:x` and then press the enter key.
+
+# Additional Resources
+
+[Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
