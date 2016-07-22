@@ -1,4 +1,4 @@
-# Solar System IIFE
+# Solar System
 
 ## Setup
 
@@ -17,7 +17,7 @@ touch array-methods.js
 ```javascript
 var planets = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"];
 
-/* 
+/*
  Use the forEach method to add the name of each planet
  to a div element in your HTML with an id of "planets".
 */
