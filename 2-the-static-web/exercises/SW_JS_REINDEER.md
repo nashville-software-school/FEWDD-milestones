@@ -15,8 +15,7 @@ touch reindeer.js
 Paste the following code into the `<body>` of the HTML file.
 
 ```
-<div id="reindeer">
-</div>
+<div id="coloredReindeer"></div>
 ```
 
 Paste the following code into your JavaScript file.
