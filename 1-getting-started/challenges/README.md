@@ -17,7 +17,7 @@ There's a plugin called [autojump](https://github.com/joelthelion/autojump) that
 # Challenge \#3
 
 Using [bash aliases](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html), create an alias for the following commands.
-    1. `git checkout `
-    1. `git push origin `
-    1. `git status`
-    1. `git fetch --all`
+  1. `git checkout `
+  1. `git push origin `
+  1. `git status`
+  1. `git fetch --all`
