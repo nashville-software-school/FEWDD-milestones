@@ -1,6 +1,6 @@
 # Using LiveReload
 
-The Grunt `watch` task has a handy feature bakes right into it. It's called livereload. By using it, you can force your browser to reload whenever any file that is being watched is changed.
+The Grunt `watch` task has a handy feature baked right into it. It's called livereload. By using it, you can force your browser to reload whenever any file that is being watched is changed.
 
 * When you change SASS, it is transpiled into CSS and the browser reloads automatically so you can see your changes.
 * When you change JavaScript, it is verified and the browser reloads automatically so the new logic is executed.

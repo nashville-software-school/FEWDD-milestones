@@ -50,7 +50,7 @@ Replace the contents of `package.json` file with the following configuration cod
 }
 ```
 
-In the CLI, make sure you are still in the `lib` directory. Now run `npm install` to install all those packages.
+Make sure you are still in the `lib` directory. Now run `npm install` to install all those packages.
 
 > **Windows users:** If you are running Windows, you may need to run `npm install --no-bin-link` instead so that no symlinks are created in the process (Windows no like symlinks).
 
@@ -83,7 +83,7 @@ module.exports = function(grunt) {
 };
 ```
 
-This configures one task, `jshint`, for Grunt to run. To run Grunt and execute that task, just run the `grunt` command in your CLI.
+This configures one task, `jshint`, for Grunt to run. To start your first automation, just run the `grunt` command in the same directory that contains the Gruntfile.
 
 ### Watching Files
 
