@@ -11,18 +11,16 @@ Talk about what Grunt does for modern front end developers.
 
 Run the command `which grunt`. You should see the output `/usr/local/bin/grunt`.  If you don't, execute the following command in yor Vagrant machine `sudo npm install grunt-cli -g`.
 
-## Web application code organization
+## Working with 3rd Party Libraries
 
 Up until now, we've simply been putting all of our files into one directory. You are about to start building much more complex applications, and this requires a bit more organization - not just at the code level, but also at the file system level.
 
-First, in every project directory, you are going to create a few standard directories and files.
+First, in every project directory, you are going to create a `lib` subdirectory. The purpose of this directory is to hold all third-party libraries that are needed for you application.
+
+To start using Grunt, you need a `Gruntfile.js` file. This will contain all of the task configuration needed to automate your workflow.
 
 ```bash
-mkdir -p ~/workspace/requirejs && cd $_
-mkdir javascripts # Will store all of our JavaScript code
-mkdir styles # Will store all of our CSS
 mkdir lib # Will store all 3rd-party libraries
-touch .gitignore # Tells git which files should not be tracked
 touch lib/Gruntfile.js # Task automation script
 ```
 
@@ -56,33 +54,54 @@ In the CLI, make sure you are still in the `lib` directory. Now run `npm install
 
 > **Windows users:** If you are running Windows, you may need to run `npm install --no-bin-link` instead so that no symlinks are created in the process (Windows no like symlinks).
 
+## Automating JavaScript Syntax Validation
+
 Next, open `Gruntfile.js` and put in the following code.
 
 ```js
 module.exports = function(grunt) {
 
+  // The `matchdep` package configuration, short for `match dependencies`,
+  // looks in your node_modules directory and finds any npm package that
+  // begins with `grunt-`. It will then load those packages for execution.
+  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+
+
+  // The initConfig method is where you will configure a series
+  // of tasks that you want Grunt to automatically run for you
   grunt.initConfig({
     jshint: {
       files: ['../javascripts/**/*.js']
     },
   });
 
-  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+
+  // Set up the default Grunt task. The default task is executed
+  // when you type `grunt`, without any additional parameters in the 
+  // command line.
   grunt.registerTask('default', ['jshint']);
 };
 ```
 
-What we've configured one task, `jshint`, for Grunt to run. To run Grunt and execute that task, just run the `grunt` command in your CLI.
+This configures one task, `jshint`, for Grunt to run. To run Grunt and execute that task, just run the `grunt` command in your CLI.
 
-### Watching files and running a task automatically
+### Watching Files
+
+You can configure Grunt to run continuously, and watch for changes to any file in a directory, and then perform a task when a file is changed. This is helpful for our `jshint` task. Any time you change a JavaScript file, Grunt will detect the change and immediate check your syntax without you having to switch to the terminal and typing in `grunt`.
 
 ```js
 module.exports = function(grunt) {
+
+  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 
   grunt.initConfig({
     jshint: {
       files: ['../javascripts/**/*.js']
     },
+
+    // Adding a watch task. When any file that matches the pattern(s)
+    // in the `files` key changes, Grunt will automatically start the
+    // jshint task
     watch: {
       javascripts: {
         files: ['../javascripts/**/*.js'],
@@ -91,24 +110,8 @@ module.exports = function(grunt) {
     }
   });
 
-  require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
+
   grunt.registerTask('default', ['jshint', 'watch']);
 };
 ```
 
-## Bower
-
-Bower is a package manager, like `npm`, but for front end development tooling that we use to build web applications. One of the main benefits of Bower is that installation of requires components for your application can now be automated during the build process (Travis, Jenkins, etc.). Using Bower, you never check third-party libraries into **your** codebase, but rather install them during the build process.
-
-Once again, make sure you are in the `lib` directory, since these are 3rd-party dependencies.
-
-1. `bower init`
-1. `bower install jquery --save`
-1. `bower install requirejs --save`
-1. `bower install bootstrap --save`
-
-Note the `--save` flag after the command. What this does is write the name and version of the library that you just installed into the `bower.json` file. Open that file to see what was recorded.
-
-These command will put the libraries, pulled from Github usually, into a `bower_components` directory. You then can include them in your html with the appropriate path. For example...
-
-`<script src="./lib/bower_components/jquery/dist/jquery.min.js`
