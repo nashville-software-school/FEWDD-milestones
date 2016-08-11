@@ -4,7 +4,7 @@
 
 ### [AJAX](MJ_JQUERY_AJAX.md)
 
-### [Browserify & Gulpfile](MJ_BROWSERIFY_GULPFILE.md)
+### [Browserify & Gruntfile](MJ_BROWSERIFY_GRUNTFILE.md)
 
 ### [Introduction to jQuery](MJ_JQUERY_INTRODUCTION.md)
 
