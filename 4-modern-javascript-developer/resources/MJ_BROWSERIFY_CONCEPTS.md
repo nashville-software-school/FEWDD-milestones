@@ -137,15 +137,15 @@ module.exports = divide;
 
 Now that you've got all of the modules needed for your application, it's time to stitch them together.
 
-Go ahead and create a `gulpfile.js` in the root directory for your project, and follow the instructions in the [Browserify Gulpfile](./MJ_BROWSERIFY_GULPFILE.md) resource file.
+Go ahead and create a `Gruntfile.js` in the root directory for your project, and follow the instructions in the [Browserify Gruntfile](./MJ_BROWSERIFY_GRUNTFILE.md) resource file.
 
-Once all the packages are installed and your Gulp file has the instructions, you can try to build your application. Go to the CLI in the root project folder and run the following command.
+Once all the packages are installed and your Grunt file has the instructions, you can try to build your application. Go to the CLI in the root project folder and run the following command.
 
 ```bash
-gulp
+grunt
 ```
 
-This will create a `bundle.js` file in the `dist` folder. If you encounter any error when Gulp runs, or the bundle file does not get created, talk to an instructor.
+This will create a `bundle.js` file in the `dist` folder. If you encounter any error when Grunt runs, or the bundle file does not get created, talk to an instructor.
 
 ## Running your application
 

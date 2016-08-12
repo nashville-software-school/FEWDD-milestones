@@ -46,7 +46,10 @@ Create a checkers game using only jQuery to manipulate the DOM. Augment your jav
 
 For the truly brave.
 
-Develop a process that lets you automate the running of your unit tests with a Gulp task. You could start by looking at the [gulp-jasmine](https://www.npmjs.com/package/gulp-jasmine) npm package. You'll need Browserify and a few other tools in order to get it working. It will require a lot of Googling and reading articles because it is **not** a straightforward, or easy, task.
+Develop a process that lets you automate the running of your unit tests with a Grunt task. You could start by looking at the [grunt--contrib-jasmine](https://www.npmjs.com/package/grunt-contrib-jasmine) npm package. You'll need Browserify and a few other tools in order to get it working. It will require a lot of Googling and reading articles because it is **not** a straightforward, or easy, task.  
+
+This article may prove helpful:
+[Testing a Browserify Project With Jasmine and Grunt](http://dapperdeveloper.com/2015/01/21/testing-a-browserify-project-with-jasmine-and-grunt/)
 
 <a id="challenge-3"></a>
 # Individual Challenge \#3

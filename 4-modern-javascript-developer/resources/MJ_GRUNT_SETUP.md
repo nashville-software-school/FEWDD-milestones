@@ -2,14 +2,16 @@
 
 ## Install Grunt
 
-Talk about what Grunt does for modern front end developers.
+Grunt is a widely used task runner tool. It can be configured to handle a number of jobs for you.
 
  * Checking code for errors
- * Uglify code
+ * Uglify code (minifying it by removing all the white space)
  * Concatenate files
  * Other cool stuff
 
-Run the command `which grunt`. You should see the output `/usr/local/bin/grunt`.  If you don't, execute the following command in yor Vagrant machine `sudo npm install grunt-cli -g`.
+ It's like a second set of hands to do necessary, but boring and repetitive tasks that needs to happen when building a modern application.
+
+Run the command `which grunt`. If you see the output `/usr/local/bin/grunt`, your instructor planned ahead and had you install it earlier. You're good to go. If not, you need to install the Grunt command line interface: `npm install -g grunt-cli`
 
 ## Working with 3rd Party Libraries
 
@@ -77,7 +79,7 @@ module.exports = function(grunt) {
 
 
   // Set up the default Grunt task. The default task is executed
-  // when you type `grunt`, without any additional parameters in the 
+  // when you type `grunt`, without any additional parameters in the
   // command line.
   grunt.registerTask('default', ['jshint']);
 };
