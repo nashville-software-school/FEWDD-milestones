@@ -1,7 +1,7 @@
 # Multi-purpose Gruntfile
 
 ## JSLint, SASS, and Browserify
-_Do not use this Gruntfile until you first have a clear grasp of how each of these individual tasks works:
+Do not use this Gruntfile until you first have a clear grasp of how each of these individual tasks works:
 + [JSHint with watcher](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/resources/MJ_GRUNT_SETUP.md)
 + [SASS](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/resources/MJ_GRUNT_SASS.md)
 + [Live reload](https://github.com/nashville-software-school/front-end-milestones/blob/master/4-modern-javascript-developer/resources/MJ_GRUNT_LIVERELOAD.md)
