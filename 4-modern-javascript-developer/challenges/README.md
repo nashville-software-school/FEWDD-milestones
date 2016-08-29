@@ -10,4 +10,4 @@
 
 ## Team Challenges
 
-1. [Phaser](MJ_TEAM_CHALLENGES.md#challenge-1)
+1. [Phaser](TEAM_CHALLENGES.md)
