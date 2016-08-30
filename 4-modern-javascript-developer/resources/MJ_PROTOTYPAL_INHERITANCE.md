@@ -129,7 +129,7 @@ Now, no matter what specific kind of Pizza you create - DeepDish or ThinCrust - 
 var gameDayPizza = new DeepDish();
 
 // Create a Topping
-var pepperoni = new Pepperoni()l
+var pepperoni = new Pepperoni();
 
 // Add the Topping to the Pizza
 gameDayPizza.toppings.push(pepperoni); // Now we have a pepperoni pizza
