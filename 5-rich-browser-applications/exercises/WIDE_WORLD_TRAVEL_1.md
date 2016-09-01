@@ -70,7 +70,7 @@ Add the follow data to `guides.json`. You will need to display all three pieces 
   }]
 }
 ```
-Remember to also add a `.gitignore` and `.jshintrc` to the project root folder.
+Remember to also add a `.gitignore` to the project root folder.
 
 cd into `lib` and run `npm init` then install all of your dependencies for your task runner. Remember to use the `--save-dev` flag to add them to your `package.json` file.
 
