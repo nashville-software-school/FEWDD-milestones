@@ -17,7 +17,7 @@ $("#container").append("<div>" + widgetInfo + "</div>");
 Now, you're going to completely reverse the responsiblity. No longer are you going to use JavaScript to build DOM. Rather, you're going to build HTML and pull in JavaScript variables.
 
 You'll be using a JavaScript library called [Handlebars](http://handlebarsjs.com/) to accomplish this.
-
+Here's a gentle [introduction](https://drive.google.com/open?id=1Adva2LiT-_z6vu_R3RyPML2FP0tMc9aS0g8MNhTIplw) in a slide deck.
 
 # Handlebars Part 1
 
@@ -111,7 +111,7 @@ var entryData = {
 // Grab the HTML from the appropriate <script> tag in index.html
 var entryHTML = $("#entry-template").html();
 
-// Use Handlebars to compile it into a template. Once it's a 
+// Use Handlebars to compile it into a template. Once it's a
 // Handlebars template, you can bind data to it.
 var entryTemplate = Handlebars.compile(entryHTML);
 
@@ -285,7 +285,7 @@ HandlebarRenderer.prototype.load = function (tplName, tplData, cb) {
 
   if ( !this.isCached(tplName) ) {
     var templateDirectory = '/templates';
-    var tplUrl = templateDirectory + '/' + tplName + '.html'; 
+    var tplUrl = templateDirectory + '/' + tplName + '.html';
 
     console.log(`Loading ${tplName} template`);
 
@@ -309,7 +309,7 @@ HandlebarRenderer.prototype.loadPartial = function (tplName, partialData, cb) {
 
   if ( !this.isCached(tplName) ) {
     var partialDirectory = '/templates/partials';
-    var tplUrl = partialDirectory + '/' + tplName + '.html'; 
+    var tplUrl = partialDirectory + '/' + tplName + '.html';
 
     console.log(`Loading ${tplName} partial`);
 

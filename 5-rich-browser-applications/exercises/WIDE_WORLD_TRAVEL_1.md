@@ -70,11 +70,11 @@ Add the follow data to `guides.json`. You will need to display all three pieces 
   }]
 }
 ```
-Remember to also add a `.gitignore` and `.jshintrc` to the project root folder.
+Remember to also add a `.gitignore` to the project root folder.
 
-cd into `lib` and run `npm init` then install all of your dependencies for your task runner. Remember to use the `--save-dev` flag to add them to your `package.json` file.
+cd into `lib` and run `npm init` then install all of your dependencies for your task runner. Remember to use the `--save-dev` flag to add them to your `package.json` file. Also run `bower init` to create a bower.json file.
 
-Install Angular with `npm install angular` (or bower? and bower init?). Remember to add the script tag for angular to `index.html`.
+Install Angular with `bower install angular`. Remember to add the script tag for angular to `index.html`.
 
 Now you have the basic structure in place to display your book data in the DOM the Angular Way.
 
