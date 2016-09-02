@@ -12,7 +12,7 @@ For this exercises, you're going to create a basic application, with a single vi
 
 The radio buttons should be labeled *Poisonous* and *Non-poisonous*.
 
-When the user type is **any** text into the text box, the list of mushrooms should be filtered down to any mushrooms whose description contains that text.
+When the user types **any** text into the text box, the list of mushrooms should be filtered down to any mushrooms whose description contains that text.
 
 When the user clicks either of the radio buttons, only the appropriate mushrooms should be displayed.
 
