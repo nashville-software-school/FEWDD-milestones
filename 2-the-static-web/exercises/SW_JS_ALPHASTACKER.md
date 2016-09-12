@@ -2,19 +2,24 @@
 
 ## Instructions
 
-For this exercise, you need to create a single JavaScript function named `stackLetters` that will use `console.log()` to print out letter in the alphabet to the browser console.
+For this exercise, you need to create a single JavaScript function named `stackLetters` that will use `console.log()` to print out letters in the alphabet to the browser console.
 
-1. If you haven't done so yet, create the `workspace/exercises/alpha-stacker` directory structure in your home folder.
+1. If you haven't done so yet, create the `workspace/exercises/alpha-stacker` directory structure in your home directory. Open your terminal and enter in the following command.
+
     ```
     mkdir -p ~/workspace/exercises/alpha-stacker
     ```
-1. Move yourself to that new directory
+
+1. Now that you have created the directory, you want to change to that directory so that you can add files to it.
+
     ```
     cd ~/workspace/exercises/alpha-stacker
     ```
+
 1. Create an `index.html` file with the [touch](http://www.linfo.org/touch.html) command.
 1. Create an `alpha-stacker.js` file with the touch command.
 1. Copy the following code and paste it into the `index.html` file. Notice that the `alpha-stacker.js` file is properly linked so that when you load this HTML file in a web browser, the logic in that file will be executed.
+
     ```
     <!DOCTYPE html>
     <html>
@@ -27,6 +32,7 @@ For this exercise, you need to create a single JavaScript function named `stackL
     </body>
     </html>
     ```
+    
 1. Open the `index.html` file in your web browser.
 1. At this point, you will simply see a blank web page because you have no content in the HTML file. Open your developer tools using the *Option+Command+I* keyboard shortcut.
 1. At the top of the developer tools panel, you will see the word *Console*. Click on that word. The `console.log()` statement will output any message into this panel in your developer tools. You can try it out immediately by clicking in the Console panel, and typing `console.log("Hello, world!")`, and then pressing your return key.
