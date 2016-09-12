@@ -32,7 +32,7 @@ For this exercise, you need to create a single JavaScript function named `stackL
     </body>
     </html>
     ```
-    
+
 1. Open the `index.html` file in your web browser.
 1. At this point, you will simply see a blank web page because you have no content in the HTML file. Open your developer tools using the *Option+Command+I* keyboard shortcut.
 1. At the top of the developer tools panel, you will see the word *Console*. Click on that word. The `console.log()` statement will output any message into this panel in your developer tools. You can try it out immediately by clicking in the Console panel, and typing `console.log("Hello, world!")`, and then pressing your return key.
@@ -73,7 +73,7 @@ stackLetters(alphabet)
 
 Then add logic to `stackLetters` that places a space after every third letter. This will require you to do some basic math in JavaScript, and use an `if` statement.
 
-Convert the following English statement into JavaScript.
+Your job is to read the following English statement and write the equivalent in JavaSript code to make it work.
 
 > If the current value of the [counter variable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for) can be evenly divided by 3 - using the JavaScript [remainder](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder) operator - then add a single space to the output.
 
