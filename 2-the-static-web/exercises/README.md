@@ -1,5 +1,3 @@
-# Mastery Exercises (required)
-
 ## HTML
 
 1. [Blog page](SW_HTML_BLOG.md)
