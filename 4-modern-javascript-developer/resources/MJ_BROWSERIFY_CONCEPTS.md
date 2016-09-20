@@ -152,10 +152,10 @@ This will create a `bundle.js` file in the `dist` folder. If you encounter any e
 Before you run the application, let output some information to the console. Open up `main.js` and put in some `console.log()` statments.
 
 ```js
-console.log("add 9 10", MathModule.add(9, 10));
-console.log("subtract 10 9", MathModule.subtract(10, 9));
+console.log("add 9 10", MyCalculator.add(9, 10));
+console.log("subtract 10 9", MyCalculator.subtract(10, 9));
 
-console.log("MathModule", MathModule);
+console.log("MyCalculator", MyCalculator);
 ```
 
 Now just include your bundled file in your HTML and run it in your browser.
