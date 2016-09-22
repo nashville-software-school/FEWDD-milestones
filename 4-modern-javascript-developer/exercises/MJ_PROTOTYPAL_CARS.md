@@ -24,41 +24,28 @@ function Car () {
 }
 
 /*
-  Create a constructor function named Make with one 
-  argument that will hold the manufacturer of the Make (see below). 
-
-  Set its prototype to a new instance of the Car function.
-
-  Define a property `manufacturer` and assign the 
-  manufacturer property to the argument value.
- */
-function Make (maker) {
-  this.manufacturer = maker;
-}
-// Set the prototype to Car
-
-/*
   1. Create a new constructor function for the make of your favorite car.
-  2. It must inherit from the general Make function.
-  3. It must have one argument that will to hold the model name.
-  4. The constructor must define a property to hold the model name.
+  2. It must inherit from the more general Car object.
+  3. Give it one property, named manufacturer, that holds a string value. 
+         For, example, this.manufacturer = "Ford".
  */
-function YourFavoriteMake (name) {
-  this.modelName = name;
+function YourFavoriteMake () {
+  // Define the manufacturer instance variable
 }
-YourFavoriteMake.prototype = new Make(...);
+// Set the prototype to a new Car instance
+
 
 /*
-    1. Create a constructor function named after your favorite car model.
-    2. It must inherit from the specific make type you created in previous step.
-    3. When creating the inheritance relationship, pass in the model name
-       to the make constructor function
+  1. Create a constructor function named after your favorite car model.
+  2. It must inherit from the specific make type you created in previous step.
+  3. Create some instance properties that are specific to the specific
+        car model (e.g. horsepower, cargo capacity, etc.)
 */
 function YourFavoriteModel () {
 
 }
 // Set the prototype to appropriate model you created above and set the model name argument
-YourFavoriteModel.prototype = new YourFavoriteMake(...);
+YourFavoriteModel.prototype = new ???;
 
 /*
     Being an avid car collector, you own three different cars all of
@@ -68,5 +55,29 @@ YourFavoriteModel.prototype = new YourFavoriteMake(...);
     2. Create a new property on each object to hold the license plate
        number for each car.
 */
+var myFirstFavoriteCar = new ???;
+myFirstFavoriteCar.plate_number = "";
+...
+
+
+/*
+  Now let's see some power of prototypal inheritance. Create a function for
+  another model that's made by the manufacturer as your previous car. So if
+  your first model was Fusion, make another one here for F150, for example.
+ */
+function AnotherModel () {
+
+}
+/*
+  Assign the prototype to the make you define above. Now both models will
+  inherit the `manufacturer` property from the make function.
+ */
+
+
+
+/*
+  Now create an instance of this new car model to put in your garage. Remember
+  to give it a plate number.
+ */
 ```
 
