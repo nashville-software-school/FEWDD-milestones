@@ -2,7 +2,7 @@
 
 1. [Blog page](SW_HTML_BLOG.md)
 1. [Banking application form](SW_HTML_BANKING_FORM.md)
-1. [Personal bio site](SW_HTML_PERSONAL_BIO.md)
+1. [HTML CSS Product Cards](SW_HTML_CSS__PRODUCT_CARDS.md )
 
 ## CSS
 
@@ -12,6 +12,7 @@
 1. [Interactive navigation bar](SW_CSS_INTERACTIVE_NAVIGATION.md)
 1. [Pseudo-classes](SW_CSS_PSEUDOCLASSES.md)
 1. [Music History 01](SW_MUSIC_HISTORY_01.md)
+1. [CSS Zen Garden Challenge](SW_CSS_ZEN_GARDEN.md)
 
 ## JavaScript
 
