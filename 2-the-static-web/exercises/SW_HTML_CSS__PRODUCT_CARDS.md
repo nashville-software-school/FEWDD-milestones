@@ -17,7 +17,7 @@ All of your work should be on a branch, NOT on master. To do this, type:
 ```bash
 git checkout -b exercise
 touch index.html
-mkdir css && touch css/quiz.css
+mkdir css && touch css/style.css
 mkdir images
 ```
 
