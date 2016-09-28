@@ -2,7 +2,7 @@
 
 Visit http://www.csszengarden.com/ and explore some of the designs.
 
-You will create your own version of the CSS Zen Garden. Download the HTML and CSS files from the site. The only rule: you may change the CSS; not the HTML.
+You will create your own version of the CSS Zen Garden. Download the HTML and CSS files from the site. The only rule: you may only change the CSS; not the HTML. 
 
 
 ## Setup
