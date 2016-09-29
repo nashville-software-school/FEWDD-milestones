@@ -30,7 +30,7 @@ Show students how to inspect specific elements on a page, add attributes, and ev
 
 ### Inspecting and modifying CSS
 
-Show students how they can tweak the design of their webpages right in the browser, which they can then copy pasta back into their code.
+Show students how they can tweak the design of their webpages right in the browser, which they can then copy paste back into their code.
 
 ### Network traffic
 
