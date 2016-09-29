@@ -8,16 +8,16 @@ If you are using Windows have the Git Bash package installed, since you'll be le
 
 ## Basic commands
 
-1. Learn how to navigate your computer's directory structure `cd`
-1. Show where you are `pwd`
-1. Create directory `mkdir`
-1. View contents of a directory `ls`
-1. Wiping the slate clean `clear`
-1. Create files `touch`
-1. View contents of files `cat`
-1. Copying files and directories `cp`
-1. Moving files and directories `mv`
-1. Deleting files and folders `rm && rm -rf`
+1. `cd` - change directory.
+1. `pwd` - print working directory; show where you are.
+1. `mkdir` - make directory.
+1. `ls` - list contents of a directory.
+1. `clear` - clear the view.
+1. `touch` - create file. 
+1. `cat` - read the contents of a file.
+1. `cp` - copy files and directories.
+1. `mv` - move files and directories.
+1. `rm && rm -rf` - remove and remove files and folders (delete).
 
 ## Helpful commands to install
 
