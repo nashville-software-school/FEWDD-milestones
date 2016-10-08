@@ -1,6 +1,6 @@
 # How to plan an application
 
-Talk with students about what steps need to be taken before you write a single line of code for an applcation.
+Talk with students about what steps need to be taken before you write a single line of code for an application.
 
 1. Gathering acceptance criteria
 1. Whiteboarding designs
