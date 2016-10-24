@@ -108,6 +108,7 @@ module.exports = function(grunt) {
         files: ['./javascripts/**/*.js'],
         tasks: ['jshint']
       }
+    }
   });
 
   require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
