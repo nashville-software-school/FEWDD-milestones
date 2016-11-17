@@ -5,7 +5,7 @@
 Run the following command in your terminal:
 
 ```bash
-mkdir -p ~/workspace/exercises/static-web/productcards && cd $_
+mkdir -p ~/workspace/exercises/the-static-web/productcards && cd $_
 ```
 
 This will create a project folder and cd you into it. 
