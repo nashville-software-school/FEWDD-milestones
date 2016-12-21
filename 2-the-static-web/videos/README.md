@@ -7,4 +7,4 @@
 
 ## JavaScript
 
-* Explanation of [JavaScript function](https://s3.amazonaws.com/nss-lecture-videos/basics-of-functions.mp4) syntax and purpose
+* NSS Learning Team video showing the usage of [functions as sub-programs](https://www.youtube.com/watch?v=XBVombfX-lQ&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=1).
