@@ -8,6 +8,7 @@
 1. npm http-server
 1. Command Line Interface (CLI)
 1. Adobe Tools
+1. Product Design video
 
 ### Static Web: HTML, CSS, JS
 1. Semantic/valid HTML
