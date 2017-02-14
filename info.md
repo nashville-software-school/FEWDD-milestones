@@ -17,7 +17,6 @@
 1. Intro to Design Thinking
 1. Teamwork, Planning, Communication
 
-
 ### Static Web: HTML, CSS, JS
 1. Semantic/valid HTML
 1. Forms
