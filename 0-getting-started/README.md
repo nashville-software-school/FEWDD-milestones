@@ -136,19 +136,19 @@ Follow the [Github instructions](https://help.github.com/articles/generating-a-n
 
 ---
 
-# UI Design Software 
+### UI Design Software 
 Pick one UI Design tool:
 
 * [Sketch App](https://www.sketchapp.com) $99/year, Mac only. Also sign up for Sketch App Sources - lots of helpful plug-ins, extensions and templates.
 * [Adobe Photoshop, XD, or Illustrator](https://www.adobe.com/creativecloud/plans.html) Single app: $120/year
 * [Invision](https://www.invisionapp.com) Free for 1 prototype at a time.  $13/mo if paying yearly for 3 prototypes, and the plans go up from there.
 
-# Materials
+### UI Materials
 * **Paper & pen/pencil** for exercises (Plain, white printer paper is great; you’ll need it for paper prototyping.)
 * **Notebook** to build a design journal - think professional scrapbook  (Your choice whether paper, electronic, or a combo for your journal.)
 * **Stickies** (2-3) Start with regular small square and we'll discuss other sizes in class
 * **Black sharpies** (1-2) Suggestion: Get Sharpies, not generic brand. They last longer and don’t bleed on paper.
 
 
-# Challenges - Check them out!
+# Getting Started Challenges - Check them out!
 * [NSS Challenges](challenges/README.md)
