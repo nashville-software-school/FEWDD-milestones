@@ -1,4 +1,4 @@
-# CSS Selectors
+# CSS Article Styling: Selectors
 
 ## Setup
 
