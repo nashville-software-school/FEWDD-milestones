@@ -45,6 +45,10 @@ Suggested extensions to install
 1. [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 1. [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
+Keyboard shortcuts can be found within the Preferences and here are a few common ones: [Editor Shortcuts](editor_shortcuts.md)
+
+
+
 ---
 
 ## For OSX Users Only
@@ -127,3 +131,24 @@ SSH is a technology that allows you to create a very secure connection between y
 1. A private key file that you never, ever, ever, ever, ever share with anyone. It is usually named `id_rsa`.
 
 Follow the [Github instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows) for creating a new SSH key, and providing your public key to Github, so that you can establish a secure connection between your computer and Github's computers.
+
+[Command Line Basics](COMMAND_LINE.md)
+
+---
+
+# UI Design Software 
+Pick one UI Design tool:
+
+* [Sketch App](https://www.sketchapp.com) $99/year, Mac only. Also sign up for Sketch App Sources - lots of helpful plug-ins, extensions and templates.
+* [Adobe Photoshop, XD, or Illustrator](https://www.adobe.com/creativecloud/plans.html) Single app: $120/year
+* [Invision](https://www.invisionapp.com) Free for 1 prototype at a time.  $13/mo if paying yearly for 3 prototypes, and the plans go up from there.
+
+# Materials
+* **Paper & pen/pencil** for exercises (Plain, white printer paper is great; you’ll need it for paper prototyping.)
+* **Notebook** to build a design journal - think professional scrapbook  (Your choice whether paper, electronic, or a combo for your journal.)
+* **Stickies** (2-3) Start with regular small square and we'll discuss other sizes in class
+* **Black sharpies** (1-2) Suggestion: Get Sharpies, not generic brand. They last longer and don’t bleed on paper.
+
+
+# Challenges - Check them out!
+* [NSS Challenges](challenges/README.md)
