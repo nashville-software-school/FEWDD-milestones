@@ -56,8 +56,8 @@
 * **Try some layout challenges**. Visit the [Wikiversity CSS Challenges](https://en.wikiversity.org/wiki/Web_Design/CSS_challenges) page and try to complete as many as you can.
 
 ### NSS Exercises
-* [Article Styling](learning-materials/SW_CSS_SELECTORS.md)
-* [Interactive Navigation](learning-materials/SW_CSS_INTERACTIVE_NAVIGATION.md)
+* [Article Styling](learning-materials/CSS_SELECTORS.md)
+* [Interactive Navigation](learning-materials/CSS_INTERACTIVE_NAVIGATION.md)
 * Personal site/blog*
 
 ---
@@ -89,8 +89,8 @@
 * [Amazing CSS examples on CodePen](http://codepen.io/search/pens?q=css&limit=all&type=type-pens)
 
 ### NSS Exercises
-1. [Pseudoclasses](learning-materials/SW_CSS_PSEUDOCLASSES.md)
-1. [Product Cards](learning-materials/SW_HTML_CSS_PRODUCT_CARDS.md)
+1. [Pseudoclasses](learning-materials/CSS_PSEUDOCLASSES.md)
+1. [Product Cards](learning-materials/HTML_CSS_PRODUCT_CARDS.md)
 
 ---
 
@@ -120,13 +120,12 @@
 
 ### NSS Exercises
 
-1. [For](learning-materials/SW_JS_FOR.md) - Iteration practice
-1. [Overly Excited](learning-materials/SW_JS_OVERLYEXCITED.md)
-1. [Boy Bands](learning-materials/SW_JS_BOYBANDS.md)
-1. [Reindeer](learning-materials/SW_JS_REINDEER.md)
-1. [Grades](learning-materials/SW_JS_GRADES.md)
-1. [Counting coins](learning-materials/SW_JS_COINS.md)
-1. [Temperature converter](learning-materials/SW_JS_CONVERTER.md)
+1. [Overly Excited](learning-materials/JS_OVERLYEXCITED.md)
+1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
+1. [Reindeer](learning-materials/JS_REINDEER.md)
+1. [Grades](learning-materials/JS_GRADES.md)
+1. [Counting coins](learning-materials/JS_COINS.md)
+1. [Temperature converter](learning-materials/JS_CONVERTER.md)
 
 ---
 
@@ -151,14 +150,14 @@
 
 
 ### In-class Exercises
-1. [Sonnet](learning-materials/SW_JS_SONNET.md) - string methods
+1. [Sonnet](learning-materials/JS_SONNET.md) - string methods
 
 ---
 
 ## Javascript Object Constructor
 
 ### NSS Exercises
-1. [Object Constructor](SW_OBJ_GREETING-CARD.md)
+1. [Object Constructor](OBJ_GREETING-CARD.md)
 
 ---
 
