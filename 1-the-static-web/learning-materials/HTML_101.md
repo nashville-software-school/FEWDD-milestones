@@ -3,7 +3,7 @@
 **H**yper**t**ext **M**arkup **L**anguage: The Building Blocks of the Web
 
 ## HTML5 semantic structure
-HTML5 introduces several new semantic elements representing logical sections or components of a web app or document: `<section>`, `<nav>`, `<article>`, `<aside>`, `<hgroup>`, `<header>`, and `<footer>`, along with new rules for using the old `<h1>–<h6>` and `<address>` elements. None of the new elements actually “do” anything by themselves, but they provide a much nicer way for web authors to define the various parts of a document, and open the door for user agents and assistive technologies to use this information to enable alternate ways of viewing and navigating a page.
+HTML5 introduces several new semantic elements representing logical sections or components of a web app or document: `<section>`, `<nav>`, `<article>`, `<aside>`, `<hgroup>`, `<header>`, and `<footer>`, along with new rules for using the old `<h1>–<h6>` and `<address>` elements. None of the new elements actually “do” anything by themselves, but they provide a much nicer way for web authors to define the various parts of a document, and open the door for user agents and assistive technologies (accessibility compliance) to use this information to enable alternate ways of viewing and navigating a page.
 
   + __article__ - specifies independent, self-contained content.
   + __section__ - defines sections in a document, such as chapters, headers, footers, or any other sections of the document.
@@ -14,6 +14,7 @@ HTML5 introduces several new semantic elements representing logical sections or 
     can also be used to encode dates and times in a machine-readable way allowing user agents more functionality (add to calendar) `<time datetime="2008-02-14 20:00">`
   + __mark__ - highlight parts of your text.
   + __aside__ - defines some content aside from the content it is placed in. This content should be related to the surrounding content.
+
 
 ### Text related tags
   + h1...h5
@@ -119,4 +120,6 @@ The easiest way to picture an inline element is to think of it as a box that act
 The Document Object Model is a platform- and language-neutral interface that will allow programs and scripts to dynamically access and update the content, structure and style of documents. The document can be further processed and the results of that processing can be incorporated back into the presented page.
 
 The HTML you write is parsed by the browser and turned into the DOM. But your HTML is not the DOM. Mistakes/omissions can be 'fixed' by the browser, such as when you add a `<table>` element in your HTML and leave out the required `<tbody>` element. The browser will just insert that `<tbody>` for you. The Javscript you write can also really change what's rendered far beyond the original markup.
+
+
 

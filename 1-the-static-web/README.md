@@ -94,6 +94,16 @@
 
 ---
 
+## Accessibility Requirements and Tools
+
+### Resources
+  + Google Developer Tools >> Audits >> Accessibility
+  + [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+  + [W3 Accessibility](https://www.w3.org/standards/webdesign/accessibility)  
+  + [Article: Web Content Accessibility](https://www.invisionapp.com/blog/guide-web-content-accessibility/)
+
+---
+
 ## GIT & GITHUB
 
 ### Resources
@@ -158,6 +168,20 @@
 
 ### NSS Exercises
 1. [Object Constructor](OBJ_GREETING-CARD.md)
+
+---
+
+## Rapid Prototyping
+
+### NSS Exercises
+1. Exercise 1
+
+---
+
+## Wireframes
+
+### NSS Exercises
+1. Exercise 1
 
 ---
 
