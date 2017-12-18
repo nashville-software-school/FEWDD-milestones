@@ -168,4 +168,4 @@ Pick one UI Design tool:
 1. Add your info to the [Roster](https://docs.google.com/spreadsheets/d/18rQ9h-PnTs_GokNKr0ok-_KYFwOFs0ymYdpH0ZZvheA/edit#gid=634347005). Check your name and e-mail to be sure the info is right! 
 
 # Getting Started Challenges - Check them out!
-* [NSS Challenges](challenges/README.md)
+* [NSS Challenges](CHALLENGES.md)
