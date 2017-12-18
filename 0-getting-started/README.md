@@ -136,19 +136,33 @@ Follow the [Github instructions](https://help.github.com/articles/generating-a-n
 
 ---
 
-### UI Design Software 
+## UI Design Software 
 Pick one UI Design tool:
 
 * [Sketch App](https://www.sketchapp.com) $99/year, Mac only. Also sign up for Sketch App Sources - lots of helpful plug-ins, extensions and templates.
 * [Adobe Photoshop, XD, or Illustrator](https://www.adobe.com/creativecloud/plans.html) Single app: $120/year
 * [Invision](https://www.invisionapp.com) Free for 1 prototype at a time.  $13/mo if paying yearly for 3 prototypes, and the plans go up from there.
 
-### UI Materials
+---
+
+## UI Materials
 * **Paper & pen/pencil** for exercises (Plain, white printer paper is great; you’ll need it for paper prototyping.)
 * **Notebook** to build a design journal - think professional scrapbook  (Your choice whether paper, electronic, or a combo for your journal.)
 * **Stickies** (2-3) Start with regular small square and we'll discuss other sizes in class
 * **Black sharpies** (1-2) Suggestion: Get Sharpies, not generic brand. They last longer and don’t bleed on paper.
 
+---
+# Professional 
+1. Start a [linkedin.com](http://linkedin.com) account.
+    * You are now an Apprentice at Nashville Software School.
+    * Connect with us.
+    * Networking with your cohort. 
+    * Connect with other cohorts
+    * Goal at the end of 6 months: 150 connections.
+1. [Pinterest.com](https://www.pinterest.com/) Account (or other) for saving ideas.
+1. Create a [behance.com](http://behance.com) account.
+    * Share your URL with learning team.
+1. Check out [dropbox.com](http://dropbox.com) and get an account.
 
 # Getting Started Challenges - Check them out!
 * [NSS Challenges](challenges/README.md)
