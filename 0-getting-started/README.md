@@ -159,10 +159,13 @@ Pick one UI Design tool:
     * Networking with your cohort. 
     * Connect with other cohorts
     * Goal at the end of 6 months: 150 connections.
+1. Create a folder on Google Drive for sharing files with your cohort teams. 
+    * If you don't have a Google account, you need one for this class! 
 1. [Pinterest.com](https://www.pinterest.com/) Account (or other) for saving ideas.
 1. Create a [behance.com](http://behance.com) account.
     * Share your URL with learning team.
 1. Check out [dropbox.com](http://dropbox.com) and get an account.
+1. Add your info to the [Roster](https://docs.google.com/spreadsheets/d/18rQ9h-PnTs_GokNKr0ok-_KYFwOFs0ymYdpH0ZZvheA/edit#gid=634347005). Check your name and e-mail to be sure the info is right! 
 
 # Getting Started Challenges - Check them out!
 * [NSS Challenges](challenges/README.md)
