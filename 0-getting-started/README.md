@@ -161,6 +161,7 @@ Pick one UI Design tool:
     * Goal at the end of 6 months: 150 connections.
 1. Create a folder on Google Drive for sharing files with your cohort teams. 
     * If you don't have a Google account, you need one for this class! 
+1. Weekly Blog Post
 1. [Pinterest.com](https://www.pinterest.com/) Account (or other) for saving ideas.
 1. Create a [behance.com](http://behance.com) account.
     * Share your URL with learning team.

@@ -27,7 +27,7 @@
 
 
 ### NSS Exercises
-1. Begin personal site/blog
+1. Begin personal site/blog [Personal Site Instructions found on Cohort Repo](https://github.com/nss-day-cohort-24)
 
 ---
 
