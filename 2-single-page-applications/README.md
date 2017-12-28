@@ -1,9 +1,21 @@
 # Single Page Applications Milestone
 
+**Learning Materials and Exercises**
+
+---
+
 ## Array Methods
 
+[NSS Study Guide: Array Methods](learning-materials/JS_ARRAY_METHODS.md)
+
 ### Videos to Watch
+1. [6 JavaScript Native Array Functions in 5 Minutes](https://www.youtube.com/watch?v=9ar5ZpBW7NE)
+1. [Common Array Methods - Beau teaches JavaScript](https://www.youtube.com/watch?v=MeZVVxLn26E)
 1. NSS Learning Team video [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+
+### NSS Exercises
+[Solar System](learning-materials/JS_ARRAY_SOLAR_SYSTEM.md)
+[Chaining Array Methods](learning-materials/SP_JS_ARRAYS_CHAINING.md)
 
 ---
 
@@ -58,3 +70,8 @@
 
 ### NSS Exercises
 1. [Data: Home Inventory](learning-materials/JS_DATA_HOME_INVENTORY.md)
+
+---
+## Additional Resouces
+
+*[CSS BEM](learning-materials/SP_CSS_BEM.md)
