@@ -169,6 +169,7 @@
 
 ### NSS Exercises
 1. [Coins to Cash](learning-materials/JS_COINS_TO_CASH.md)
+1. [Cash to Coins](learning-materials/JS_CASH_TO_COINS.md)
 1. [Grades](learning-materials/JS_GRADES.md)
 1. [Object Constructor](learning-materials/OBJ_GREETING-CARD.md)
 
