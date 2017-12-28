@@ -13,14 +13,3 @@ Classes? Sure, just fancy object definitions.
 Want to see what JavaScript defines as an [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)? Open Chrome, open the Developer Tools, go to the Console tab, type in `{}` and see what gets displayed. These functions will be available to any standard object that you define in your system.
 
 ![javascript object](images/2oKwHtFH0d.gif)
-
-## Videos to Watch
-
-1. [What's an Object in JavaScript?](https://www.youtube.com/watch?v=8iXoWC9XcU8)
-1. [Objects and Prototypes In-depth 02 - Objects Basics](https://www.youtube.com/watch?v=yHkPHteghSc&index=2&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
-1. [Objects and Prototypes In-depth 03 - Creating Objects](https://www.youtube.com/watch?v=25wlojU2mHg&index=3&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
-1. [Object Keys](https://www.youtube.com/watch?v=cEVnlKgySsg)
-1. [Javascript - How to Access Javascript Object Property Names Using A `for in` LOOP](https://www.youtube.com/watch?v=fDBuAnu0fvo)
-1. [Modular Javascript - Prototypal Pattern vs Classical OOP in JS
-](https://www.youtube.com/watch?v=doXpW5AD60Q)
-1. [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA)
