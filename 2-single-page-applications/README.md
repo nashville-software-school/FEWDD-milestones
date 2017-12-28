@@ -36,12 +36,12 @@
 
 ---
 
-learning-materials/DESIGN_MODULARITY.md
+[NSS Study Guide: Design Modularity](learning-materials/DESIGN_MODULARITY.md)
 
 ---
 ## JS Data
 
-[NSS Study Guide](learning-materials/JS_DATA.md)
+[NSS Study Guide: JS Data](learning-materials/JS_DATA.md)
 
 ### Videos To Watch
 
