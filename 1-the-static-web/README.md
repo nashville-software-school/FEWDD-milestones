@@ -114,6 +114,22 @@
 
 ---
 
+## Javascript: Primitives & Arrays
+[NSS Study Guide: JS Primitives and Arrays](learning-materials/JS_PRIMITIVES_ARRAYS.md)
+
+### Resources
+
+1. When trying to find out what's causing an error in your code, a useful command is the [debugger](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger) statement. Try putting it in your code and watch what happens when you run it in Chrome.
+1. Now that you know how to declare variables, you can learn about how JavaScript [hoists](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var_hoisting) variable declarations.
+1. Learn how to assign the [same value to two variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#Assigning_two_variables_with_single_string_value) with a single line of code.
+1. [Getting to Grips with ES6: Variables](https://medium.com/nona-web/getting-to-grips-with-es6-variables-f27b72798bf3)
+
+### Videos
+
+[NSS Learning Team: JS Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+
+---
+
 ## Javascript: If Switch & For
 
 [NSS Study Guide: Javascript: If, Switch, & For](learning-materials/JS_IF_SWITCH_FOR.md)
@@ -133,25 +149,8 @@
 1. [Overly Excited](learning-materials/JS_OVERLYEXCITED.md)
 1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
 1. [Reindeer](learning-materials/JS_REINDEER.md)
-1. [Grades](learning-materials/JS_GRADES.md)
-1. [Counting coins](learning-materials/JS_COINS.md)
 1. [Temperature converter](learning-materials/JS_CONVERTER.md)
 
----
-
-## Javascript: Primitives & Arrays
-[NSS Study Guide: JS Primitives and Arrays](learning-materials/JS_PRIMITIVES_ARRAYS.md)
-
-### Resources
-
-1. When trying to find out what's causing an error in your code, a useful command is the [debugger](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger) statement. Try putting it in your code and watch what happens when you run it in Chrome.
-1. Now that you know how to declare variables, you can learn about how JavaScript [hoists](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var_hoisting) variable declarations.
-1. Learn how to assign the [same value to two variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#Assigning_two_variables_with_single_string_value) with a single line of code.
-1. [Getting to Grips with ES6: Variables](https://medium.com/nona-web/getting-to-grips-with-es6-variables-f27b72798bf3)
-
-### Videos
-
-[NSS Learning Team: JS Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
 
 ---
 ## Javascript: String Manipulation
@@ -166,8 +165,12 @@
 
 ## Javascript Object Constructor
 
+[NSS Study Guide: JS Objects](learning-materials/JS_OBJECTS.md)
+
 ### NSS Exercises
-1. [Object Constructor](OBJ_GREETING-CARD.md)
+1. [Coins to Cash](learning-materials/JS_COINS_TO_CASH.md)
+1. [Grades](learning-materials/JS_GRADES.md)
+1. [Object Constructor](learning-materials/OBJ_GREETING-CARD.md)
 
 ---
 
