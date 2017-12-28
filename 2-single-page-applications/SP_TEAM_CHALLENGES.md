@@ -1,9 +1,10 @@
-<a id="challenge-1"></a>
-# Challenge \#1 - Address Book
+# Team  Challenges
+
+## Challenge \#1 - Address Book
 
 Use XHR to create a simple tabbed contact info collection.
 
-## Requirements
+### Requirements
 
 + The page displays a tab for each letter of the alphabet that is represented in the address book by last name or business name ( `"S"` would contain _Jane Smith_ and _The Smiling Elephant restaurant_ ) 
 + The app comes pre-loaded with info for places in Nashville, like restaurants, sights and other business that have paid you to list them in your app. The built-in addresses/info should be stored in a local JSON file.
@@ -13,9 +14,8 @@ Use XHR to create a simple tabbed contact info collection.
 + If user clicks “Edit”, the form is re-populated with the contact info so the user can edit it.
 + The UI should use Bootstrap 
 
-<a id="challenge-2"></a>
 
-# Challenge \#2 - Building Tetris in a Canvas
+## Challenge \#2 - Building Tetris in a Canvas
 
 As a team, use the HTML5 canvas tag to build a browser based version of the classic game, [Tetris](https://en.wikipedia.org/wiki/Tetris).
 
