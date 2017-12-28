@@ -167,6 +167,18 @@
 
 [NSS Study Guide: JS Objects](learning-materials/JS_OBJECTS.md)
 
+### Videos to Watch
+
+1. [What's an Object in JavaScript?](https://www.youtube.com/watch?v=8iXoWC9XcU8)
+1. [Objects and Prototypes In-depth 02 - Objects Basics](https://www.youtube.com/watch?v=yHkPHteghSc&index=2&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+1. [Objects and Prototypes In-depth 03 - Creating Objects](https://www.youtube.com/watch?v=25wlojU2mHg&index=3&list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u)
+1. [Object Keys](https://www.youtube.com/watch?v=cEVnlKgySsg)
+1. [Javascript - How to Access Javascript Object Property Names Using A `for in` LOOP](https://www.youtube.com/watch?v=fDBuAnu0fvo)
+1. [Modular Javascript - Prototypal Pattern vs Classical OOP in JS
+](https://www.youtube.com/watch?v=doXpW5AD60Q)
+1. [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA)
+
+
 ### NSS Exercises
 1. [Coins to Cash](learning-materials/JS_COINS_TO_CASH.md)
 1. [Cash to Coins](learning-materials/JS_CASH_TO_COINS.md)
