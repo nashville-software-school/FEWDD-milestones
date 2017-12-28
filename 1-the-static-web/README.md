@@ -146,11 +146,8 @@
 
 ### NSS Exercises
 
-1. [Overly Excited](learning-materials/JS_OVERLYEXCITED.md)
 1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
 1. [Reindeer](learning-materials/JS_REINDEER.md)
-1. [Temperature converter](learning-materials/JS_CONVERTER.md)
-
 
 ---
 ## Javascript: String Manipulation
