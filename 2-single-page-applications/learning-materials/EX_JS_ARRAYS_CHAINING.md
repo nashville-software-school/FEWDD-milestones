@@ -1,16 +1,16 @@
 # Chaining Array Methods
 
-## Setup
+### Setup
 
 These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
 
 ```bash
-mkdir -p ~/workspace/exercises/spa/chaining && cd $_
+mkdir -p ~/workspace/exercises/javascript/chaining-methods && cd $_
 touch index.html
 touch chaining.js
 ```
 
-## Instructions
+### Requirements
 
 Using one single line of JavaScript code, complete the following tasks on the array of integers below.
 
@@ -20,5 +20,5 @@ Using one single line of JavaScript code, complete the following tasks on the ar
 1. Then output (either in the DOM or the console) the sum of all the resulting numbers.
 
 ```js
-var integers = [13, 25, 6, 3, 11, 2, 18, 7, 21, 1, 29, 20, 12, 8];
+const integers = [23, 15, 6, 3, 11, 20, 18, 7, 21, 1, 29, 10, 12, 8];
 ```

@@ -1,24 +1,115 @@
 # Single Page Applications Milestone
 
-## Array Methods
-
-### Videos to Watch
-1. NSS Learning Team video [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+**Learning Materials and Exercises**
 
 ---
 
-## Functions and Modules
+## JS Functions and Modules
+
+[NSS Study Guide: JS Functions](learning-materials/JS_FUNCTION_BASICS.md)
+[NSS Study Guide: JS Principles](learning-materials/SP_JS_CORE_PRINCIPLES.md)
 
 ### Videos To Watch
-1. NSS Learning Team video [Introduction to JavaScript Callback Functions](https://www.youtube.com/watch?v=pKS9PcLdMDo&index=5&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC).
-1. NSS Learning Team video [JavaScript IIFE Intro](https://www.youtube.com/watch?v=DPB___uVRbc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=9) which shows you the Immediately Invoked Function Expression software pattern.
-1. NSS Learning Team video [JavaScript IIFE Augmentation](https://www.youtube.com/watch?v=5UIPt1Ky-64&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=8) shows you how to encapsulation different functionality into separate files and augment an IIFE from one file to the next.
-1. NSS Learning Team video [JavaScript XHR and Callbacks](https://www.youtube.com/watch?v=2R28EX9QShI&index=6&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) which shows you how to use callback functions, or lambas, to ensure that asynchronous operations execute in the right order.
+1. NSS Learning Team video showing the usage of [functions as sub-programs](https://www.youtube.com/watch?v=XBVombfX-lQ&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=1)
+1. [Functions Introduction to JavaScript Learn JavaScript](https://www.youtube.com/watch?v=cX4tVeJXp3Y)
+1. [Javascript Tutorial For Beginners - #3 Javascript Functions Tutorial](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
+1. [What the Function: Introduction to Javascript Functions - 1 of 3](https://www.youtube.com/watch?v=hVHl20w0glE)
+1. [What the Function: Writing Your Own JavaScript Functions - 2 of 3](https://www.youtube.com/watch?v=Q_GZtTwhjFQ)
+1. [What the Function: Higher Order Functions - 3 of 3](https://www.youtube.com/watch?v=jE7MAh2EgSQ)
+1. [ES6 Arrow Functions in JavaScript tutorial](https://www.youtube.com/watch?v=_pfXEv9cFGE)
+1. [Understanding Closures (In Under 10 Minutes!)](https://www.youtube.com/watch?v=rBBwrBRoOOY)
+1. [Javascript Closures Tutorial - What makes Javascript Weird...and Awesome Pt 3](https://www.youtube.com/watch?v=ZqGFKcCcO-Y)
+
+### NSS Exercises
+1. [Temperature converter](learning-materials/EX_JS_CONVERTER.md)
+1. [Overly Excited](learning-materials/EX_JS_OVERLYEXCITED.md)
+
+---
+
+## Array Methods
+
+[NSS Study Guide: Array Methods Part I](learning-materials/JS_ARRAY_METHODS_BASIC.md)
+[NSS Study Guide: Array Methods Part II](learning-materials/JS_ARRAY_METHODS.md)
+
+### Videos to Watch
+1. [6 JavaScript Native Array Functions in 5 Minutes](https://www.youtube.com/watch?v=9ar5ZpBW7NE)
+1. [Common Array Methods - Beau teaches JavaScript](https://www.youtube.com/watch?v=MeZVVxLn26E)
+1. NSS Learning Team video [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+
+### NSS Exercises
+[Favorite Music](learning-materials/EX_JS_FAVORITE_MUSIC.md)
+[Solar System](learning-materials/EX_JS_ARRAY_SOLAR_SYSTEM.md)
+[Chaining Array Methods](learning-materials/EX_JS_ARRAYS_CHAINING.md)
 
 ---
 
 ## Event Listeners
 
+[NSS Study Guide: Event Based Programming](learning-materials/SP_JS_EVENT_BASED_PROGRAMMING.md)
+
 ### Videos To Watch
 1. NSS Learning Team video [Basic JavaScript Event Listeners](https://www.youtube.com/watch?v=4XvM096cQF4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=3)
 1. NSS Learning Team video [JavaScript Event Listener Types](https://www.youtube.com/watch?v=5zlueGaybjc&index=4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC)
+
+---
+
+[NSS Study Guide: Design Modularity](learning-materials/DESIGN_MODULARITY.md)
+
+---
+
+## JS Data
+
+[NSS Study Guide: JS Data](learning-materials/JS_DATA.md)
+
+### Videos To Watch
+
+1. [Iterate Through an Array with a For Loop](https://www.youtube.com/watch?v=IIiZcu3JSsQ)
+1. Watch all 6 episodes of [Advanced JavaScript - Introduction to Arrays](https://www.youtube.com/watch?v=UqWN8LXUldc&list=PLvZkOAgBYrsSMNbUiupQpQahsdyjaY6EM)
+1. [Learn Javascript Programming #4: For Loops](https://youtu.be/BxFi7vVZx4s?t=1384)
+1. [Javascript - How to Access Javascript Object Property Names Using A for in LOOP](https://www.youtube.com/watch?v=fDBuAnu0fvo)
+1. [JavaScript Array Reduce in 4 Minutes](https://www.youtube.com/watch?v=tsIAyUQc8Ig)
+1. [JavaScript Reduce Method - Explained with Many Examples](https://www.youtube.com/watch?v=7tAueErVUQU)
+1. **NSS Learning Team video** [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+1. [.call() and .apply() - OOP in JavaScript #2](https://www.youtube.com/watch?v=qLhokqv0zxg)
+1. [JavaScript Storage Interface sessionStorage localStorage Tutorial](https://www.youtube.com/watch?v=klLMeL7I4O0)
+1. [How To Store A JavaScript Array in Local Storage](https://www.youtube.com/watch?v=RbfG7NLKDgQ)
+
+### NSS Exercises
+1. [Data: Home Inventory](learning-materials/EX_JS_DATA_HOME_INVENTORY.md)
+
+---
+
+## More about GIT
+
+[NSS Study Guide: Intermediate Git](SP_GIT_INTERMEDIATE.md)
+[NSS Study Guide: Advanced Git](SP_GIT_ADVANCED.md)
+
+---
+
+## CSS Conventions
+
+[NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_CONVENTIONS.md)
+
+### Articles
+1. [CSS for BEM](https://en.bem.info/methodology/css/)
+1. [BEM 101](https://css-tricks.com/bem-101/)
+1. [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
+
+### Videos to Watch
+
+1. [Introduction to BEM - A front-end methodology](https://www.youtube.com/watch?v=IO-4Z32O--c)
+1. [What is BEM CSS and how to use it](https://www.youtube.com/watch?v=Ysf0LhP8jus)
+1. [BEM CSS How to apply BEM to your classes](https://www.youtube.com/watch?v=LqBm9R9nrlE)
+1. [BEM: complete guide for your component frontend development](https://www.youtube.com/watch?v=xlVRaUZ6WKU)
+
+### NSS Exercises
+[CSS BEM](EX_CSS_BEM.md)
+
+---
+
+## Additional Resouces
+
+*[CSS BEM](learning-materials/SP_CSS_BEM.md)
+* VIM
+    1. [A Great VIM Cheat Sheet](http://vimsheet.com/)
+    1. [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)

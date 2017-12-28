@@ -6,7 +6,7 @@ Modern web application teams tend to adopt industry standards in the attempt to 
 
 BEM, developed by the Yandex team, which stands for Block--Element--Modifier, is a system for developers to write their CSS selectors in a way that integrates with their HTML components in an obvious and natural way.
 
-Here's a simple example of how you could use BEM conventions in an application like Music History.
+Here's a simple example of how you could use BEM conventions in an application.
 
 
 > HTML
