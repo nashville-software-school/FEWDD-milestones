@@ -200,6 +200,10 @@
 1. Exercise 1
 
 ---
+## Challenges
+1. [Individual Challenges](SW_INDIVIDUAL_CHALLENGES.md)
+1. [Group Challenges](SW_TEAM_CHALLENGES.md)
+---
 
 ## Static Web Group Projects
 1. Product Website

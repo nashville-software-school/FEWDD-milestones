@@ -1,4 +1,4 @@
-# Individual Challenges
+# Individual Challenges - Test what you know. Can you do them?
 
 ## Challenge #1
 
