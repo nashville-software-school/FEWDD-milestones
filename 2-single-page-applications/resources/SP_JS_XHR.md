@@ -2,7 +2,6 @@
 
 ## History
 
-Talk about the history of XHR, from the browser-based Outlook client for which it was originally created, the outbreak of AJAX in 2005, and the revolution of how to use it as shown by Google Maps.
 
 ## Asynchronous Development
 

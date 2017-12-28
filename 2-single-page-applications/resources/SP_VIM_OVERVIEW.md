@@ -1,6 +1,7 @@
-# Vim overview
+# VIM Overview
 
-Don't go into very advanced funtionality. Just show students how to:
+
+## The Basics
 
 1. Open vim to edit a file
 1. Basic navigation with [hjkl] and `ctrl+d` / `ctrl+u`
@@ -34,7 +35,3 @@ Roof party slow-carb readymade, wayfarers mlkshk Echo Park pork belly sartorial 
 
 Post-ironic tote bag squid, fixie Odd Future hashtag freegan gluten-free banh mi locavore. Wayfarers pork belly locavore, sriracha taxidermy Marfa asymmetrical squid. Twee ugh Shoreditch, crucifix distillery Truffaut chillwave dreamcatcher chambray pop-up quinoa fap Pitchfork street art.
 
-# Resources
-
-1. [A Great Vim Cheat Sheet](http://vimsheet.com/)
-1. [Interactive vim tutorial](http://www.openvim.com/tutorial.html)

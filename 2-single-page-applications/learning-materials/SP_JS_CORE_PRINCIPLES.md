@@ -1,6 +1,6 @@
 # JavaScript: Core Principles
 
-## Function expression vs. function declaration
+## Function Expression vs. Function Declaration
 
 ```
 var myFunc = function() {
