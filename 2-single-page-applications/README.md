@@ -33,3 +33,28 @@
 ### Videos To Watch
 1. NSS Learning Team video [Basic JavaScript Event Listeners](https://www.youtube.com/watch?v=4XvM096cQF4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=3)
 1. NSS Learning Team video [JavaScript Event Listener Types](https://www.youtube.com/watch?v=5zlueGaybjc&index=4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC)
+
+---
+
+learning-materials/DESIGN_MODULARITY.md
+
+---
+## JS Data
+
+[NSS Study Guide](learning-materials/JS_DATA.md)
+
+### Videos To Watch
+
+1. [Iterate Through an Array with a For Loop](https://www.youtube.com/watch?v=IIiZcu3JSsQ)
+1. Watch all 6 episodes of [Advanced JavaScript - Introduction to Arrays](https://www.youtube.com/watch?v=UqWN8LXUldc&list=PLvZkOAgBYrsSMNbUiupQpQahsdyjaY6EM)
+1. [Learn Javascript Programming #4: For Loops](https://youtu.be/BxFi7vVZx4s?t=1384)
+1. [Javascript - How to Access Javascript Object Property Names Using A for in LOOP](https://www.youtube.com/watch?v=fDBuAnu0fvo)
+1. [JavaScript Array Reduce in 4 Minutes](https://www.youtube.com/watch?v=tsIAyUQc8Ig)
+1. [JavaScript Reduce Method - Explained with Many Examples](https://www.youtube.com/watch?v=7tAueErVUQU)
+1. **NSS Learning Team video** [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+1. [.call() and .apply() - OOP in JavaScript #2](https://www.youtube.com/watch?v=qLhokqv0zxg)
+1. [JavaScript Storage Interface sessionStorage localStorage Tutorial](https://www.youtube.com/watch?v=klLMeL7I4O0)
+1. [How To Store A JavaScript Array in Local Storage](https://www.youtube.com/watch?v=RbfG7NLKDgQ)
+
+### NSS Exercises
+1. [Data: Home Inventory](learning-materials/JS_DATA_HOME_INVENTORY.md)
