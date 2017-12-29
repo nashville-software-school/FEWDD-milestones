@@ -7,6 +7,7 @@
 ## JS Functions and Modules
 
 [NSS Study Guide: JS Functions](learning-materials/JS_FUNCTION_BASICS.md)
+
 [NSS Study Guide: JS Principles](learning-materials/SP_JS_CORE_PRINCIPLES.md)
 
 ### Videos To Watch
