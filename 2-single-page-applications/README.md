@@ -22,14 +22,15 @@
 1. [Javascript Closures Tutorial - What makes Javascript Weird...and Awesome Pt 3](https://www.youtube.com/watch?v=ZqGFKcCcO-Y)
 
 ### NSS Exercises
-1. [Temperature converter](learning-materials/EX_JS_CONVERTER.md)
 1. [Overly Excited](learning-materials/EX_JS_OVERLYEXCITED.md)
+1. [Temperature converter](learning-materials/EX_JS_CONVERTER.md)
 
 ---
 
 ## Array Methods
 
 [NSS Study Guide: Array Methods Part I](learning-materials/JS_ARRAY_METHODS_BASIC.md)
+
 [NSS Study Guide: Array Methods Part II](learning-materials/JS_ARRAY_METHODS.md)
 
 ### Videos to Watch
@@ -38,9 +39,9 @@
 1. NSS Learning Team video [JavaScript Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
 
 ### NSS Exercises
-[Favorite Music](learning-materials/EX_JS_FAVORITE_MUSIC.md)
-[Solar System](learning-materials/EX_JS_ARRAY_SOLAR_SYSTEM.md)
-[Chaining Array Methods](learning-materials/EX_JS_ARRAYS_CHAINING.md)
+1. [Solar System](learning-materials/EX_JS_ARRAY_SOLAR_SYSTEM.md)
+1. [Chaining Array Methods](learning-materials/EX_JS_ARRAYS_CHAINING.md)
+1. [Favorite Music](learning-materials/EX_JS_FAVORITE_MUSIC.md)
 
 ---
 
@@ -83,6 +84,7 @@
 ## More about GIT
 
 [NSS Study Guide: Intermediate Git](SP_GIT_INTERMEDIATE.md)
+
 [NSS Study Guide: Advanced Git](SP_GIT_ADVANCED.md)
 
 ---
@@ -110,7 +112,7 @@
 
 ## Additional Resouces
 
-*[CSS BEM](learning-materials/SP_CSS_BEM.md)
-* VIM
-    1. [A Great VIM Cheat Sheet](http://vimsheet.com/)
-    1. [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
+1. [CSS BEM](learning-materials/SP_CSS_BEM.md)
+1. VIM
+    * [A Great VIM Cheat Sheet](http://vimsheet.com/)
+    * [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
