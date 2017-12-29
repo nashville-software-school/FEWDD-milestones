@@ -114,6 +114,7 @@
 
 ---
 
+
 ## Javascript: Primitives & Arrays
 [NSS Study Guide: JS Primitives and Arrays](learning-materials/JS_PRIMITIVES_ARRAYS.md)
 
@@ -146,10 +147,27 @@
 
 ### NSS Exercises
 
-1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
 1. [Reindeer](learning-materials/JS_REINDEER.md)
 
 ---
+
+## Javascript DOM Manipulation
+
+[NSS Study Guide: JS DOM Manipulation](learning-materials/JS_DOM.md)
+
+### Videos to Watch
+
+1. [JavaScript Tutorial For Beginners #33 - Traversing the DOM](https://www.youtube.com/watch?v=SowaJlX1uKA)
+1. [Javascript Tutorial Part 8: Javascript getElementById](https://www.youtube.com/watch?v=Rk3bekL3TLc)
+1. [JavaScript Tutorial for Beginners - 29 - getElementsByClassName](https://www.youtube.com/watch?v=ChLd2yFp-lA)
+1. [JavaScript Tutorial for Beginners - 27 - getElementsByTagName method](https://www.youtube.com/watch?v=SwMgOMfelC8)
+1. [JavaScript Tutorial for Beginners - 30 - Replace content using innerHTML](https://www.youtube.com/watch?v=dlaYyZ6vW48)
+
+### NSS Exercises
+1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
+
+---
+
 ## Javascript: String Manipulation
 
 [NSS Study Guide: JS String Manipulation](learning-materials/JS_STRING_MANIPULATION.md)
@@ -163,6 +181,7 @@
 ## Javascript Object Constructor
 
 [NSS Study Guide: JS Objects](learning-materials/JS_OBJECTS.md)
+
 
 ### Videos to Watch
 

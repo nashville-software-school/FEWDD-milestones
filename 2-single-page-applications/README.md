@@ -27,6 +27,8 @@
 
 ---
 
+---
+
 ## Array Methods
 
 [NSS Study Guide: Array Methods Part I](learning-materials/JS_ARRAY_METHODS_BASIC.md)
@@ -47,11 +49,14 @@
 
 ## Event Listeners
 
-[NSS Study Guide: Event Based Programming](learning-materials/SP_JS_EVENT_BASED_PROGRAMMING.md)
+[NSS Study Guide: Event Based Programming](learning-materials/SP_JS_EVENTS.md)
 
 ### Videos To Watch
 1. NSS Learning Team video [Basic JavaScript Event Listeners](https://www.youtube.com/watch?v=4XvM096cQF4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=3)
 1. NSS Learning Team video [JavaScript Event Listener Types](https://www.youtube.com/watch?v=5zlueGaybjc&index=4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC)
+
+## NSS Exercises
+[Dynamic Cards](learning-materials/EX_JS_EVENTS_DYNAMIC_CARDS.md)
 
 ---
 
@@ -59,6 +64,44 @@
 
 ---
 
+## XHR
+
+[NSS Study Guide: XHR Intro](learning-materials/XHR_INTRO.md)
+
+### Videos to Watch
+
+1. NSS Learning Team video [JavaScript XHR and Callbacks](https://www.youtube.com/watch?v=2R28EX9QShI&index=6&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) which shows you how to use callback functions, or lambas, to ensure that asynchronous operations execute in the right order.
+1. [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+### NSS Exercises
+1. [Seasonal Sales](learning-materials/EX_JS_XHR_SEASONAL_SALES)
+
+---
+
+## Browserify
+
+[NSS Study Guide: Browserify Modules](learning-materials/JS_MODULES.md)
+
+
+## Plugins You Need to Install
+
+1. [grunt-eslint](https://github.com/sindresorhus/grunt-eslint): For verifying your JavaScript against community standards, and checking sytax.
+
+    `npm install grunt-eslint --save-dev`
+1. [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify): For minifying your code to make HTTP calls faster.
+
+    `npm install git://github.com/gruntjs/grunt-contrib-uglify.git#harmony --save-dev`
+
+1. [grunt-browserify](https://www.npmjs.com/package/grunt-browserify): For compiling your modules into a single application
+
+    `npm install grunt-browserify --save-dev`
+
+
+## NSS Exercises
+1. [Product Order](learning-materials/EX_PRODUCT_ORDER_BROWSERIFY)
+
+
+---
 ## JS Data
 
 [NSS Study Guide: JS Data](learning-materials/JS_DATA.md)
@@ -106,13 +149,18 @@
 1. [BEM: complete guide for your component frontend development](https://www.youtube.com/watch?v=xlVRaUZ6WKU)
 
 ### NSS Exercises
-[CSS BEM](EX_CSS_BEM.md)
+[CSS BEM: Car Dealership](learning-materials/EX_CSS_BEM.md)
 
 ---
 
 ## Additional Resouces
-
+1. [Simple SPA Example](learning-materials/SP_JS_SPA_SIMPLE.md)
+1. [JS this](learning-materials/SP_JS_THIS)
+1. Markdown
+    * [GitHub](https://guides.github.com/features/mastering-markdown/)
+    * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 1. [CSS BEM](learning-materials/SP_CSS_BEM.md)
 1. VIM
     * [A Great VIM Cheat Sheet](http://vimsheet.com/)
     * [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
+1. [jQuery intro](learning-materials/JQUERY_INTRO.md) 
