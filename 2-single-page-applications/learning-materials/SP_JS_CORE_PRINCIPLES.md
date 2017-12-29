@@ -77,7 +77,7 @@ function goodFunc() {
 }
 ```
 
-## Callbacks review
+## Callbacks
 
 > A reference to executable code, or a piece of executable code, that is passed as an argument to other code.
 

@@ -1,16 +1,14 @@
-# Boy bands and vegetables
+# Boy Bands and Vegetables
 
-## Setup
-
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below, open a terminal window and paste. It doesn't matter what directory you are currently in.
+### Setup
 
 ```bash
-mkdir -p ~/workspace/exercises/the-static-web/boybands && cd $_
+mkdir -p ~/workspace/exercises/javascript/boybands && cd $_
 touch index.html
 touch boybands.js
 ```
 
-## Requirements
+### Requirements
 
 Paste the following code into the `<body>` of the HTML file.
 
@@ -25,36 +23,28 @@ Paste the following code into the `<body>` of the HTML file.
 Paste the following code into your JavaScript file.
 
 ```js
-var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
-var vegetables = ["Carrots", "Kale", "Zucchini", "Broccoli", "Squash"];
-
-// The number of loops to perform (what if the array changes?)
-var loopCount = 5;
-
-// Keep track of which band we're on in the loop
-var currentBand = "";
-
-// Keep track of which veggie we're on in the loop
-var currentVeggie = "";
+let bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
+let vegetables = ["Carrots", "Kale", "Zucchini", "Broccoli", "Squash"];
 
 // Get a reference to the appropriate DOM element for bands
-var bandElement = document.getElementById(???);
+const bandElement = document.getElementById(???);
 
 // Get a reference to the appropriate DOM element for vegetables
-var veggieElement = ???;
+const veggieElement = ???;
 
-// Start looping
-for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
-  
-  // Add the band names into the correct <div>
-  currentBand = ???;
+// Execute a for loop that will iterate over the arrays
+for (let loopTracker = 0; loopTracker < ???; loopTracker += 1) {
 
-  
-  // Add the veggie names into the correct <div>
-  currentVeggie = ???;
+  // Get a reference to the current item in the bands array
+  const currentBand = ???;
 
+  // Update the innerHTML value of the DOM element for bands
+
+  // Get a reference to the current item in the vegetables array
+  const currentVeggie = ???;
+
+  // Update the innerHTML value of the DOM element for vegetables
 }
 ```
 
-
-Loop through the two arrays provided (`bands` and `vegetables`) and output each element in the arrays into their corresponding HTML `<div>` element. Ensure that each item is in a block element (e.g. li, div, p. etc...)
+Update the code to iterate the two arrays provided (`bands` and `vegetables`) and output each element in the arrays into their corresponding HTML `<div>` element. Ensure that each item is in a block element (e.g. li, div, p, etc...)
