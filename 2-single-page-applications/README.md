@@ -60,7 +60,23 @@
 
 ---
 
+## Design Modularity
 [NSS Study Guide: Design Modularity](learning-materials/DESIGN_MODULARITY.md)
+
+---
+
+## SASS
+
+NSS Study Guide: SASS
+
+
+### Resources
+
+1. [SASS Website](http://sass-lang.com/)
+
+
+### NSS Exercises
+1. Add SASS to your personal/site blog.
 
 ---
 
