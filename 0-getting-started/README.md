@@ -138,10 +138,20 @@ Follow the [Github instructions](https://help.github.com/articles/generating-a-n
 
 ## UI Design Software 
 Pick one UI Design tool:
+* [Sketch App](https://www.sketchapp.com), Mac only. ($50/year with 2 years of free updates with Student discount) Also sign up for free [Sketch App Sources](https://www.sketchappsources.com) — lots of helpful plug-ins, extensions and templates. 
+Bohemian Coding, the company behind Sketch, is offering our students a 50% discount off of the regular price, and with two extra years full of free updates. Regular Sketch pricing is $99 for a license with a year’s worth of updates. You can keep using the last version of Sketch you downloaded, forever, but if you want to continue to get updates, you must renew your license every year at $99. So this discount means you get $300 worth of software for $50!
 
-* [Sketch App](https://www.sketchapp.com) $99/year, Mac only. Also sign up for Sketch App Sources - lots of helpful plug-ins, extensions and templates.
-* [Adobe Photoshop, XD, or Illustrator](https://www.adobe.com/creativecloud/plans.html) Single app: $120/year
-* [Invision](https://www.invisionapp.com) Free for 1 prototype at a time.  $13/mo if paying yearly for 3 prototypes, and the plans go up from there.
+You will need your enrollment agreement to get this bargain price. The agreement has to be signed and have your name on it when you submit the document for approval: https://sketchapp.com/store/edu/
+
+Sketch is NOT required. We are just sharing this info in case you are interested!
+
+* [Adobe Photoshop](http://www.adobe.com/creativecloud/photography.html?promoid=NQCJRBTZ&mv=other) —  Photography package, $120/year
+* [Adobe Illustrator](https://www.adobe.com/creativecloud/plans.html?promoid=6NCS7DGT&mv=other) — Single App package, $240/year 
+* [Gimp](https://www.gimp.org) (free)
+
+Pick one Prototype Tool: 
+* [Invision](https://www.invisionapp.com) Free for 1 prototype at a time. $13/mo if paying yearly for 3 prototypes, and the plans go up from there.
+* [Adobe XD](http://www.adobe.com/products/xd.html), $120/year. XD is also part of the Adobe Creative Cloud, which is $600/year but includes the other Adobe software. 
 
 ---
 
@@ -160,7 +170,7 @@ Pick one UI Design tool:
     * Connect with other cohorts
     * Goal at the end of 6 months: 150 connections.
 1. Create a folder on Google Drive for sharing files with your cohort teams. 
-    * If you don't have a Google account, you need one for this class! 
+    * If you don't have a Google account, you need one for this class!
 1. Weekly Blog Post.
 1. [Pinterest.com](https://www.pinterest.com/) Account (or other) for saving ideas.
 1. Create a [behance.com](http://behance.com) account.
