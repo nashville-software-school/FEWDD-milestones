@@ -9,7 +9,7 @@ Complete all 24 levels of Flexbox Froggy http://flexboxfroggy.com/
 
 Grow your carrot garden http://cssgridgarden.com/
 
-### Flexbox branch
+### Flexbox branch for Personal Site
 
 In your personal site repository folder, create a new branch for this challenge.
 
