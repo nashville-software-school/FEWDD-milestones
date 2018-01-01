@@ -2,7 +2,7 @@
 
 Create an account at https://firebase.google.com/
 
-Now that you've seen a little bit about APIs, you're going to start using a SaaS called Firebase. It allows you to upload data to a remote server and then use an API to perform CRUD actions on that data.
+Firebase allows you to upload data to a remote server and then use an API to perform CRUD actions on that data.
 
 Import a JSON file into your Firebase. You'll notice that the format is slightly different from how you were storing them on your local computer. This representation is no longer a key of songs that holds an array. It's now an object that contains other objects. This is because Firebase hates, absolutely, hates arrays, and is also schizophrenic about them, so it's best to avoid then altogether.
 
