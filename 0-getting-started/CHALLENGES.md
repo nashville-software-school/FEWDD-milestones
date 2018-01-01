@@ -25,6 +25,7 @@ Using [bash aliases](http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux
 [A Quick Beginner’s Guide to Drawing](https://medium.com/personal-growth/a-quick-beginners-guide-to-drawing-58213877715e). 6 drawing exercises.
 
 # Challenge #5 (design tools)
+Lynda.com courses are free through the [Nashville Public Library](https://library.nashville.org/content/lyndacom). If you aren’t in Nashville, check with your own Library, most have free subscriptions to Lynda.com. Or sign up for their [free 30-day trial](https://www.lynda.com/in/general2?utm_source=google&utm_medium=cpc&utm_campaign=l1-AMER-SEM-Brand-Free+Trial&cid=l1-us:en:ps:lp:prosc:s0:0:all:google:brand-sitelink5&utm_content=104753949666&utm_term=%2Btrial%20%2Blynda&src=go-pa&veh=saud-155532282786:kwd-45976319706_pcrid_104753949666_pkw_%2Btrial%20%2Blynda_pmt_b_pdv_c_ext_1376244439_plc__trg__agid_5454786906_cmid_111030906_adp_1t1_net_g&lpk35=9137). 
 * **Photoshop:**  
     * [Lynda.com The Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Basics/519289-2.html) [4 hrs 33 mins]
     * [Lynda.com Design](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-Essential-Training-Design/518165-2.html) [3 hrs 45 mins]
