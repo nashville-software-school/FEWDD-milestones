@@ -1,8 +1,4 @@
-# CSS 201
-
-## Mobile first CSS
-
-### Media queries and media query listeners
+# Mobile first and Media Queries
 
 > **Reference:** [Media Queries on MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 

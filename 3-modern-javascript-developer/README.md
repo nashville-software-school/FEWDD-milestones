@@ -23,7 +23,7 @@
 1.[NSS Study Guide: Promises](learning-materials/MJ_PROMISES.md) 
 
 ### Additional Readings
-1. [The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+* [The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 
 ---
 

@@ -2,7 +2,7 @@
 
 You've learned the basics of making modules in JavaScript in order to make an application more flexible, more maintainable, and more extensible. Application developers love modularity, and you can also apply the same concept to your HTML markup.
 
-# HTML 201 - Handlebars
+# Handlebars
 
 Up until this point, you've been building DOM strings in your JavaScript, and then using jQuery to inject that string into your existing DOM. As you've discovered, this is clunky, hard to maintain, and prone to human error.
 
@@ -453,16 +453,3 @@ render.load('solarSystem', solarSystemData, function (output) {
 });
 ```
 
-# Music History with Handlebars
-
-## Using Handlebars in a Require app
-
-1. Install the `require-handlebars-plugin` Bower components and show students how to call their Handlebar file in the the Require application with the `hbs!` prepend to the file path.
-
-## Create a Handlebar template for your songs
-
-1. Walk students through how to create a template directory and their first Handlebar file.
-
-## Create handlebar templates for your filter form
-
-Create two new templates to populate the artist and album dropdowns in the filter form.
