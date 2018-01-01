@@ -1,6 +1,6 @@
-# Modern Front End Tooling 101
+# Grunt as a task managers
 
-## Install Grunt
+## Grunt Setup
 
 Grunt is a widely used task runner tool. It can be configured to handle a number of jobs for you.
 
@@ -13,11 +13,9 @@ Grunt is a widely used task runner tool. It can be configured to handle a number
 
 Run the command `which grunt`. If you see the output `/usr/local/bin/grunt`, your instructor planned ahead and had you install it earlier. You're good to go. If not, you need to install the Grunt command line interface: `npm install -g grunt-cli`
 
-## Working with 3rd Party Libraries
+### Working with 3rd Party Libraries
 
-Up until now, we've simply been putting all of our files into one directory. You are about to start building much more complex applications, and this requires a bit more organization - not just at the code level, but also at the file system level.
-
-First, in every project directory, you are going to create a `lib` subdirectory. The purpose of this directory is to hold all third-party libraries that are needed for you application.
+In every project directory, you are going to create a `lib` subdirectory. The purpose of this directory is to hold all third-party libraries that are needed for you application.
 
 To start using Grunt, you need a `Gruntfile.js` file. This will contain all of the task configuration needed to automate your workflow.
 

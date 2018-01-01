@@ -1,11 +1,8 @@
-## Firebase
+# Firebase
+
+Create an account at https://firebase.google.com/
 
 Now that you've seen a little bit about APIs, you're going to start using a SaaS called Firebase. It allows you to upload data to a remote server and then use an API to perform CRUD actions on that data.
-
-> **Instructor Suggestion:**
-> Have students sign up for a Firebase account, and discourage the usage of the interface for building large JSON documents. Have students build and verify JSON locally and import it.
-
-First, you need to combine your two JSON files that you've been using to populate your UI into a single JSON file. In addition, you'll be changing the format of the JSON object (see below).
 
 Import a JSON file into your Firebase. You'll notice that the format is slightly different from how you were storing them on your local computer. This representation is no longer a key of songs that holds an array. It's now an object that contains other objects. This is because Firebase hates, absolutely, hates arrays, and is also schizophrenic about them, so it's best to avoid then altogether.
 
@@ -56,9 +53,9 @@ Import a JSON file into your Firebase. You'll notice that the format is slightly
 }
 ```
 
-### Firebase via XHR calls
+## Firebase via XHR calls
 
-#### GET
+### GET
 
 To start off, all we're going to do is change how we get our data. Since we've imported it all into Firebase, all you need to do is open your `populate-data.js` file and change the URL. Right now, it's pointing to a local `songs.json` file, but you're going to change it.
 
@@ -68,7 +65,7 @@ To start off, all we're going to do is change how we get our data. Since we've i
 
 Since your existing Handlebars template is already set up to handle a data object with a `songs` key on it, everything should just work normally. You've simply changed the location of where the data lives... nothing else changes.
 
-#### POST
+### POST
 
 Next, we get to use the real power of databases, XHRs and APIs. Up until now, your Add Song form didn't really do anything. Once you refreshed the page, your new song disappeared. Not any more.
 
@@ -101,7 +98,7 @@ define(["jquery"], function($) {
 });
 ```
 
-#### DELETE
+### DELETE
 
 Now it's time to delete a song. In your Handlebars file, add a `<button>` element for each song, labeled "Delete". Add a class of `delete-button` to each one. Remember that dynamically added DOM elements have to have events handled at the document level.
 

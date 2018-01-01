@@ -137,7 +137,7 @@ module.exports = divide;
 
 Now that you've got all of the modules needed for your application, it's time to stitch them together.
 
-Go ahead and create a `Gruntfile.js` in the root directory for your project, and follow the instructions in the [Browserify Gruntfile](./MJ_BROWSERIFY_GRUNTFILE.md) resource file.
+Go ahead and create a `Gruntfile.js` in the root directory for your project, and follow the instructions in the [Browserify Gruntfile](learning-materials/BROWSERIFY_GRUNTFILE.md) resource file.
 
 Once all the packages are installed and your Grunt file has the instructions, you can try to build your application. Go to the CLI in the root project folder and run the following command.
 
@@ -177,6 +177,6 @@ Now just include your bundled file in your HTML and run it in your browser.
 </html>
 ```
 
-# Exploring Browserify Further
+## Exploring Browserify Further
 
 Once you've worked on the Browserify exercises, if you want to learn about more transforms that it can accomplish, beyond JsHint, SASS, and modules, then visit the [list of transforms](https://github.com/substack/node-browserify/wiki/list-of-transforms) on Github. Find a transform that interests you and see if you can get it to work.

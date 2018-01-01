@@ -172,6 +172,8 @@
 
 [NSS Study Guide: JS String Manipulation](learning-materials/JS_STRING_MANIPULATION.md)
 
+### NSS Exercises
+1. 
 
 ### In-class Exercises
 1. [Sonnet](learning-materials/JS_SONNET.md) - string methods
