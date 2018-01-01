@@ -4,7 +4,7 @@
 
 ---
 
-## JS Functions and Modules
+## * JS Functions and Modules
 
 [NSS Study Guide: JS Functions](learning-materials/JS_FUNCTION_BASICS.md)
 
@@ -27,9 +27,7 @@
 
 ---
 
----
-
-## Array Methods
+## * Array Methods
 
 [NSS Study Guide: Array Methods Part I](learning-materials/JS_ARRAY_METHODS_BASIC.md)
 
@@ -47,7 +45,7 @@
 
 ---
 
-## Event Listeners
+## * Event Listeners
 
 [NSS Study Guide: Event Based Programming](learning-materials/SP_JS_EVENTS.md)
 
@@ -65,7 +63,7 @@
 
 ---
 
-## SASS
+## * SASS
 
 NSS Study Guide: SASS
 
@@ -80,7 +78,7 @@ NSS Study Guide: SASS
 
 ---
 
-## XHR
+## * XHR
 
 [NSS Study Guide: XHR Intro](learning-materials/XHR_INTRO.md)
 
@@ -94,7 +92,7 @@ NSS Study Guide: SASS
 
 ---
 
-## Browserify
+## * Browserify
 
 [NSS Study Guide: Browserify Modules](learning-materials/JS_MODULES.md)
 
@@ -113,12 +111,12 @@ NSS Study Guide: SASS
     `npm install grunt-browserify --save-dev`
 
 
-## NSS Exercises
+## * NSS Exercises
 1. [Product Order](learning-materials/EX_PRODUCT_ORDER_BROWSERIFY)
 
 
 ---
-## JS Data
+## * JS Data
 
 [NSS Study Guide: JS Data](learning-materials/JS_DATA.md)
 
@@ -140,7 +138,7 @@ NSS Study Guide: SASS
 
 ---
 
-## More about GIT
+## * More about GIT
 
 [NSS Study Guide: Intermediate Git](SP_GIT_INTERMEDIATE.md)
 
@@ -148,7 +146,7 @@ NSS Study Guide: SASS
 
 ---
 
-## CSS Conventions
+## * CSS Conventions
 
 [NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_CONVENTIONS.md)
 
@@ -166,6 +164,18 @@ NSS Study Guide: SASS
 
 ### NSS Exercises
 [CSS BEM: Car Dealership](learning-materials/EX_CSS_BEM.md)
+
+---
+
+## Challenges
+1. [Individual Challenges](SP_INDIVIDUAL_CHALLENGES.md)
+1. [Group Challenges](SP_TEAM_CHALLENGES.md)
+
+---
+
+## SPA Group Projects
+1. Translator
+1. Chatty
 
 ---
 
