@@ -4,7 +4,7 @@
 
 ---
 
-## HTML 101
+## * HTML 101
 
 **Start HERE** - [NSS Study Guide: HTML 101](learning-materials/HTML_101.md)
 
@@ -31,7 +31,7 @@
 
 ---
 
-## CSS 101
+## * CSS 101
 
 [NSS Study Guide: CSS 101](learning-materials/CSS_101.md)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## CSS 102
+## * CSS 102
 
 [NSS Study Guide: CSS 102](learning-materials/CSS_102.md)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Accessibility Requirements and Tools
+## * Accessibility Requirements and Tools
 
 ### Resources
   + Google Developer Tools >> Audits >> Accessibility
@@ -104,7 +104,7 @@
 
 ---
 
-## GIT & GITHUB
+## * GIT & GITHUB
 
 ### Resources
 
@@ -115,7 +115,7 @@
 ---
 
 
-## Javascript: Primitives & Arrays
+## * Javascript: Primitives & Arrays
 [NSS Study Guide: JS Primitives and Arrays](learning-materials/JS_PRIMITIVES_ARRAYS.md)
 
 ### Resources
@@ -131,7 +131,7 @@
 
 ---
 
-## Javascript: If Switch & For
+## * Javascript: If Switch & For
 
 [NSS Study Guide: Javascript: If, Switch, & For](learning-materials/JS_IF_SWITCH_FOR.md)
 
@@ -151,7 +151,7 @@
 
 ---
 
-## Javascript DOM Manipulation
+## * Javascript DOM Manipulation
 
 [NSS Study Guide: JS DOM Manipulation](learning-materials/JS_DOM.md)
 
@@ -168,7 +168,7 @@
 
 ---
 
-## Javascript: String Manipulation
+## * Javascript: String Manipulation
 
 [NSS Study Guide: JS String Manipulation](learning-materials/JS_STRING_MANIPULATION.md)
 
@@ -178,7 +178,7 @@
 
 ---
 
-## Javascript Object Constructor
+## * Javascript Object Constructor
 
 [NSS Study Guide: JS Objects](learning-materials/JS_OBJECTS.md)
 
@@ -203,14 +203,14 @@
 
 ---
 
-## Rapid Prototyping
+## * Rapid Prototyping
 
 ### NSS Exercises
 1. Exercise 1
 
 ---
 
-## Wireframes
+## * Wireframes
 
 ### NSS Exercises
 1. Exercise 1
