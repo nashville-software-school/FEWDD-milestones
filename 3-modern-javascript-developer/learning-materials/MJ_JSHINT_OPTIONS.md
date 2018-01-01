@@ -1,4 +1,4 @@
-### JSHint Options
+# JSHint Options
 
 When you use the jshint library to check your JavaScript syntax, you can establish defaults that it will use during validation. You can put those defaults in the root directory of your project, and jshint will read the configuration when it runs.
 

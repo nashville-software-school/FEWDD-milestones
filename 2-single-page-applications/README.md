@@ -54,7 +54,8 @@
 1. NSS Learning Team video [JavaScript Event Listener Types](https://www.youtube.com/watch?v=5zlueGaybjc&index=4&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC)
 
 ## NSS Exercises
-[Dynamic Cards](learning-materials/EX_JS_EVENTS_DYNAMIC_CARDS.md)
+1. [Dynamic Cards](learning-materials/EX_JS_EVENTS_DYNAMIC_CARDS.md)
+1. [Events, Arrays, and String Manipulation](learning-materials/EX_JS_ARRAYS_STRING_MANIPULATION.md)
 
 ---
 
@@ -94,7 +95,9 @@ NSS Study Guide: SASS
 
 ## * Browserify
 
-[NSS Study Guide: Browserify Modules](learning-materials/JS_MODULES.md)
+1. [NSS Study Guide: Browserify Modules](learning-materials/JS_MODULES.md)
+1. [NSS Study Guide: Browserify Concepts](learning-materials/BROWSERIFY_CONCEPTS.md)
+1. [NSS Study Guide: Browserify Gruntfile](learning-materials/BROWSERIFY_GRUNTFILE.md)
 
 
 ## Plugins You Need to Install
@@ -189,4 +192,4 @@ NSS Study Guide: SASS
 1. VIM
     * [A Great VIM Cheat Sheet](http://vimsheet.com/)
     * [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
-1. [jQuery intro](learning-materials/JQUERY_INTRO.md) 
+

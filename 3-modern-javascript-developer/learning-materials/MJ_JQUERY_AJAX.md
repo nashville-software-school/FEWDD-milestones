@@ -4,7 +4,7 @@
 1. What is XHR (history and usage)?
 1. What is JSON, and why are we using it?
 
-### Your first XHR call
+## XHR call
 
 Add the following HTML to your jQuery DOM. Feel free to comment out all the other DOM elements we used during the live coding.
 
@@ -63,4 +63,4 @@ $(document).ready(function() {
 });
 ```
 
-Now that you know the basics of using the `ajax()` method to make XHR calls, it's time to move on to the Music History 5 module where your job will be to use JSON and XHR to load your songs from separate files and then convert the raw JSON data to HTML for display in your page.
+Now that you know the basics of using the `ajax()` method to make XHR calls, it's time to move on to the your personal site where your job will be to use JSON and XHR to load your songs from separate files and then convert the raw JSON data to HTML for display in your page.
