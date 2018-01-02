@@ -20,6 +20,14 @@ Do not use the browser-based interface for Slack. Download and use the client. L
 
 [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) is the most popular browser for web developers because of the powerful tools it provides to test code, manipulate documents, and measure performance.
 
+### Google Drive Folder
+
+Create a folder for SHARING files with your fellow students. You will work on team projects together and need to share files. When you ahave the folder, add the link to this [Roster](https://docs.google.com/spreadsheets/d/18rQ9h-PnTs_GokNKr0ok-_KYFwOFs0ymYdpH0ZZvheA/edit?usp=sharing). 
+
+### Pinterest
+
+Pinterest is a good place to save inspiration and examples. Share with your peers! Add the link to your inspiration board to the [Roster](https://docs.google.com/spreadsheets/d/18rQ9h-PnTs_GokNKr0ok-_KYFwOFs0ymYdpH0ZZvheA/edit?usp=sharing). 
+
 ### Create a Github account
 
 Github is the primary site that software developers throughout the world use to store their code, and share it with other developers. Visit the [sign up page](https://github.com/join) and create your own, free account. Use a professional user name.
