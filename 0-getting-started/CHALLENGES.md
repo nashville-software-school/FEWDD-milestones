@@ -1,6 +1,6 @@
 # Challenge #1
 
-If you are on OSX or Linux, install and configure [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) shell for your terminal.
+If you are on OSX or Linux, install and configure [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) shell for your terminal. (Windows users skip this challenge)
 
 ## Useful plugins
 
