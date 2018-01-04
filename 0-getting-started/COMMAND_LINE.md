@@ -30,6 +30,7 @@ If you are using Windows have the Git Bash package installed, since you'll be le
 1. Use wildcards when moving or copying files, e.g. `cp *.js ./`
 1. Use the `-r` option with `mv` or `cp` to recursively perform the action on all sub-directories
 1. Use double bang `!!` to repeat last command, or prefix it with `sudo`, for example.
+1. Make a directory and cd into: `mkdir happy && cd $_`
 
 ---
 
