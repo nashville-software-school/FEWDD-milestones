@@ -60,7 +60,7 @@
 
 ---
 ## Challenges
-1. [Individual or Team Challenges](MJ_INDIVIDUAL_CHALLENGES.md)
+1. [Individual or Team Challenges](learning-materials/MJ_INDIVIDUAL_CHALLENGES.md)
 
 
 ---
