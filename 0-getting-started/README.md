@@ -20,6 +20,8 @@ Do not use the browser-based interface for Slack. Download and use the client. L
 
 [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) is the most popular browser for web developers because of the powerful tools it provides to test code, manipulate documents, and measure performance.
 
+##### [How to Use Chrome Debug Tools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+
 ### Google Drive Folder
 
 Create a folder for SHARING files with your fellow students. You will work on team projects together and need to share files. When you ahave the folder, add the link to this [Roster](https://docs.google.com/spreadsheets/d/18rQ9h-PnTs_GokNKr0ok-_KYFwOFs0ymYdpH0ZZvheA/edit?usp=sharing). 
@@ -55,6 +57,11 @@ Suggested extensions to install
 
 Keyboard shortcuts can be found within the Preferences and here are a few common ones: [Editor Shortcuts](editor_shortcuts.md)
 
+[VSCODE cool stuf:](https://hackernoon.com/virtualstudio-code-the-editor-i-didnt-think-i-needed-16970c8356d5)
+
+Shortcuts
+* [Mac keyboard shortcuts:]https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+* [Windows keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 
 ---
