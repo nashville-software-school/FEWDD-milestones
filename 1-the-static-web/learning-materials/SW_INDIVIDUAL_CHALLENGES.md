@@ -39,3 +39,22 @@ Your challenge is to replicate the shapes, and the animations that you see in th
 ## Challenge #8: Happy Numbers
 
 Write out 143 happy numbers up to 1,000. A happy number is a number defined by the following process: Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number either equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers (or sad numbers).
+
+## Challenge #9: CSS Zen Garden
+
+Visit http://www.csszengarden.com/ and explore some of the designs.
+
+You will create your own version of the CSS Zen Garden.
+
+Download the HTML and CSS files.  
+:paperclip: [HTML](http://www.csszengarden.com/examples/index)  
+:paperclip: [CSS](http://www.csszengarden.com/examples/style.css)  
+
+Copy the contents of the HTML file into your `index.html`.  
+Copy the contents of the CSS file into your `styles.css`.  
+
+> The only rule: you may only change the CSS; not the HTML.
+
+> :pencil2:  In an effort to keep this project like the Zen Garden website, this exercise does not have a styles folder.
+
+> Proud of your work? Sumbit it to the Zen Garden website.
