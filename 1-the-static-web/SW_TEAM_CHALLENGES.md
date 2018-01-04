@@ -10,7 +10,7 @@
 1. When the user selects a color from the second input, then the font color of that card, and no other cards, should change to the color chosen.
 1. When the user clicks the *Delete* button, the containing card, and no other cards, should then be removed from the DOM. Not just made invisible, actually removed from the DOM.
 
-##Challenge #2
+## Challenge #2
 
 1. In HTML, create 3 divs
 1. Give each div a background color
@@ -22,13 +22,13 @@
 
 Finish in under 3 hours? Figure out how to do the same with jQuery.
 
-##Challenge #3
+## Challenge #3
 
 1. Add a red, 100px x 100px div and a button to a basic HTML page
 1. When the button is clicked, make the div double in size, and change the color from red to blue.
 1. After 3 seconds, make the div revert to its original size and color.
 
-##Challenge #4 TIC TAC TOE
+## Challenge #4 TIC TAC TOE
 1. Create a grid of nine boxes
 1. When any box is clicked a red `X` appears
 1. When the next box is clicked a Blue `O` appears
