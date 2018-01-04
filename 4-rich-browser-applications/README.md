@@ -34,8 +34,8 @@
 ---
 
 ## Challenges
-1. [Individual Challenges](INDIVIDUAL_CHALLENGES.md)
-1. [Group Challenges](TEAM_CHALLENGES.md)
+1. [Individual Challenges](learning-materials/INDIVIDUAL_CHALLENGES.md)
+1. [Group Challenges](learning-materials/TEAM_CHALLENGES.md)
 ---
 
 ## RBA Group Projects

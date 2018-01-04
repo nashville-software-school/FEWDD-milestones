@@ -219,8 +219,8 @@
 
 ---
 ## Challenges
-1. [Individual Challenges](SW_INDIVIDUAL_CHALLENGES.md)
-1. [Group Challenges](SW_TEAM_CHALLENGES.md)
+1. [Individual Challenges](learning-materials/SW_INDIVIDUAL_CHALLENGES.md)
+1. [Group Challenges](learning-materials/SW_TEAM_CHALLENGES.md)
 ---
 
 ## Static Web Group Projects
