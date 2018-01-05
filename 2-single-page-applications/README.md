@@ -149,27 +149,6 @@ NSS Study Guide: SASS
 
 ---
 
-## * CSS Conventions
-
-[NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_CONVENTIONS.md)
-
-### Articles
-1. [CSS for BEM](https://en.bem.info/methodology/css/)
-1. [BEM 101](https://css-tricks.com/bem-101/)
-1. [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
-
-### Videos to Watch
-
-1. [Introduction to BEM - A front-end methodology](https://www.youtube.com/watch?v=IO-4Z32O--c)
-1. [What is BEM CSS and how to use it](https://www.youtube.com/watch?v=Ysf0LhP8jus)
-1. [BEM CSS How to apply BEM to your classes](https://www.youtube.com/watch?v=LqBm9R9nrlE)
-1. [BEM: complete guide for your component frontend development](https://www.youtube.com/watch?v=xlVRaUZ6WKU)
-
-### NSS Exercises
-[CSS BEM: Car Dealership](learning-materials/EX_CSS_BEM.md)
-
----
-
 ## Challenges
 1. [Individual Challenges](learning-materials/SP_INDIVIDUAL_CHALLENGES.md)
 1. [Group Challenges](learning-materials/SP_TEAM_CHALLENGES.md)
@@ -184,12 +163,21 @@ NSS Study Guide: SASS
 
 ## Additional Resouces
 1. [Simple SPA Example](learning-materials/SP_JS_SPA_SIMPLE.md)
+
 1. [JS this](learning-materials/SP_JS_THIS)
+
 1. Markdown
     * [GitHub](https://guides.github.com/features/mastering-markdown/)
     * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-1. [CSS BEM](learning-materials/SP_CSS_BEM.md)
+    
 1. VIM
     * [A Great VIM Cheat Sheet](http://vimsheet.com/)
     * [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
+    
+1. [CSS BEM](learning-materials/SP_CSS_BEM.md)
+    * [NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_CONVENTIONS.md)
+    * [CSS for BEM](https://en.bem.info/methodology/css/)
+    * [BEM 101](https://css-tricks.com/bem-101/)
+    * [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
+    
 
