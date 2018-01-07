@@ -13,10 +13,10 @@
 
 
 ## Week 2
-[What is Design Keynote Presentation](https://drive.google.com/file/d/1jrSeZla3K3G_qRt2OeGOui6IDzyJWYb1) 
-[Personas Keynote Presentation](https://drive.google.com/file/d/1tKPe4KaMJKH4BsM_l3CefSULrNaMXiiR) 
-[Frame the Problem Keynote Presentation](https://drive.google.com/file/d/1gKd-lL9ftspIgyPNwl2uYuIke5QwA_qC)  
-[Portfolios Keynote Presentation](https://drive.google.com/file/d/1DtYNsi2qnpJIbEmasDLDKQfcWjglFsFo/view?usp=sharing)  
+* [What is Design Keynote Presentation](https://drive.google.com/file/d/1jrSeZla3K3G_qRt2OeGOui6IDzyJWYb1) 
+* [Personas Keynote Presentation](https://drive.google.com/file/d/1tKPe4KaMJKH4BsM_l3CefSULrNaMXiiR) 
+* [Frame the Problem Keynote Presentation](https://drive.google.com/file/d/1gKd-lL9ftspIgyPNwl2uYuIke5QwA_qC)  
+* [Portfolios Keynote Presentation](https://drive.google.com/file/d/1DtYNsi2qnpJIbEmasDLDKQfcWjglFsFo/view?usp=sharing)  
 
 
 
