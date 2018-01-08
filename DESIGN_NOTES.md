@@ -1,4 +1,6 @@
 # Design
+<ul>
+[Design Site](https://sites.google.com/susanculkin.com/fewdd-b) (Resources, References, etc.)
 
 ## Week 1
 [Intro Keynote Presentation](https://drive.google.com/open?id=1Z67BeBCv86EwYmqFfE-uuQo5Ubx5HQAR) 
