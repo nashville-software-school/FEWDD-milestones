@@ -113,7 +113,21 @@
 + [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ---
+## * Javascript DOM Manipulation
 
+[NSS Study Guide: JS DOM Manipulation](learning-materials/JS_DOM.md)
+
+### Videos to Watch
+
+1. [JavaScript Tutorial For Beginners #33 - Traversing the DOM](https://www.youtube.com/watch?v=SowaJlX1uKA)
+1. [Javascript Tutorial Part 8: Javascript getElementById](https://www.youtube.com/watch?v=Rk3bekL3TLc)
+1. [JavaScript Tutorial for Beginners - 29 - getElementsByClassName](https://www.youtube.com/watch?v=ChLd2yFp-lA)
+1. [JavaScript Tutorial for Beginners - 27 - getElementsByTagName method](https://www.youtube.com/watch?v=SwMgOMfelC8)
+1. [JavaScript Tutorial for Beginners - 30 - Replace content using innerHTML](https://www.youtube.com/watch?v=dlaYyZ6vW48)
+
+### NSS Exercises
+1. Try it out: Personal Site/Blog - use JS to display your blog posts.
+---
 
 ## * Javascript: Primitives & Arrays
 [NSS Study Guide: JS Primitives and Arrays](learning-materials/JS_PRIMITIVES_ARRAYS.md)
@@ -128,6 +142,11 @@
 ### Videos
 
 [NSS Learning Team: JS Array Methods](https://www.youtube.com/watch?v=y2LSiUm29hc&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=2)
+
+### NSS Exercises
+1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
+1. [Reindeer](learning-materials/JS_REINDEER.md)
+1. Personal Site/Blog - put blog posts into an array and display.
 
 ---
 
@@ -146,25 +165,7 @@
 [NSS Learning Team: Functions as sub-programs](https://www.youtube.com/watch?v=XBVombfX-lQ&list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC&index=1)
 
 ### NSS Exercises
-
-1. [Reindeer](learning-materials/JS_REINDEER.md)
-
----
-
-## * Javascript DOM Manipulation
-
-[NSS Study Guide: JS DOM Manipulation](learning-materials/JS_DOM.md)
-
-### Videos to Watch
-
-1. [JavaScript Tutorial For Beginners #33 - Traversing the DOM](https://www.youtube.com/watch?v=SowaJlX1uKA)
-1. [Javascript Tutorial Part 8: Javascript getElementById](https://www.youtube.com/watch?v=Rk3bekL3TLc)
-1. [JavaScript Tutorial for Beginners - 29 - getElementsByClassName](https://www.youtube.com/watch?v=ChLd2yFp-lA)
-1. [JavaScript Tutorial for Beginners - 27 - getElementsByTagName method](https://www.youtube.com/watch?v=SwMgOMfelC8)
-1. [JavaScript Tutorial for Beginners - 30 - Replace content using innerHTML](https://www.youtube.com/watch?v=dlaYyZ6vW48)
-
-### NSS Exercises
-1. [Boy Bands](learning-materials/JS_BOYBANDS.md)
+1. [Grades](learning-materials/JS_GRADES.md)
 
 ---
 
@@ -200,7 +201,6 @@
 ### NSS Exercises
 1. [Coins to Cash](learning-materials/JS_COINS_TO_CASH.md)
 1. [Cash to Coins](learning-materials/JS_CASH_TO_COINS.md)
-1. [Grades](learning-materials/JS_GRADES.md)
 1. [Object Constructor](learning-materials/OBJ_GREETING-CARD.md)
 
 ---
