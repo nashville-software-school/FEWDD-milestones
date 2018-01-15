@@ -114,7 +114,7 @@ commands[3] = 24;
 // ["periwinkle", 42, "shift left", 24]
 ```
 
-You can use the `push()` method which is available on an variable that holds an array. This method puts a new item on the end of the array.
+You can use the `push()` method which is available to a variable that holds an array. This method puts a new item on the end of the array.
 
 ```
 commands.push("hot route");
