@@ -174,7 +174,7 @@
 [NSS Study Guide: JS String Manipulation](learning-materials/JS_STRING_MANIPULATION.md)
 
 ### NSS Exercises
-1. 
+1. Give me a Vowel - how many in a string?
 
 ### In-class Exercises
 1. [Sonnet](learning-materials/JS_SONNET.md) - string methods
@@ -203,19 +203,6 @@
 1. [Cash to Coins](learning-materials/JS_CASH_TO_COINS.md)
 1. [Object Constructor](learning-materials/OBJ_GREETING-CARD.md)
 
----
-
-## * Rapid Prototyping
-
-### NSS Exercises
-1. Exercise 1
-
----
-
-## * Wireframes
-
-### NSS Exercises
-1. Exercise 1
 
 ---
 ## Challenges
