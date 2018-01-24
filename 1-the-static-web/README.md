@@ -112,6 +112,13 @@
 + [Git Workflow](learning-materials/GIT_WORKFLOW.md)
 + [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
+### The README.md and examples
+
++ [About READMEs](https://help.github.com/articles/about-readmes/)
++ [Example 1](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
++ [Example 2](https://github.com/ryanoasis/nerd-fonts)
++ [Example 3](https://github.com/ryanoasis/vim-devicons/blob/master/readme.md)
+
 ---
 ## * Javascript DOM Manipulation
 
