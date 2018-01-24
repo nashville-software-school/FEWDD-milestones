@@ -150,7 +150,7 @@
 
 ---
 
-## * Javascript: If Switch & For
+## * Javascript: If, Switch, & For
 
 [NSS Study Guide: Javascript: If, Switch, & For](learning-materials/JS_IF_SWITCH_FOR.md)
 
