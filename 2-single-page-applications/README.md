@@ -64,6 +64,14 @@
 [NSS Study Guide: Design Modularity](learning-materials/DESIGN_MODULARITY.md)
 
 ---
+## * CSS Conventions
+
+[CSS BEM](learning-materials/SP_CSS_BEM.md)
+* [NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_BEM.md)
+
+### NSS Exercise
+* [Car Dealership](learning-materials/EX_BEM.md)
+---
 
 ## * SASS
 
@@ -76,7 +84,6 @@ NSS Study Guide: SASS
 
 
 ### NSS Exercises
-1. [SASS and Pets](learning-materials/EX_SASS_AND_PETS.md)
 1. Add SASS to your personal/site blog.
 
 ---
@@ -171,15 +178,14 @@ NSS Study Guide: SASS
 1. Markdown
     * [GitHub](https://guides.github.com/features/mastering-markdown/)
     * [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    
+
 1. VIM
     * [A Great VIM Cheat Sheet](http://vimsheet.com/)
     * [Interactive VIM tutorial](http://www.openvim.com/tutorial.html)
-    
-1. [CSS BEM](learning-materials/SP_CSS_BEM.md)
-    * [NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_CONVENTIONS.md)
+
+1. BEM Resources
     * [CSS for BEM](https://en.bem.info/methodology/css/)
     * [BEM 101](https://css-tricks.com/bem-101/)
     * [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319)
-    
+
 
