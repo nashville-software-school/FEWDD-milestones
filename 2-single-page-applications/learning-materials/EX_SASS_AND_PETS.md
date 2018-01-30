@@ -17,11 +17,11 @@
     ```
 1. Add the following files and directories for this exercise
 
-  ```sh
-  touch index.html
-  mkdir scss
-  mkdir css
-  ```
+    ```sh
+    touch index.html
+    mkdir scss
+    mkdir css
+    ```
 
 ## Details and Technical Requirements
 
