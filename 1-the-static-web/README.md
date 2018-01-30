@@ -65,7 +65,7 @@
 ## * CSS 102
 
 * [NSS Study Guide: CSS 102](learning-materials/CSS_102.md)
-* [CSS Naming Conventions](learning-materials/CSS_NAMING.md)
+* [CSS Naming Conventions](learning-materials/CSS_NAMES.md)
 
 ### Related Articles
 
