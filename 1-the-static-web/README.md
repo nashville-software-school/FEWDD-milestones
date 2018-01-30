@@ -65,6 +65,7 @@
 ## * CSS 102
 
 [NSS Study Guide: CSS 102](learning-materials/CSS_102.md)
+[CSS Naming Conventions](learning-materials/CSS_NAMING.md)
 
 ### Related Articles
 
@@ -99,7 +100,7 @@
 ### Resources
   + Google Developer Tools >> Audits >> Accessibility
   + [Contrast Checker](https://webaim.org/resources/contrastchecker/)
-  + [W3 Accessibility](https://www.w3.org/standards/webdesign/accessibility)  
+  + [W3 Accessibility](https://www.w3.org/standards/webdesign/accessibility)
   + [Article: Web Content Accessibility](https://www.invisionapp.com/blog/guide-web-content-accessibility/)
 
 ---
@@ -108,7 +109,7 @@
 
 ### Resources
 
-+ [Git Basics](learning-materials/GIT_BASICS.md)  
++ [Git Basics](learning-materials/GIT_BASICS.md)
 + [Git Workflow](learning-materials/GIT_WORKFLOW.md)
 + [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
