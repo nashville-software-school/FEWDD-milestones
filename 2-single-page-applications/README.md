@@ -76,6 +76,7 @@ NSS Study Guide: SASS
 
 
 ### NSS Exercises
+1. [SASS and Pets](learning-materials/EX_SASS_AND_PETS.md)
 1. Add SASS to your personal/site blog.
 
 ---
