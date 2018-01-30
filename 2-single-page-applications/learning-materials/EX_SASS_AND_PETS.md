@@ -1,9 +1,6 @@
-# SASS And Pets
+# Exercise: SASS And Pets
 
-Create a page for **Sass Pets**.
-
-
-## Objective: Use a styleguide and Sass to compile css for a page with various elements.
+## Objective: Create a webpage for Sass Pets (a pet spa) using a styleguide and Sass to compile all of the css for the various elements on the page.
 
 ### Setup
 
