@@ -216,8 +216,10 @@
 ## Challenges
 1. [Individual Challenges](learning-materials/SW_INDIVIDUAL_CHALLENGES.md)
 1. [Group Challenges](learning-materials/SW_TEAM_CHALLENGES.md)
+1. [Milestone Challenge](learning-materials/CHALLENGE_JS_TREE.md)
 ---
 
 ## Static Web Group Projects
 1. Product Website
 1. Website Re-design
+
