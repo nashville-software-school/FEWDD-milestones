@@ -1,6 +1,6 @@
 # Asynchronous Programming with XHR
 
-We're going to use jQuery [jQuery Intro](learning-materials/JQUERY_INTRO.md) to learn asynchronous programming. Asynchronous programming will feel a bit weird at first, because up until this point, you are used to your code working in a clear, one-directional path. Sure, you've learned to split code up into modules, but if you can follow the path of logic through the modules, it's fairly easy to comprehend how the code works.
+You've already used XHR requests to make asynchronous calls. In jQuery, we can use an asynchronous HTTP (Ajax) request which abstracts away the XHR event listeners. Let's look at asynchronous programming using jQuery [jQuery Intro](JQUERY_INTRO.md). Asynchronous programming will feel a bit weird at first, because up until this point, you are used to your code working in a clear, one-directional path. Sure, you've learned to split code up into modules, but if you can follow the path of logic through the modules, it's fairly easy to comprehend how the code works.
 
 Async throws a wrench into all of that. The first thing you need to understand is that requesting resources from somewhere on the Internet can take anywhere between 200ms and 5 seconds.
 
@@ -56,5 +56,3 @@ document.querySelector(".firstName").addEventListener(
 ```
 
 XHRs work similarly. When an XHR request gets a response, an event is fired. That event is the `load` event. jQuery abstracts that event listener away for you. You don't have to listen for that event. What you do is pass a callback function to the `done()` method on the XHR itself. Inside jQuery, it listens for the `load` event, and when that happens, your callback function is executed.
-
-
