@@ -14,7 +14,7 @@ touch seasonal-sales.js
 
 Your job is to build a department store's web page that lists products, the name of the department each one is in, and the price.
 
-The two JSON representations above should be in two files: `products.json`, and `categories.json` (see below). Use jQuery's `ajax()` method to read the data from those files, and then build HTML representations of the data.
+The two JSON representations above should be in two files: `products.json`, and `categories.json` (see below). Use Javascript's `XMLHttpRequest()` method to read the data from those files, and then build HTML representations of the data.
 
 > Contents of `products.json` file
 
