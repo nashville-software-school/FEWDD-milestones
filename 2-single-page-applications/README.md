@@ -99,7 +99,7 @@ NSS Study Guide: SASS
 1. [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ### NSS Exercises
-1. [Seasonal Sales](learning-materials/EX_JS_XHR_SEASONAL_SALES)
+1. [Seasonal Sales](learning-materials/EX_JS_XHR_SEASONAL_SALES.md)
 
 ---
 
