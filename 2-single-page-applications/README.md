@@ -159,7 +159,7 @@ NSS Study Guide: SASS
 
 ---
 
-## Challenges
+## Bonus Challenges
 1. [Individual Challenges](learning-materials/SP_INDIVIDUAL_CHALLENGES.md)
 1. [Group Challenges](learning-materials/SP_TEAM_CHALLENGES.md)
 
