@@ -21,3 +21,6 @@ Each of those features is a separate component, and you must write your code as 
 1. While you are developing, make sure Grunt is verifying your JavaScript syntax every time you save a file.
 1. Grunt should be compiling your modules each time you save a JavaScript file.
 1. Grunt should be minifying your code each time you save a JavaScript file.
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

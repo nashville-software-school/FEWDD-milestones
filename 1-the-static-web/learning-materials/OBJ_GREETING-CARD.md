@@ -71,3 +71,6 @@ const CardMaker = {
 //Refactor this to link this object to cardMaker
 const BirthdayCard = Object.create();
 ```
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

@@ -55,3 +55,5 @@ function determineConverter (clickEvent) {
 // Assign a function to be executed when the button is clicked
 button.addEventListener("click", determineConverter);
 ```
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

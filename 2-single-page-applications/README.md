@@ -67,7 +67,7 @@
 ## * CSS Conventions
 
 [CSS BEM](learning-materials/SP_CSS_BEM.md)
-* [NSS Study Guide: BEM Naming Conventions](learning-materials/CSS_BEM.md)
+* [NSS Study Guide: BEM Naming Conventions](learning-materials/EX_CSS_BEM.md)
 
 ### NSS Exercise
 * [Car Dealership](learning-materials/EX_BEM.md)
@@ -125,7 +125,7 @@ NSS Study Guide: SASS
 
 
 ## * NSS Exercises
-1. [Product Order](learning-materials/EX_PRODUCT_ORDER_BROWSERIFY)
+1. [Product Order](learning-materials/EX_PRODUCT_ORDER_BROWSERIFY.md)
 
 
 ---

@@ -37,3 +37,5 @@ For example, if my piggy bank only held those pennies from above, when I type th
 > dollarAmount
 $3.42
 ```
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

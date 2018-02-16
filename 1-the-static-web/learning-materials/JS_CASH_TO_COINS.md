@@ -32,3 +32,5 @@ That should produce the following output.
   pennies: 0
 }
 ```
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

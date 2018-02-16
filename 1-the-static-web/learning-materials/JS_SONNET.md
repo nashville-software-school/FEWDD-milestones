@@ -39,4 +39,5 @@ And, thou away, the very birds are mute:
 </div>
 ```
 
-
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
