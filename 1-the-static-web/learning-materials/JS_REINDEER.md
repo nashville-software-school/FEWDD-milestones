@@ -38,3 +38,5 @@ Your task is to loop through all the reindeer in the array, and add the name of 
 >  
 > ...
 
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

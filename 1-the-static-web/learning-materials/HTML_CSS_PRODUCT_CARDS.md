@@ -58,8 +58,12 @@ Your task is to build a grid of cards for a company's products. Here are the req
 1. The text for the product specification details and pricing details is bold.
 1. The availability element extends the full width of the card, with a dark grey background and yellow text.
 
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
+
 ### Visual example
 
 Here's an image that shows how the cards should appear.
 
 ![Static Web Product Cards Example](SW_HTML_CSS_exercise.png)
+

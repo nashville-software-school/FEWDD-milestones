@@ -11,3 +11,6 @@ You need to create a component for car dealerships to display details about indi
     1. Color of car
     1. Mileage of car
     1. Engine size
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

@@ -108,3 +108,6 @@ Write the code in this new file to complete the following tasks.
 1. Parse the string into a JavaScript object.
 1. Add one new object to each type array in your database (e.g. add a new piece of furniture).
 1. Store the new database back into local storage.
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

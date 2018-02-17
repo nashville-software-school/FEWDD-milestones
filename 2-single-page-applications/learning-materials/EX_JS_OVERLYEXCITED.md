@@ -161,3 +161,5 @@ Watch the video about arrow functions, and see if you can rewrite `addExcitement
 // function work with it.
 let addExcitement = () => { };
 ```
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

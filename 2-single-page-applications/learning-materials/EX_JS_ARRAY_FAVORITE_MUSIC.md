@@ -42,3 +42,6 @@ Use JavaScript arrays and innerHTML to show the music you love.
 
 #### Bonus
 *   Handle both upper and lowercase inputs. The way this is accomplished is up to you. Additional array methods may have to be employed to complete this bonus item.
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

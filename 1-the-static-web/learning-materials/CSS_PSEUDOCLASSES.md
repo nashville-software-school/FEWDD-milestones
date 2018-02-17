@@ -20,6 +20,9 @@ Copy and paste the code below into the `index.html` file for this exercise.
 1. The three `<span>` elements should be displayed as block elements with a 1 pixel border and 25 pixel margin on **all** sides.
 1. In the `article` element with the class `n-child`, add a 1 pixel border around every even numbered section element.
 
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
+
 ```html
 <ul class="top">
   <li class="block">1</li>

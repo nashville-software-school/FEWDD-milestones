@@ -39,3 +39,6 @@ reversal(testString);
 alphabits(testString);
 palindrome(testString);
 ```
+
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

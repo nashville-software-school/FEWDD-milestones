@@ -47,3 +47,5 @@
 
 ## Push your exercise to Github.
 
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.

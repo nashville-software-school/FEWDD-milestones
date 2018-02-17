@@ -22,3 +22,5 @@ Using one single line of JavaScript code, complete the following tasks on the ar
 ```js
 const integers = [23, 15, 6, 3, 11, 20, 18, 7, 21, 1, 29, 10, 12, 8];
 ```
+## Submit Your Exercise
+Upon completion, [submit your exercise](http://bit.ly/NSSExerciseSubmission) for review.
