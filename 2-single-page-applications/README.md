@@ -70,7 +70,7 @@
 * [NSS Study Guide: BEM Naming Conventions](learning-materials/EX_CSS_BEM.md)
 
 ### NSS Exercise
-* [Car Dealership](learning-materials/EX_BEM.md)
+* [Car Dealership](learning-materials/EX_CSS_BEM.md)
 ---
 
 ## * SASS
