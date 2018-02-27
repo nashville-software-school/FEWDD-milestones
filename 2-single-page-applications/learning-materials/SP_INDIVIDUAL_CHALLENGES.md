@@ -63,3 +63,7 @@ the shape should start moving towards the bottom of the game area.
 
 > Fun stuff with Canvas:
 > [21 Canvas Experiments](http://code.tutsplus.com/articles/21-ridiculously-impressive-html5-canvas-experiments--net-14210)
+
+## Challenge \#6 - Foodie List
+
+1. [Foodie List](learning-materials/EX_JS_FOODIE_LIST.md)
