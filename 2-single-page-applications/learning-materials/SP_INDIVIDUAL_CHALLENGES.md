@@ -66,4 +66,4 @@ the shape should start moving towards the bottom of the game area.
 
 ## Challenge \#6 - Foodie List
 
-1. [Foodie List](learning-materials/EX_JS_FOODIE_LIST.md)
+[Foodie List](EX_JS_FOODIE_LIST.md)
