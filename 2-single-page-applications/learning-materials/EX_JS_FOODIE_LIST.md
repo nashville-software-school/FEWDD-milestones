@@ -20,7 +20,7 @@ The two JSON representations above should be in two files: `restaurants.json`, a
 
 ```js
 {
-  "products": [
+  "restaurants": [
     {
       "id": 1,
       "restaurant": "Schaefer, DuBuque and Satterfield",
