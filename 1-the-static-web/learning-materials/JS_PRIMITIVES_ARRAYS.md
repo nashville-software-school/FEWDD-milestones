@@ -97,10 +97,19 @@ console.log("Hello, world!");
 
 ## Arrays
 
-Arrays are like buckets that you can use to store a collection numbers and/or strings.
+Arrays are like buckets that you can use to store a collection numbers, strings, and/or objects.
 
+An array can looks like this:
 ```
-var commands = ["blue", 42, "shift left", "hut"];
+var projects = [ ]
+var items = ["blue", 42, "shift left", "hut", crayonBox];
+var arrayOfObjects = [ {}, {}, {}, {}]
+```
+
+Individual items in an array can be accessed by their index value.
+```
+var projects = [ {}, {}, {}, {}, ...]
+                  0   1   2   3 ...
 ```
 
 ### Adding/removing items to an array
