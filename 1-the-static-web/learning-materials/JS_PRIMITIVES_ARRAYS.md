@@ -78,8 +78,20 @@ If you tried to use the variable `name` at this point, it's value would be `Susa
 
 ### Declaring variables with let and const (ES6)
 
-ES6 brings new ways to declare variables allowing more controll over scope. 
-
+ES6 brings new ways to declare variables allowing more control over scope. 
+* `let` works similarly to `var`, but the variable it declares is block-scoped, it only exists within the current block. 
+* `var` is function-scoped.
+* `const` works like `let`, but the variable you declare must be immediately initialized, with a value that can’t be changed afterwards.
+  * Since `for-of` creates one binding (storage space for a variable) per loop iteration, it is OK to const-declare the loop variable:
+```
+for (const x of ['a', 'b']) {
+    console.log(x);
+}
+// Output:
+// a
+// b
+```
+Overview of Variables - http://exploringjs.com/es6/ch_variables.html#sec_overview-variables
 
 ## Math Expressions
 
