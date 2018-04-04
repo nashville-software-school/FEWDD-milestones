@@ -9,18 +9,7 @@
 ## API's
 
 ### NSS Exercises
-1. [Weather API](RBA_API_WEATHER_APP.md)
-
----
-
-## Handlebars Templates
-
-[NSS Study Guide: Handlebars](learning-materials/RBA_HANDLEBARS.md)
-
-### NSS Exercises
-1. Convert your personal site blog to Handlebars.
-
----
+1. [Weather API](learning-materials/RBA_API_WEATHER_APP.md)
 
 ---
 
@@ -36,9 +25,4 @@
 ## Challenges
 1. [Individual Challenges](learning-materials/INDIVIDUAL_CHALLENGES.md)
 1. [Group Challenges](learning-materials/TEAM_CHALLENGES.md)
----
-
-## RBA Group Projects
-1. Movie History
-2. Pinterest
 
