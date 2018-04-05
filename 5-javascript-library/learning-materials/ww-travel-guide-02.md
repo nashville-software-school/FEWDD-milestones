@@ -67,3 +67,4 @@ Consider JS array methods.
 **Bonus**
 * Create a second component for the actual book information. Pass the individual book data as props and display.
 * Contain the book information in a `card` format and incorporate a js library for styling.
+
