@@ -2,9 +2,9 @@
 
 **You need to complete steps 1-4 before this one**
 
-## Routing
+## Include Routing
 
-* Selecting a guide will display it on a new page (handleClick())
+* Selecting a guide will display it in a new view (page).
 *
 ```
  this.context.router.transitionTo(`/guide/${guideId}`)
@@ -21,9 +21,8 @@
 ```
 
 
-
 **Pro-tip**
 * Remember to add the "keys" that React likes to your dynamic data rendering.
 * `import {BrowserRouter, Match, Miss} from 'react-router';`
 * https://tylermcginnis.com/react-router-nested-routes/
-*
+
