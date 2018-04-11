@@ -5,13 +5,13 @@
 ## Include Routing
 
 * Selecting a guide will display it in a new view (page).
-*
+
+```jsx
+<Link to={`${match.url}/${id}`}>{title}</Link>
 ```
- this.context.router.transitionTo(`/guide/${guideId}`)
- ```
 
 * Incorporate `react-router-dom` to view the individual guides.
-* Include a "Show List" button
+* Include a "Show Guides" button
 
 ```jsx
 <Route exact path="/" component={Guides} />
@@ -20,7 +20,8 @@
 
 
 **Pro-tip**
-* Remember to add the "keys" that React likes to your dynamic data rendering.
+* Remember to add "keys" to your looped items. React needs a unique value when rendering dynamic data.
+
 ```
 import {
   BrowserRouter as Router,
@@ -31,5 +32,6 @@ import {
 } from 'react-router-dom'
 ```
 
+## Great Walk-through
 * Reference: https://tylermcginnis.com/react-router-nested-routes/
 
