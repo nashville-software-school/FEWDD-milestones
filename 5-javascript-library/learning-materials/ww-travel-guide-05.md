@@ -12,17 +12,24 @@
 
 * Incorporate `react-router-dom` to view the individual guides.
 * Include a "Show List" button
-* Setup `Match` and `Miss`
 
 ```jsx
-<Match exactly pattern="/" component={App} />
-<Match pattern="/guide/:guideId" component={Guide} />
-<Miss component={NotFound} />
+<Route exact path="/" component={Guides} />
+<Route path="/guides/:id" component={OneGuide} />
 ```
 
 
 **Pro-tip**
 * Remember to add the "keys" that React likes to your dynamic data rendering.
-* `import {BrowserRouter, Match, Miss} from 'react-router';`
-* https://tylermcginnis.com/react-router-nested-routes/
+```
+import {
+  BrowserRouter as Router,
+  Route,
+  Link,
+  Switch,
+  Redirect
+} from 'react-router-dom'
+```
+
+* Reference: https://tylermcginnis.com/react-router-nested-routes/
 
