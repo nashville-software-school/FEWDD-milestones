@@ -10,7 +10,7 @@
  this.context.router.transitionTo(`/guide/${guideId}`)
  ```
 
-* Incorporate `react-router` to view the individual guides.
+* Incorporate `react-router-dom` to view the individual guides.
 * Include a "Show List" button
 * Setup `Match` and `Miss`
 
