@@ -1,10 +1,12 @@
-# React - A Javascript Library
+# Javascript Library and Data
 
-## Resources
+## React
+### Resources
 https://reactjs.org
 
-## NSS Learning Materials
+### NSS Learning Materials
 * [React101](learning-materials/react101.md)
+* [Deploy to Github](learning-materials/deploy.md)
 
 ## NSS Exercises
 * [Wide World Travel Guide 01](learning-materials/ww-travel-guide-01.md)
@@ -13,6 +15,7 @@ https://reactjs.org
 * [Wide World Travel Guide 04](learning-materials/ww-travel-guide-04.md)
 * [Wide World Travel Guide 05](learning-materials/ww-travel-guide-05.md)
 
-# Data Local Storage
-## NSS Learning Materials
+
+## Data Local Storage
+### NSS Learning Materials
 * [Local Storage](learning-materials/local-storage.md)
