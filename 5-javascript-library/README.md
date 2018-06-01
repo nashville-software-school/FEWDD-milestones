@@ -2,7 +2,9 @@
 
 ## React
 ### Resources
-https://reactjs.org
+* https://reactjs.org
+  * **Go through the "Get Started" section**
+
 
 ### NSS Learning Materials
 * [React101](learning-materials/react101.md)
