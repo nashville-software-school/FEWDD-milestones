@@ -2,8 +2,8 @@
 
 ## Instructions
 1. Create a view with input areas for each of the following. 
-1. On click, save the input to local web storage and change to a new view.
-1. Retrieve the items in local web storage and display on the DOM within the appropriate place of the paragraph.
+1. On click, save the input to local web storage and change to a new view/page that will display the following paragraph.
+1. Retrieve the items in **local web storage** and display on the DOM within the appropriate place of the paragraph.
 
 ### Word Collection
 1. Plural noun
@@ -33,7 +33,8 @@ as many bags of `plural noun` as they can before being caught. According to an i
 The poor thing had mistaken leftover `type of food` for dried up `plural noun`. "It was a/an `adjective` minstake. I am a good cook!"
 
 ## Bonus 1
-1. Once you complete the first set of instructions, add a `start over` button.
+1. Once you complete the first set of instructions, add a `start over` button. 
+1. Start over should clear the local storage. 
 
 ## Bonus 2
 1. Review the display and incorporate best practice for forms
