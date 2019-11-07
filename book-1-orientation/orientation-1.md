@@ -11,10 +11,22 @@
 * [Frame the Challenge](FrameTheChallenge.pdf)
 * [Portfolio](PortfolioNotes.pdf)
 
+### Crafting Your Portfolio and Getting Ready for Interviews!
+* [What I learned from flying to Seattle for Microsoft’s final wave of design interviews](https://www.freecodecamp.org/news/what-i-learned-from-flying-to-seattle-for-microsofts-final-wave-of-design-interviews-8eab06c50ce5/) [22 min read]
+  * This Medium story is long. But if you want to know how design position interviews go at big companies, you will learn a lot here. The writer goes into minute detail, such as checking in to her hotel room!
+* [Crafting Your UX Portfolio — A Weekend Guide to Getting It Done](https://writing.enchant.co/crafting-your-ux-portfolio-a-weekend-guide-to-getting-it-done-632e13acd3d1)
+* [What do employers expect from UX designers](https://uxdesign.cc/what-employers-expect-from-ux-designers-49d2819be0d4) [3 min read]
+
+
 ### Worksheets
 * [Persona](WS-Persona.pdf)
 * [Frame the Challenge](WS-FrameChallenge.pdf)
 
 ## Watch and Read
 * [Who Are the Users of The Met's Online Collection?, persona for the Metropolitan Museum of Art](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]
-* [Recruiters Look for this Important Aspect in Your UX Design Portfolio](https://medium.muz.li/recruiters-look-for-this-important-aspect-in-your-portfolio-1947f15a7766) [article – 6 min read]
+* Crafting Your Portfolio and Getting Ready for Interviews!
+  * [What I learned from flying to Seattle for Microsoft’s final wave of design interviews](https://www.freecodecamp.org/news/what-i-learned-from-flying-to-seattle-for-microsofts-final-wave-of-design-interviews-8eab06c50ce5/) [22 min read]
+    * How a design position interview goes at big companies. The writer goes into minute details including checking in to her hotel room.
+  * [Crafting Your UX Portfolio — A Weekend Guide to Getting It Done](https://writing.enchant.co/crafting-your-ux-portfolio-a-weekend-guide-to-getting-it-done-632e13acd3d1)
+  * [What do employers expect from UX designers](https://uxdesign.cc/what-employers-expect-from-ux-designers-49d2819be0d4) [3 min read]
+  * [Recruiters Look for this Important Aspect in Your UX Design Portfolio](https://medium.muz.li/recruiters-look-for-this-important-aspect-in-your-portfolio-1947f15a7766) [article – 7 min read]
