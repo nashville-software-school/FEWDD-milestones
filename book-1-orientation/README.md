@@ -3,13 +3,13 @@
 Welcome. During the first two weeks you will be introduced to UI/UX techniques and ideas used in Front-End development. At the end of orientation you will use these skills and knowledge to build out several team projects focused on the process with emphasis on the user.
 
 Topics Include:
-1. [What is Design?](orientation-1.md)
+1. What is Design?
 2. Personas
 3. Frame the Challenge
-4. [Visual Design Basics](orientation-4.md)
-5. [Critiquing and Heuristics](orientation-2.md)
-6. [Clustering](orientation-3.md)
-7. [Journey Mapping](orientation-5.md)
+4. Visual Design Basics
+5. Critiquing and Heuristics
+6. Clustering
+7. Journey Mapping
 8. Information Architecture
 9. Prototyping
 10. UX Design Process
@@ -50,23 +50,32 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 
 
 ## Start The Journey
-[Guide](orientation-1.md)
-   1. [What is Design Intro](Design_Process_Intro.pdf)
-   1. [Team Specs](Team_Specs.pdf)
-   1. [Personas](Personas.pdf)
-   1. [Frame the Challenge](FrameTheChallenge.pdf)
-   1. [Portfolio Discussion](orientation-portfolio.md)
-   1. Cohort Website Discussion
-   1. [Visual Design Basics](orientation-4.md)
-   2. [Critique and Heuristics](orientation-2.md)
+   1. [Guide](orientation-1.md)
+   2. [What is Design Intro](Design_Process_Intro.pdf)
+   3. [Team Specs](Team_Specs.pdf)
+   4. [Personas](Personas.pdf)
+   5. [Frame the Challenge](FrameTheChallenge.pdf)
+   6. [Portfolio Discussion](orientation-portfolio.md)
+   7. Cohort Website Discussion
+   8. [Visual Design Basics](orientation-4.md)
+   9. [Critique and Heuristics](orientation-2.md)
+   10. [Inro: Journey Mapping and Information Architecture](orientation-5.md)
+   11. [Guide](orientation-6.md)
+       * [Journey Maps](JourneyMaps.pdf)
+       * [Information Architecture](InfoArch.pdf)
+   12. [Guide](orientation-7.md)
+       * [Design_Process.pdf](Design_Process.pdf)
+   13. [Guide](orientation-8.md)
+       * [Prototyping](Prototype.pdf)
+   14. [Guide](orientation-9.md)
+       * [Design Systems](DesignSys.pdf)
+       * [Usability](Usability.pdf)
+   15. [Guide](orientation-10.md)
+       * [Presenting and Defending Decisions](Present-Defend.pdf)
 
 
 
-
-
-
-
-Additional Starter Resources
+### Additional Starter Resources
 * [React Styleguidist](https://github.com/styleguidist/react-styleguidist)
 * [Figma To React](https://www.figma.com/blog/introducing-figma-to-react/)
 * [AirBNB React Sketch App Article](https://airbnb.design/painting-with-code/) and [Tool](https://github.com/airbnb/react-sketchapp)

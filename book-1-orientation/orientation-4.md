@@ -14,7 +14,8 @@
 * [10 Tips On Typography in Web Design by Nick Babich](https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d)
 * [Responsive Design Web Typography, by Jason Pamental](https://www.codementor.io/design/tutorial/responsive-design-web-typography-tutorial-jason-pamental)
 * [Papyrus](https://www.youtube.com/watch?v=jVhlJNJopOQ) [video]
-
+* [Vibrating Colors](https://webdesign.tutsplus.com/articles/why-you-should-avoid-vibrating-color-combinations--cms-25621) [5 min read]
+* [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)  [6:23 min video]
 
 ### Resources
 * [Google Fonts](https://fonts.google.com/)
@@ -31,7 +32,10 @@ Lorem Ipsum filler text: [traditional](https://www.lipsum.com/) and [fun](https:
 * [Interactive Screensize Map](https://www.screensizemap.com/)
 
 ## Practice
-### Explore Different Typography and Color Choices with Your Journal
+1. Get to Know Fonts
+   Using Google Fonts, decide on three sets of pairings you can declare as your 'Go To' font options. For each pairing, choose a headline and body font. Display each on an HTML. Be prepared to share with the class and defend your choices.
+
+2. Explore Different Typography and Color Choices with Your Journal
 
 Try experimenting with some different font pairings for your headings and body text and see how they change the look and feel of the content.
 

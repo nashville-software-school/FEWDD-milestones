@@ -1,6 +1,6 @@
 # UX Design Process
 
-[Design_Process.pdf](Design_Process.pdf)
+* [Design_Process.pdf](Design_Process.pdf)
 
 ## Watch and ReadWatch/Read for Monday, Feb 26
 * [Psychology Secrets for Great Interaction Design](https://thenextweb.com/dd/2015/09/03/5-psychology-secrets-for-great-interaction-design/#.tnw_E7pnFv7o) [article — 6.5 mins ]
