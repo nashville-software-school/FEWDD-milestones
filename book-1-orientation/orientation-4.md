@@ -2,6 +2,8 @@
 
 * [Page Layout](Page_Layout.pdf)
 * [Typography](Typography.pdf)
+* [Color](Colors.pdf)
+* [Design Basics and White Space](Design_Basics_Whitespace.pdf)
 
 
 * [Laws of UX](https://lawsofux.com/)
@@ -18,9 +20,18 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Adobe Fonts](https://fonts.adobe.com/)
 Lorem Ipsum filler text: [traditional](https://www.lipsum.com/) and [fun](https://designshack.net/articles/inspiration/30-useful-and-hilarious-lorem-ipsum-generators/)
+* [Adobe Color](https://color.adobe.com/)
+* [Canva](https://www.canva.com/colors/color-palette-generator/): Generate color palettes from uploaded images.
+* [Colormind](http://colormind.io/): an AI powered color scheme generator. It can learn color styles from photographs, movies, and popular art.
+* [Colors](http://clrs.cc/): "A nicer color palette for the web," color combos with strong accessibility tips
+* [Trendy Color Tools](https://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html): Color palettes for award-winning sites with a trending colors visualization.
+
+* Layout: [Gestalt Theory for UX Design: Proximity](https://uxplanet.org/gestalt-theory-for-ux-design-principle-of-proximity-e56b136d52d1): Explores the use and influence of Proximity in interactive design.
+* [Responsive_Design_Layout_Sizes.jpg](https://drive.google.com/drive/u/1/folders/17_o068ehOkK6f2IlSMHcoxaf_OlGpeO1) Screen widths and grids by pixel
+* [Interactive Screensize Map](https://www.screensizemap.com/)
 
 ## Practice
-### Explore Different Typography Choices with Your Personal Site
+### Explore Different Typography and Color Choices with Your Journal
 
 Try experimenting with some different font pairings for your headings and body text and see how they change the look and feel of the content.
 
