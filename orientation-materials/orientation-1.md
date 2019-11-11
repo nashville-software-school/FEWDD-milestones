@@ -15,8 +15,11 @@
 * [Frame the Challenge](FrameTheChallenge.pdf)
 
 
-## Design Practice:
-[Look Alike](https://github.com/nashville-software-school/uix-look-alike)
+## Design Practice
+* [Look Alike](https://github.com/nashville-software-school/uix-look-alike)
+* Prototype Tool - Create a mockup/prototype of your front-end capstone. 
+* Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design.
+  [Study other solutions](https://collectui.com/challenges)
 
 
 
