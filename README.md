@@ -2,21 +2,6 @@
 
 Welcome. During the first two weeks you will be introduced to UI/UX techniques and ideas used in Front-End development. At the end of orientation you will use these skills and knowledge to build out several team projects focused on the process with emphasis on the user.
 
-Topics Include:
-1. What is Design?
-2. Personas
-3. Frame the Challenge
-4. Visual Design Basics
-5. Critiquing and Heuristics
-6. Clustering
-7. Journey Mapping
-8. Information Architecture
-9. Prototyping
-10. UX Design Process
-11. Accessibility Requirements and Tools
-12. Design Systems
-13. Presentation and Defending Decisions
-
 ## New Technologies
 1. SASS
 2. Firebase
@@ -59,12 +44,12 @@ All of the digital tools have great tutorials provided by the maker. Take time t
    1. Cohort Website Discussion
    1. [Visual Design Basics](orientation-materials/orientation-4.md)
    1. [Critique and Heuristics](orientation-materials/orientation-2.md)
-   1. [Inro: Journey Mapping and Information Architecture](orientation-materials/orientation-5.md)
+   1. [Intro: Journey Mapping and Information Architecture](orientation-materials/orientation-5.md)
    1. [Guide](orientation-materials/orientation-6.md)
        * [Journey Maps](orientation-materials/JourneyMaps.pdf)
        * [Information Architecture](orientation-materials/InfoArch.pdf)
    1. [Guide](orientation-materials/orientation-7.md)
-       * [Design_Process.pdf](orientation-materials/Design_Process.pdf)
+       * [Design Process Guide](orientation-materials/Design_Process.pdf)
    1. [Guide](orientation-8.md)
        * [Prototyping](orientation-materials/Prototype.pdf)
    1. [Guide](orientation-materials/orientation-9.md)
