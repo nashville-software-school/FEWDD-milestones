@@ -14,10 +14,13 @@
 * [Personas](Personas.pdf)
 * [Frame the Challenge](FrameTheChallenge.pdf)
 
+## UI/UX Practice
+* Persona - Create a primary and secondary persona for your front-end capstone (worksheet below). You may find you have other users and at some point you will need to include them as well.
+* Frame the Challenge - use your front-end capstone as a resource (worksheet below)
 
 ## Design Practice
 * [Look Alike](https://github.com/nashville-software-school/uix-look-alike)
-* Prototype Tool - Create a mockup/prototype of your front-end capstone. 
+* Prototype Tool - Create a mockup/prototype of your front-end capstone.
 * Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design.
   [Study other solutions](https://collectui.com/challenges)
 
