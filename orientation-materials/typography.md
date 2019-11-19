@@ -9,7 +9,7 @@
 * Type: Printed characters or letters.
 * Typeface: A relief of the character on the face of a metal block for printing.
 
-![Anatomy of Typography](orientation-materials/typography-anatomy.png)
+![Anatomy of Typography](typography-anatomy.png)
 
 The early days of the web had limited fonts.
 ![Web Typefaces prior 2009](typography-earlyweb.png)
