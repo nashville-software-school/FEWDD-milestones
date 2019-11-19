@@ -4,7 +4,7 @@
 * Reference: [Jakob Nielsen's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ## Practice
-Evaluate your front-end capstone with the Usability Heuristics in mind. Document your findings.
+Evaluate your front-end capstone with `The Usability Heuristics` in mind. Document your findings.
 
 ## Watch/Read
 

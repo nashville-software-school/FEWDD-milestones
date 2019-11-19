@@ -1,7 +1,7 @@
 # Layout and Typography
 
 * [Page Layout](Page_Layout.pdf)
-* [Typography](Typography.pdf)
+* [Typography](typography.md)
 * [Color](Colors.pdf)
 * [Design Basics and White Space](Design_Basics_Whitespace.pdf)
 
