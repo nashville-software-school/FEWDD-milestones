@@ -17,7 +17,9 @@
 * [Vibrating Colors](https://webdesign.tutsplus.com/articles/why-you-should-avoid-vibrating-color-combinations--cms-25621) [5 min read]
 * [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)  [6:23 min video]
 
-*[Optimization](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
+*[Optimization: Web On a Budget](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
+*[Speed Up Mobile Websites](https://www.smashingmagazine.com/2019/06/web-designers-speed-mobile-websites/), especially #2.
+*[Elements to Ditch and Repurpose](https://www.smashingmagazine.com/2018/12/elements-ditch-repurpose-mobile/)
 
 ### Resources
 * [Google Fonts](https://fonts.google.com/)
