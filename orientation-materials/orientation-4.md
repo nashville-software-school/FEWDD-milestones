@@ -17,6 +17,8 @@
 * [Vibrating Colors](https://webdesign.tutsplus.com/articles/why-you-should-avoid-vibrating-color-combinations--cms-25621) [5 min read]
 * [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)  [6:23 min video]
 
+*[Optimization](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/)
+
 ### Resources
 * [Google Fonts](https://fonts.google.com/)
 * [Adobe Fonts](https://fonts.adobe.com/)
