@@ -9,11 +9,13 @@ Welcome. During the first two weeks you will be introduced to UI/UX techniques a
 
 ## Getting Started
 1. Start a resources document [Example](https://github.com/brendalong/design-resources)
-2. [DailyUI](https://www.dailyui.co/) - signup
-3. Google Drive Folder - Create a folder for SHARING files with your fellow students. You will work on team projects and will need to share files. Send the location to the instructor.
-4. [Behance](https://www.behance.net/) - Create an account. Showcase your work and find inspiration. Share with class and follow each other.
-5. [Pinterest](https://www.pinterest.com) is a good place to save inspiration and examples (optional)
-6. [Medium](https://medium.com) - signup with UI/UX options
+1. [DailyUI](https://www.dailyui.co/) - signup
+1. Google Drive Folder - Create a folder for SHARING files with your fellow students. You will work on team projects and will need to share files. Send the location to the instructor.
+1. [Dibble](https://dribbble.com/) - start with a regular account, get an invite. Share with class and follow each other.
+1. [Behance](https://www.behance.net/) - Create an account. Showcase your work and find inspiration. Share with class and follow each other.
+1. [Pinterest](https://www.pinterest.com) is a good place to save inspiration and examples (optional)
+1. [Medium](https://medium.com) - signup with UI/UX options
+
 
 ## Tools
 1. Notebook

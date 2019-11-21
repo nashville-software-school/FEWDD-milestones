@@ -4,9 +4,9 @@
 ### Journey Mapping [8 mins]
 This will make MUCH more sense to you if you get this reading and videos done before class.
 
-[Journey Mapping: What, How and When to Use Journey Maps](https://cleverclipstudios.com/de-ch/blog/journey-mapping-was-wie) [article-5 min]
-[Adaptive Path's Guide to Experience Mapping](https://drive.google.com/file/d/1BkLO53rAKHFcfjLcnPVwiI9ZPEHrWNxu/view) [PDF-20 min]
-[Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ) [video-3 min]
+* [Journey Mapping: What, How and When to Use Journey Maps](https://cleverclipstudios.com/de-ch/blog/journey-mapping-was-wie) [article-5 min]
+* [Adaptive Path's Guide to Experience Mapping](https://drive.google.com/file/d/1BkLO53rAKHFcfjLcnPVwiI9ZPEHrWNxu/view) [PDF-20 min]
+* [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ) [video-3 min]
 
 ### Information Architecture [43 mins]
 * [Why IA Matters for UX — A Brief History of Information Architecture](https://uxdesign.cc/a-brief-history-of-information-architecture-d26b17205e7b) [article-3 mins with a 4 min embedded video]
@@ -30,5 +30,5 @@ This will make MUCH more sense to you if you get this reading and videos done be
 ## Resources
 
 * [Optimal Workshop](https://www.optimalworkshop.com/)
-* [Abby the IA:  "Abby 'the IA' Covert is an independent information architect who aims to make the unclear, clear](http://abbytheia.com/)]
-* [Site Map Usability 47 Design Guidelines Based on Usability Studies with People Using Site Maps, Nielsen Norman Group](https://drive.google.com/file/d/1HoxGaYAnRFt3V24F3OdCZd1eAq_C2OlV/view)
+* [Abby the IA:](http://abbytheia.com/)  "Abby 'the IA' Covert is an independent information architect who aims to make the unclear, clear
+* [Site Map Usability](https://drive.google.com/file/d/1HoxGaYAnRFt3V24F3OdCZd1eAq_C2OlV/view) 47 Design Guidelines Based on Usability Studies with People Using Site Maps, Nielsen Norman Group
