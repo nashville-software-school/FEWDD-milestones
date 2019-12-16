@@ -1,11 +1,14 @@
-# Journey Mapping, Information Architecture, Prototyping
+# Journey Mapping
 
+## Start the Journey (before class)
+* [Journey Mapping: What, How and When to Use Journey Maps](https://cleverclipstudios.com/de-ch/blog/journey-mapping-was-wie) [article-5 min]
+* [Adaptive Path's Guide to Experience Mapping](https://drive.google.com/file/d/1BkLO53rAKHFcfjLcnPVwiI9ZPEHrWNxu/view) [PDF-20 min]
+* [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ) [video-3 min]
+* [Ux Mapping Cheat Sheet](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
+
+## Getting to Know Your User
 1. [Journey Maps](JourneyMaps.pdf)
-   1. [Ux Mapping Cheat Sheet](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
-1. [Information Architecture](InfoArch.pdf)
-   1. [Infographic](https://www.business2community.com/infographics/information-overload-users-burnt-social-media-infographic-0876828)
-   2. [The History of Amazon’s Tab Navigation](https://www.lukew.com/ff/entry.asp?178)
-   3. [Edward Tufte](https://www.edwardtufte.com/tufte/): statistician and artist
+
 
 ## 5 Steps for Journey Map
 Great starting points
@@ -19,14 +22,6 @@ User journeys requires plenty of research and teamwork. You interview multiple p
 
 
 ### Journey Map Job Story
+
 AS < PERSONA NAME > `_(SITUATION)_`, S/HE WANTS TO `_(MOTIVATION)_`, SO S/HE CAN `_(EXPECTED OUTCOME)_`.
 
-## Watch And Read
-* [Conversational Information Architectures](http://semanticstudios.com/conversational-information-architectures/)
-* [B2B vs. B2C Websites: Key UX Differences](https://www.nngroup.com/articles/b2b-vs-b2c/)
-
-## Practice
-1. Find an examples of one B2B and one. B2C e-commerce sites.
-2. Create a [Heuristics Evaluation](https://docs.google.com/document/d/1BtlzDNNX1ZSEnhmGpvMkZmtAwFtaCjewU7BH817nJPk/edit?usp=sharing) report for each. This can be a Google Doc.
-3. Include a summary identifying key differences between the two sites that pertains to their customers (i.e., what makes one site a B2B and one site a B2C other than the items they are selling? How do they handle pricing? Integrations? Regulations?)
-4. You may find that the site is missing key elements as you begin the evaluation. That's fine! In your report, identify the things that are missing and explain why they are important or should have been included.

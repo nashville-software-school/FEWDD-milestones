@@ -46,19 +46,19 @@ All of the digital tools have great tutorials provided by the maker. Take time t
    1. Cohort Website Discussion
    1. [Visual Design Basics](orientation-materials/orientation-4.md)
    1. [Critique and Heuristics](orientation-materials/orientation-2.md)
-   1. [Intro: Journey Mapping and Information Architecture](orientation-materials/orientation-5.md)
-   1. [Guide](orientation-materials/orientation-6.md)
-       * [Interview/Research](orientation-materials/Research.md)
+   1. [Guide: Information Architecture](orientation-materials/orientation-5.md)
+      * [Information Architecture](orientation-materials/InfoArch.pdf)
+   1. [Guide: Intro to Journey Mapping: Guide](orientation-materials/orientation-6.md)
        * [Journey Maps](orientation-materials/JourneyMaps.pdf)
-       * [Information Architecture](orientation-materials/InfoArch.pdf)
-   2. [Guide](orientation-materials/orientation-7.md)
+       * [Interview/Research](orientation-materials/Research.md)
+   1. [Guide: Design](orientation-materials/orientation-7.md)
        * [Design Process Guide](orientation-materials/Design_Process.pdf)
-   3. [Guide](orientation-materials/orientation-8.md)
+   1. [Guide: Prototyping](orientation-materials/orientation-8.md)
        * [Prototyping](orientation-materials/Prototype.md)
-   4. [Guide](orientation-materials/orientation-9.md)
+   1. [Guide: Design Systems](orientation-materials/orientation-9.md)
        * [Design Systems](orientation-materials/DesignSys.pdf)
        * [Usability](orientation-materials/Usability.pdf)
-   5. [Guide](orientation-materials/orientation-10.md)
+   1. [Guide: Presentation](orientation-materials/orientation-10.md)
        * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
 
 
@@ -68,3 +68,5 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 * [Figma To React](https://www.figma.com/blog/introducing-figma-to-react/)
 * [AirBNB React Sketch App Article](https://airbnb.design/painting-with-code/) and [Tool](https://github.com/airbnb/react-sketchapp)
 * [UX Pin](https://www.uxpin.com/studio/ebooks/) has lots of helpful, free UX Ebooks to download. "Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more."
+* [Get started with SASS for React](https://www.w3schools.com/react/react_sass.asp)
+* [Storybook - building components](https://storybook.js.org/)
