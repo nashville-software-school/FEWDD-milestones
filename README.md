@@ -48,7 +48,7 @@ All of the digital tools have great tutorials provided by the maker. Take time t
    1. [Critique and Heuristics](orientation-materials/orientation-2.md)
    1. [Intro: Journey Mapping and Information Architecture](orientation-materials/orientation-5.md)
    1. [Guide](orientation-materials/orientation-6.md)
-       * Interview/Research(orientation-materials/Research.md)
+       * [Interview/Research](orientation-materials/Research.md)
        * [Journey Maps](orientation-materials/JourneyMaps.pdf)
        * [Information Architecture](orientation-materials/InfoArch.pdf)
    2. [Guide](orientation-materials/orientation-7.md)
