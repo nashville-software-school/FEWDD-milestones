@@ -79,7 +79,7 @@ The alert went out at about 8:10 a.m., lighting up phones of people still in bed
 * Each group present their solution (max 15 minutes)
 
 
-## Interactive Prototype the missile exercise using a prototyping software
+## Interactive Prototype with prototyping software
 * **Wireframe:** Create a "Mid-Fidelity", B&W prototype that is interactive (i.e., when I click on a button, it should take me somewhere; when I click on a dropdown, I should see a list).
   * If you are designing for a mobile phone, design for iPhone 7 dimensions. It is the most common size in use today.
   * For monitors, 1280px width is a good default.
