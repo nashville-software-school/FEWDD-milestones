@@ -54,7 +54,7 @@ All of the digital tools have great tutorials provided by the maker. Take time t
    2. [Guide](orientation-materials/orientation-7.md)
        * [Design Process Guide](orientation-materials/Design_Process.pdf)
    3. [Guide](orientation-materials/orientation-8.md)
-       * [Prototyping](orientation-materials/Prototype.pdf)
+       * [Prototyping](orientation-materials/Prototype.md)
    4. [Guide](orientation-materials/orientation-9.md)
        * [Design Systems](orientation-materials/DesignSys.pdf)
        * [Usability](orientation-materials/Usability.pdf)
