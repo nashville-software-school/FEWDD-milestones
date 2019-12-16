@@ -5,6 +5,7 @@
 1. [Information Architecture](InfoArch.pdf)
    1. [Infographic](https://www.business2community.com/infographics/information-overload-users-burnt-social-media-infographic-0876828)
    2. [The History of Amazon’s Tab Navigation](https://www.lukew.com/ff/entry.asp?178)
+   3. [Edward Tufte](https://www.edwardtufte.com/tufte/): statistician and artist
 
 ## 5 Steps for Journey Map
 Great starting points

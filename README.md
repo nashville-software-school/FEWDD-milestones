@@ -5,7 +5,7 @@ Welcome. During the first two weeks you will be introduced to UI/UX techniques a
 ## New Technologies
 1. SASS
 2. Firebase
-3. React Hooks
+3. Advanced React
 
 ## Getting Started
 1. Start a resources document [Example](https://github.com/brendalong/design-resources)
@@ -48,16 +48,17 @@ All of the digital tools have great tutorials provided by the maker. Take time t
    1. [Critique and Heuristics](orientation-materials/orientation-2.md)
    1. [Intro: Journey Mapping and Information Architecture](orientation-materials/orientation-5.md)
    1. [Guide](orientation-materials/orientation-6.md)
+       * Interview/Research(orientation-materials/Research.md)
        * [Journey Maps](orientation-materials/JourneyMaps.pdf)
        * [Information Architecture](orientation-materials/InfoArch.pdf)
-   1. [Guide](orientation-materials/orientation-7.md)
+   2. [Guide](orientation-materials/orientation-7.md)
        * [Design Process Guide](orientation-materials/Design_Process.pdf)
-   1. [Guide](orientation-8.md)
+   3. [Guide](orientation-materials/orientation-8.md)
        * [Prototyping](orientation-materials/Prototype.pdf)
-   1. [Guide](orientation-materials/orientation-9.md)
+   4. [Guide](orientation-materials/orientation-9.md)
        * [Design Systems](orientation-materials/DesignSys.pdf)
        * [Usability](orientation-materials/Usability.pdf)
-   1. [Guide](orientation-materials/orientation-10.md)
+   5. [Guide](orientation-materials/orientation-10.md)
        * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
 
 
