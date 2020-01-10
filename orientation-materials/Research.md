@@ -18,5 +18,12 @@ User research focuses on understanding user behaviors, needs, and motivations th
 * [Skills for a UX Researcher](https://www.springboard.com/blog/becoming-a-ux-researcher/)
 
 ## Practice
-* Add to your twitter, 'Useability People'
-
+* Add ux, ui, usability to your twitter. Try these out:
+@UsabilityPeople
+@UIE
+@MeasuringU
+@WSJTech
+@HlthCrUsability
+@skrug
+@betterux_
+@UXBooth
