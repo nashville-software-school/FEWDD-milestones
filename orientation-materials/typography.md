@@ -4,10 +4,10 @@
 * Best practice for web fonts.
 
 ### Terms
-* Typography: The visual art of creating written words. The art or procedure of arranging type or processing data and printing from it.
-* Font: A set of characters of the same style and size.
-* Type: Printed characters or letters.
-* Typeface: A relief of the character on the face of a metal block for printing.
+* **Typography:** The visual art of creating written words. The art or procedure of arranging type or processing data and printing from it.
+* **Font:** A set of characters of the same style and size.
+* **Type:** Printed characters or letters.
+* **Typeface:** A relief of the character on the face of a metal block for printing.
 
 ![Anatomy of Typography](typography-anatomy.png)
 
@@ -28,15 +28,13 @@ body {
 
 ### Font Size with Various Screen Sizes
 * Tailor the heading sizes according to screen size.
-* As screen sizes get smaller, there are fewer elements present on the
-screen, and fewer characters that can be displayed per line.
+* As screen sizes get smaller, there are fewer elements present on the screen, and fewer characters that can be displayed per line.
 * Smaller font sizes for headers can still convey importance and hierarchy (such as reducing an H1 from 3em to 2em on smallest screens), but don’t need to shout, especially since there is less competition on the screen.
 * Text will wrap more smoothly from one line to the next.
 
 ### Selecting Fonts
 * Start with the paragraph ( p tag )
-* Includes typeface, line length, line height, indenting, initial
-capitals, link styles, and is the largest amount of text on the screen.
+* Includes typeface, line length, line height, indenting, initial capitals, link styles, and is the largest amount of text on the screen.
 * Match the message or purpose of your design
 * Consider context and audience
 * Use suitable fonts: Display fonts are not easy to read at length; use Body fonts for readability
@@ -52,7 +50,7 @@ capitals, link styles, and is the largest amount of text on the screen.
 ![](typography-left.png)
 
 ### Readability
-Best line length for readability- between 45-75 characters. A line length that is too short causes the eye to jump too quickly from one line to the next. A line length that is too long causes the reader’s eye to lose track of its place.
+Best line length for readability is between 45-75 characters. A line length that is too short causes the eye to jump too quickly from one line to the next. A line length that is too long causes the reader’s eye to lose track of its place.
 ![](typography-readability.png)
 
 Watch and Read

@@ -1,6 +1,5 @@
 # Design Systems
 
-* [Design Systems](DesignSys.pdf)
 * [Usability](Usability.pdf)
 
 ## ROI of UX:
@@ -23,7 +22,4 @@
 ## Practice
 Usability Test of Resy.com
 * Questions we came up with in class together: [Resy Questions](https://docs.google.com/document/d/1bBxMIGMxJ_Hvf--lYDYKyVnea3AwH1qWcGx1bTaANuI/edit)
-* Protocol I wrote based on those questions: [Resy Usability Protocol](https://docs.google.com/document/d/1CvOyRoZStmfP2usAyDbWF03ukVSqa_iGYH3h52Xeqas/)
-
-
-Wake up App https://sites.google.com/susanculkin.com/fewdd-b/home/week-15-16?authuser=0
+* Protocol based on those questions: [Resy Usability Protocol](https://docs.google.com/document/d/1CvOyRoZStmfP2usAyDbWF03ukVSqa_iGYH3h52Xeqas/)
