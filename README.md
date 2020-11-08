@@ -1,20 +1,30 @@
 # Building a foundation in the methods used by UI/UX.
 
-Welcome. During the first two weeks you will be introduced to UI/UX techniques and ideas used in Front-End development. At the end of orientation you will use these skills and knowledge to build out several team projects focused on the process with emphasis on the user.
+Welcome. During the next two months you will be introduced to UI/UX techniques and ideas used in Front-End development. You will use these skills and knowledge to build front-end projects with an emphasis on the user.
+
+At the end of this journey, you will be expected to demonstrate front-end development skills based on user feedback. An online portfolio is required and will include case studies demonstrating user inclusion as well as a comprehensive capstone that incorporates user feedback goals.
+
+* Your Portfolio itself
+* Front-End Capstone and Case Study - challenge statement, persona, user testing, and conclusion/summary of findings.
+* Cohort Website and Case Study - challenge statement, persona, wireframes, mockups, user testing/feedback, conclusion.
+* Banazon - applied technology and user goals.
+* Backend Capstone and Case Study - challenge statement, research/competitive analyst, persona, wireframes, mockups, user testing/feedback, conclusion.
+
 
 ## New Technologies
-1. SASS
-2. Firebase
-3. Advanced React
+1. CSS Tools (SASS, Bootstrap, CSS Grid)
+1. Firebase
+1. Prototype Tool (Figma)
 
 ## Getting Started
 1. Start a resources document [Example](https://github.com/brendalong/design-resources)
-1. [DailyUI](https://www.dailyui.co/) - signup
+1. Resource Collection
 1. Google Drive Folder - Create a folder for SHARING files with your fellow students. You will work on team projects and will need to share files. Send the location to the instructor.
 1. [Dibble](https://dribbble.com/) - start with a regular account, get an invite. Share with class and follow each other.
 1. [Behance](https://www.behance.net/) - Create an account. Showcase your work and find inspiration. Share with class and follow each other.
-1. [Pinterest](https://www.pinterest.com) is a good place to save inspiration and examples (optional)
 1. [Medium](https://medium.com) - signup with UI/UX options
+1. [Twitter](https://twitter.com/home) - Follow some folks. https://www.interaction-design.org/literature/article/20-people-in-ux-that-you-have-to-follow-on-twitter
+1. [DailyUI](https://www.dailyui.co/) - sign-up
 
 
 ## Tools
@@ -23,49 +33,90 @@ Welcome. During the first two weeks you will be introduced to UI/UX techniques a
 3. Post-its
 4. Index cards
 5. Mockup/Prototype Tool
-   * [Adobe XD](https://www.adobe.com/products/xd.html)
    * [Figma](https://www.figma.com)
+   * [Adobe XD](https://www.adobe.com/products/xd.html)
    * [Sketch](https://www.sketch.com)
-     * [Re-Sources](https://www.sketchappsources.com/)
+     * [Resources](https://www.sketchappsources.com/)
    * [Invision](https://www.invisionapp.com/)
+   * [Miro](https://miro.com/)
 6. Image Editing Software
-  * [Adobe Photoshop](https://www.adobe.com/products/catalog.html)
-  * [Adobe Illustrator](https://www.adobe.com/products/catalog.html)
-  * [Gimp](https://www.gimp.org/) (free)
+    * [Adobe Photoshop](https://www.adobe.com/products/catalog.html)
+    * [Adobe Illustrator](https://www.adobe.com/products/catalog.html)
+    * [Fotor](https://www.fotor.com/)
+    * [Gimp](https://www.gimp.org/) (free)
 
 All of the digital tools have great tutorials provided by the maker. Take time to learn your tool.
 
+## 1. The Mindset
+| Topic                                                                                                                        | Read & Watch                                                                                                                                                                                                                                                                                                   |  | Required                                                                      | Resources                                              |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|-------------------------------------------------------------------------------|--------------------------------------------------------|
+| [What is Design Intro](https://docs.google.com/presentation/d/1b_5N04BfQldGAlT9_PW7BQ50QUERnzEJjS1SzoMfOXc/edit?usp=sharing) | [IDEO cofounder Bill Moggridge on Birth of Interaction Design - ](https://www.youtube.com/watch?v=DAHHSS_WgfI&feature=youtu.be)(3 mins video) <br/> <br/>[Ted Talk: Paul Bennett Finds Design in the Details](https://www.ted.com/talks/paul_bennett_finds_design_in_the_details) (15 mins video)              |  |                                                                               |                                                        |
+| [Team Work - Specs](orientation-materials/Working_Together.pdf)                                                              |                                                                                                                                                                                                                                                                                                                |  |                                                                               |                                                        |
+| [Frame the Challenge](https://docs.google.com/presentation/d/1QSL20GeynnrykWEXJpqunkhA5Qvcf7YvvEQzWI3sPYI/edit?usp=sharing)  | [How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it) [article] <br/><br/>[Article and Video: Frame Your Design Challenge](https://www.designkit.org/methods/60) — don’t miss the video at the bottom of the screen |  | Frame the Challenge use your front-end capstone (add to portfolio)            | [Frame the Challenge Worksheet](WS-FrameChallenge.pdf) |
+| [Personas](https://docs.google.com/presentation/d/1DHlc0e-kOyq-oIxsYs4noYET92dnJbFmqbtiElis6MY/edit?usp=sharing)             | [The ROI of User Experience, Human Factors International](https://www.youtube.com/watch?v=O94kYyzqvTc) [video 5 min]  <br/><br/> [Who Are the Users of The Met's Online Collection?](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]          |  | Persona - Create a primary and secondary persona for your front-end capstone. | [Persona Worksheet](WS-Persona.pdf)                    |
+| [Visual Design Basics](orientation-materials/orientation-4.md)                                                               |                                                                                                                                                                                                                                                                                                                |  |                                                                               |                                                        |
+  
 
-## Start The Journey
-   1. [Guide](orientation-materials/orientation-1.md)
-      * [What is Design Intro](orientation-materials/Design_Process_Intro.pdf)
-      * [Team Specs](orientation-materials/Team_Specs.pdf)
-      * [Personas](orientation-materials/Personas.pdf)
-      * [Frame the Challenge](orientation-materials/FrameTheChallenge.pdf)
-   1. [Portfolio Discussion](orientation-materials/orientation-portfolio.md)
-   1. Cohort Website Discussion
-   1. [Visual Design Basics](orientation-materials/orientation-4.md)
-   1. [Critique and Heuristics](orientation-materials/orientation-2.md)
-   1. [Guide: Information Architecture](orientation-materials/orientation-5.md)
-      * [Information Architecture](orientation-materials/InfoArch.pdf)
-   1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
-       * [Journey Maps](orientation-materials/JourneyMaps.pdf)
-       * [Interview/Research](orientation-materials/Research.md)
-   1. [Guide: Design Process Guide](orientation-materials/orientation-7.md)
-   1. [Guide: Prototyping](orientation-materials/orientation-8.md)
-       * [Prototyping](orientation-materials/Prototype.md)
-   1. [Design Systems](DesignSys.pdf)
-   3. [Guide: Usability](orientation-materials/orientation-9.md)
-       * [Usability](orientation-materials/Usability.pdf)
-   4. [Guide: Presentation](orientation-materials/orientation-10.md)
-       * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
+  #### Design Practice
+|                                                                        |                                                                      |                                                                                                                                                  |                                                                           |
+|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Prototype Tool - Create a mockup/prototype of your front-end capstone. | Prototype Tool - Create a Persona for the front-end Nutshell project | Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design. OR [Study other solutions](https://collectui.com/challenges) | [Look Alike](https://github.com/nashville-software-school/uix-look-alike) |
+  
 
 
+  #### Required Projects
+|                |                                                             |
+|----------------|-------------------------------------------------------------|
+| Cohort Website | [Portfolio](orientation-materials/orientation-portfolio.md) |
 
-### Additional Starter Resources
-* [React Styleguidist](https://github.com/styleguidist/react-styleguidist)
+  * Challenge Statement
+  * Persona, Research, and Competition 
+  * Wireframe
+  * Testing
+  * Mockup
+  * Development
+  * Launch
+
+### 
+
+  ## THANKSGIVING
+  ###
+
+  1. [Critique and Heuristics](orientation-materials/orientation-2.md)
+  1. [Guide: Information Architecture](orientation-materials/orientation-5.md)
+    * [Information Architecture](orientation-materials/InfoArch.pdf)
+  1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
+      * [Journey Maps](orientation-materials/JourneyMaps.pdf)
+      * [Interview/Research](orientation-materials/Research.md)
+  1. [Guide: Design Process Guide](orientation-materials/orientation-7.md)
+  1. [Guide: Prototyping](orientation-materials/orientation-8.md)
+      * [Prototyping](orientation-materials/Prototype.md)
+  1. [Design Systems](DesignSys.pdf)
+
+  ## Holiday
+  3. [Guide: Usability](orientation-materials/orientation-9.md)
+      * [Usability](orientation-materials/Usability.pdf)
+  4. [Guide: Presentation](orientation-materials/orientation-10.md)
+      * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
+
+
+
+
+
+
+
+
+
+
+### Additional Resources
+
 * [Figma To React](https://www.figma.com/blog/introducing-figma-to-react/)
 * [AirBNB React Sketch App Article](https://airbnb.design/painting-with-code/) and [Tool](https://github.com/airbnb/react-sketchapp)
 * [UX Pin](https://www.uxpin.com/studio/ebooks/) has lots of helpful, free UX Ebooks to download. "Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more."
 * [Get started with SASS for React](https://www.w3schools.com/react/react_sass.asp)
 * [Storybook - building components](https://storybook.js.org/)
+
+### Notes
+* Forms
+* Integrate CSS Library
+* Firebase

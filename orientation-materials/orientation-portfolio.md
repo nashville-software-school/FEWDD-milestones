@@ -1,11 +1,11 @@
 # Front-End Web Designer Developer Portfolio
 
-* [Portfolio](PortfolioNotes.pdf)
-* Github and README
-    *[About READMEs](https://help.github.com/articles/about-readmes/)
-    * [Example 1](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-    * [Example 2](https://github.com/ryanoasis/nerd-fonts)
-    * [Example 3](https://github.com/ryanoasis/vim-devicons/blob/master/readme.md)
+* [Portfolio](https://docs.google.com/presentation/d/1E5-90uL5aZruKUPdXOlqSE_l05FLeq10-HVxRsHUaWg/edit?usp=sharing)
+* Your Github Projects should have a README
+    * [About READMEs](https://help.github.com/articles/about-readmes/)
+    * [Readme Example 1](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+    * [Readme Example 2](https://github.com/ryanoasis/nerd-fonts)
+    * [Readme Example 3](https://github.com/ryanoasis/vim-devicons/blob/master/readme.md)
 
 
 ## Crafting Your Portfolio and Getting Ready for Interviews!
