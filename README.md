@@ -6,8 +6,9 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 
 * Your Portfolio itself
 * Front-End Capstone and Case Study - challenge statement, persona, user testing, and conclusion/summary of findings.
+* Journal - React, Firebase, CSS Library, challenge statement, persona, user testing,  wireframes, mockups, and conclusion/summary.
 * Cohort Website and Case Study - challenge statement, persona, wireframes, mockups, user testing/feedback, conclusion.
-* Banazon - applied technology and user goals.
+* Theme Park - applied technology and user goals.
 * Backend Capstone and Case Study - challenge statement, research/competitive analyst, persona, wireframes, mockups, user testing/feedback, conclusion.
 
 
@@ -51,23 +52,23 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 | Topic                                                                                                                        | Read & Watch                                                                                                                                                                                                                                                                                                   |  | Required                                                                      | Resources                                              |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|-------------------------------------------------------------------------------|--------------------------------------------------------|
 | [What is Design Intro](https://docs.google.com/presentation/d/1b_5N04BfQldGAlT9_PW7BQ50QUERnzEJjS1SzoMfOXc/edit?usp=sharing) | [IDEO cofounder Bill Moggridge on Birth of Interaction Design - ](https://www.youtube.com/watch?v=DAHHSS_WgfI&feature=youtu.be)(3 mins video) <br/> <br/>[Ted Talk: Paul Bennett Finds Design in the Details](https://www.ted.com/talks/paul_bennett_finds_design_in_the_details) (15 mins video)              |  |                                                                               |                                                        |
-| [Team Work - Specs](orientation-materials/Working_Together.pdf)                                                              |                                                                                                                                                                                                                                                                                                                |  |                                                                               |                                                        |
+| [Team Work Conventions](orientation-materials/Working_Together.pdf)                                                              |                                                                                                                                                                                                                                                                                                                |  |                                                                               |                                                        |
 | [Frame the Challenge](https://docs.google.com/presentation/d/1QSL20GeynnrykWEXJpqunkhA5Qvcf7YvvEQzWI3sPYI/edit?usp=sharing)  | [How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it) [article] <br/><br/>[Article and Video: Frame Your Design Challenge](https://www.designkit.org/methods/60) — don’t miss the video at the bottom of the screen |  | Frame the Challenge use your front-end capstone (add to portfolio)            | [Frame the Challenge Worksheet](orientation-materials/WS-FrameChallenge.pdf) |
 | [Personas](https://docs.google.com/presentation/d/1DHlc0e-kOyq-oIxsYs4noYET92dnJbFmqbtiElis6MY/edit?usp=sharing)             | [The ROI of User Experience, Human Factors International](https://www.youtube.com/watch?v=O94kYyzqvTc) [video 5 min]  <br/><br/> [Who Are the Users of The Met's Online Collection?](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]          |  | Persona - Create a primary and secondary persona for your front-end capstone. | [Persona Worksheet](orientation-materials/WS-Persona.pdf)                    |
 | [Visual Design Basics](orientation-materials/orientation-4.md)                                                               |                                                                                                                                                                                                                                                                                                                |  |   Get to Know Fonts Using Google Fonts. Decide on three sets of pairings you can declare as your 'Go To' font options. For each pairing, choose a headline and body font. Display each on an HTML. Be prepared to share and defend your choices.                                                                            |                                                        |
-  
+ | Journal Revisit - React, CSS Library, Firebase                                                              |                                                                                                                                                                                                                                                                                                                |  | Using a familiar project, incorporate a CSS Library and utilize Firebase                                                                           |                                                        | 
 
-  #### Design Practice
+  #### Design Practices
 |                                                                        |                                                                      |                                                                                                                                                  |                                                                           |
 |------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Prototype Tool - Create a mockup/prototype of your front-end capstone. | Prototype Tool - Create a Persona for the front-end Nutshell project | Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design. OR [Study other solutions](https://collectui.com/challenges) | [Look Alike](https://github.com/nashville-software-school/uix-look-alike) |
   
 
 
-  #### Required Projects
-|                |                                                             |
-|----------------|-------------------------------------------------------------|
-| Cohort Website | [Portfolio](orientation-materials/orientation-portfolio.md) |
+  #### Projects
+|                |                                                             |   |   |
+|----------------|-------------------------------------------------------------|---|---|
+| Cohort Website | [Portfolio](orientation-materials/orientation-portfolio.md) |  Journal | ThemePark  |
 
   * Challenge Statement
   * Persona, Research, and Competition 
@@ -79,21 +80,18 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 
 ### 
 
-  ## THANKSGIVING
   ###
 
   1. [Critique and Heuristics](orientation-materials/orientation-2.md)
   1. [Guide: Information Architecture](orientation-materials/orientation-5.md)
-    * [Information Architecture](orientation-materials/InfoArch.pdf)
+      * [Information Architecture](orientation-materials/InfoArch.pdf)
   1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
       * [Journey Maps](orientation-materials/JourneyMaps.pdf)
       * [Interview/Research](orientation-materials/Research.md)
-  1. [Guide: Design Process Guide](orientation-materials/orientation-7.md)
+
   1. [Guide: Prototyping](orientation-materials/orientation-8.md)
       * [Prototyping](orientation-materials/Prototype.md)
   1. [Design Systems](DesignSys.pdf)
-
-  ## Holiday
   3. [Guide: Usability](orientation-materials/orientation-9.md)
       * [Usability](orientation-materials/Usability.pdf)
   4. [Guide: Presentation](orientation-materials/orientation-10.md)
@@ -118,5 +116,3 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 
 ### Notes
 * Forms
-* Integrate CSS Library
-* Firebase
