@@ -1,10 +1,5 @@
 # Layout, Typography, Color
 
-* [Page Layout](Page_Layout.pdf)
-
-
-
-
 # Design Principles
 * [Theory and Examples](https://docs.google.com/presentation/d/1i3U3L8cWlz5UU3wOtWOMCZ6WsFvmU9_toQGgVTusP5Y/edit?usp=sharing)
 * [Typography](https://docs.google.com/presentation/d/1cIRwZCxB6JQying3Wrj5t_0OeI-5ei0NKsCBpYB67jE/edit?usp=sharing)
