@@ -156,28 +156,30 @@ Lab
 * [Site Map Usability](https://drive.google.com/file/d/1HoxGaYAnRFt3V24F3OdCZd1eAq_C2OlV/view) 47 Design Guidelines Based on Usability Studies with People Using Site Maps, Nielsen Norman Group
 
 ## Practice
-Teams: Using the project [Bangazon](https://github.com/nashville-software-school/UI-UX-Bangazon-API), create a content inventory and site map.
+Teams: Using the project [Bangazon](https://github.com/nashville-software-school/UI-UX-Bangazon-API), create a content inventory and site map. [BZ Prototype API](https://github.com/AdamSheaffer/bz-sprint-prototype)
 
+##
 
+## [Critique and Heuristics](orientation-materials/orientation-2.md)
 
 ## Journal Re-Visit
 * Firebase sort and filter calls
 * Firebase authentication
 
-1. [Critique and Heuristics](orientation-materials/orientation-2.md)
- 
-  1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
-      * [Journey Maps](orientation-materials/JourneyMaps.pdf)
-      * [Interview/Research](orientation-materials/Research.md)
 
-  1. [Guide: Prototyping](orientation-materials/orientation-8.md)
-      * [Prototyping](orientation-materials/Prototype.md)
-  1. [Design Systems](DesignSys.pdf)
-  3. [Guide: Usability](orientation-materials/orientation-9.md)
-      * [Usability](orientation-materials/Usability.pdf)
-      
-  4. [Guide: Presentation](orientation-materials/orientation-10.md)
-      * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
+ 
+1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
+    * [Journey Maps](orientation-materials/JourneyMaps.pdf)
+    * [Interview/Research](orientation-materials/Research.md)
+
+1. [Guide: Prototyping](orientation-materials/orientation-8.md)
+    * [Prototyping](orientation-materials/Prototype.md)
+1. [Design Systems](DesignSys.pdf)
+3. [Guide: Usability](orientation-materials/orientation-9.md)
+    * [Usability](orientation-materials/Usability.pdf)
+    
+4. [Guide: Presentation](orientation-materials/orientation-10.md)
+    * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
 
 
 
