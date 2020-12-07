@@ -125,7 +125,7 @@ Lab
     * Fetch calls, CRUD
 
 # Week 5
-* [Information Architecture](https://docs.google.com/presentation/d/16MnmBuoXqJtr1h4GS73tFcWk31Ld7_IF9gVRvyinS8k/edit?usp=sharing)
+## [Information Architecture](https://docs.google.com/presentation/d/16MnmBuoXqJtr1h4GS73tFcWk31Ld7_IF9gVRvyinS8k/edit?usp=sharing)
 
 ### Watch
 * [Abby Covert – How to make sense of any mess (IA)](https://www.youtube.com/watch?v=XD2OkDPAl6s) [video-28 min]
@@ -155,6 +155,11 @@ Lab
 * [Optimal Workshop](https://www.optimalworkshop.com/)
 * [Site Map Usability](https://drive.google.com/file/d/1HoxGaYAnRFt3V24F3OdCZd1eAq_C2OlV/view) 47 Design Guidelines Based on Usability Studies with People Using Site Maps, Nielsen Norman Group
 
+## Practice
+Teams: Using the project [Bangazon](https://github.com/nashville-software-school/UI-UX-Bangazon-API), create a content inventory and site map.
+
+
+
 ## Journal Re-Visit
 * Firebase sort and filter calls
 * Firebase authentication
@@ -174,7 +179,7 @@ Lab
   4. [Guide: Presentation](orientation-materials/orientation-10.md)
       * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
 
-      
+
 
 # Week 6
 * [Personal Websites: Portfolio](orientation-materials/orientation-portfolio.md)
