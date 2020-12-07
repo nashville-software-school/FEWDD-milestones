@@ -8,7 +8,7 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 * Front-End Capstone and Case Study - challenge statement, persona, user testing, and conclusion/summary of findings.
 * Journal - React, Firebase, CSS Library, challenge statement, persona, user testing,  wireframes, mockups, and conclusion/summary.
 * Cohort Website and Case Study - challenge statement, persona, wireframes, mockups, user testing/feedback, conclusion.
-* Theme Park - applied technology and user goals.
+* Project - applied technology and user goals.
 * Backend Capstone and Case Study - challenge statement, research/competitive analyst, persona, wireframes, mockups, user testing/feedback, conclusion.
 
 
@@ -18,10 +18,11 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 1. Prototype Tool (Figma)
 
 ## Getting Started
+1. Read **Don't Make Me Think**, Steve Krug
 1. Start a resources document [Example](https://github.com/brendalong/design-resources)
-1. Resource Collection
+1. Resources Collection
 1. Google Drive Folder - Create a folder for SHARING files with your fellow students. You will work on team projects and will need to share files. Send the location to the instructor.
-1. [Dibble](https://dribbble.com/) - start with a regular account, get an invite. Share with class and follow each other.
+1. [Dribbble](https://dribbble.com/) - start with a regular account, get an invite. Share with class and follow each other.
 1. [Behance](https://www.behance.net/) - Create an account. Showcase your work and find inspiration. Share with class and follow each other.
 1. [Medium](https://medium.com) - signup with UI/UX options
 1. [Twitter](https://twitter.com/home) - Follow some folks. https://www.interaction-design.org/literature/article/20-people-in-ux-that-you-have-to-follow-on-twitter
@@ -48,45 +49,118 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 
 All of the digital tools have great tutorials provided by the maker. Take time to learn your tool.
 
-## 1. The Mindset
-| Topic                                                                                                                        | Read & Watch                                                                                                                                                                                                                                                                                                   |  | Required                                                                      | Resources                                              |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|-------------------------------------------------------------------------------|--------------------------------------------------------|
-| [What is Design Intro](https://docs.google.com/presentation/d/1b_5N04BfQldGAlT9_PW7BQ50QUERnzEJjS1SzoMfOXc/edit?usp=sharing) | [IDEO cofounder Bill Moggridge on Birth of Interaction Design - ](https://www.youtube.com/watch?v=DAHHSS_WgfI&feature=youtu.be)(3 mins video) <br/> <br/>[Ted Talk: Paul Bennett Finds Design in the Details](https://www.ted.com/talks/paul_bennett_finds_design_in_the_details) (15 mins video)              |  |                                                                               |                                                        |
-| [Team Work Conventions](https://docs.google.com/presentation/d/1amfiYuuvCeO8nkRyPxWQYX7_zpyZJo2lCwK60HLRwJY/edit?usp=sharing)                                                              |                                                                                                                                                                                                                                                                                                                |  |                                                                               |     [What Image Format Should I Use on my Website](https://www.fatrabbitcreative.com/blog/what-image-format-should-i-use-on-my-website)                                                  |
-| [Frame the Challenge](https://docs.google.com/presentation/d/1QSL20GeynnrykWEXJpqunkhA5Qvcf7YvvEQzWI3sPYI/edit?usp=sharing)  | [How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it) [5 min read] <br/><br/>[Article and Video: Frame Your Design Challenge](https://www.designkit.org/methods/60) — don’t miss the video at the bottom of the screen [2 min read, 1 minute video] |  | Frame the Challenge use your front-end capstone (add to portfolio)            | [Frame the Challenge Worksheet](orientation-materials/WS-FrameChallenge.pdf) |
-| [Personas](https://docs.google.com/presentation/d/1DHlc0e-kOyq-oIxsYs4noYET92dnJbFmqbtiElis6MY/edit?usp=sharing)             | [The ROI of User Experience, Human Factors International](https://www.youtube.com/watch?v=O94kYyzqvTc) [video 5 min]  <br/><br/> [Who Are the Users of The Met's Online Collection?](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]          |  | Persona - Create a primary and secondary persona for your front-end capstone. | [Persona Worksheet](orientation-materials/WS-Persona.pdf)                    |
-| [Visual Design Basics](orientation-materials/orientation-4.md)                                                               |                                                                                                                                                                                                                                                                                                                |  |   Get to Know Fonts Using Google Fonts. Decide on three sets of pairings you can declare as your 'Go To' font options. For each pairing, choose a headline and body font. Display each on an HTML. Be prepared to share and defend your choices.                                                                            |                                                        |
- | Journal Revisit - React and CSS Library                                                              |   [React Bootstrap](orientation-materials/Bootstrap-React.md) and [Bootstrap Grid](orientation-materials/Bootstrap-Grid.md)
-  
-                                                                                                                                                                                                                                                                                                             |  |                                               |                                                        | 
+## Week 1 - The Mindset
 
-  #### Design Practices
-|                                                                        |                                                                      |                                                                                                                                                  |                                                                           |
-|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Prototype Tool - Create a mockup/prototype of your front-end capstone. | Prototype Tool - Create a Persona for the front-end Nutshell project | Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design. OR [Study other solutions](https://collectui.com/challenges) | [Look Alike](https://github.com/nashville-software-school/uix-look-alike) |
-  
+### [What is Design Intro](https://docs.google.com/presentation/d/1b_5N04BfQldGAlT9_PW7BQ50QUERnzEJjS1SzoMfOXc/edit?usp=sharing)
+
+#### Watch/Read
+* [IDEO cofounder Bill Moggridge on Birth of Interaction Design - ](https://www.youtube.com/watch?v=DAHHSS_WgfI&feature=youtu.be)(3 mins video)
+* [Ted Talk: Paul Bennett Finds Design in the Details](https://www.ted.com/talks/paul_bennett_finds_design_in_the_details) (15 mins video) 
+
+### [Team Work Conventions](https://docs.google.com/presentation/d/1amfiYuuvCeO8nkRyPxWQYX7_zpyZJo2lCwK60HLRwJY/edit?usp=sharing)  
+* [What Image Format Should I Use on my Website](https://www.fatrabbitcreative.com/blog/what-image-format-should-i-use-on-my-website)
+
+### [Frame the Challenge](https://docs.google.com/presentation/d/1QSL20GeynnrykWEXJpqunkhA5Qvcf7YvvEQzWI3sPYI/edit?usp=sharing) 
+
+* [How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it) [5 min read] 
+* [Article and Video: Frame Your Design Challenge](https://www.designkit.org/methods/60) — don’t miss the video at the bottom of the screen [2 min read, 1 minute video]
+
+### DO
+* Frame the Challenge: use your front-end capstone (add to portfolio)            
+* [Frame the Challenge Worksheet](orientation-materials/WS-FrameChallenge.pdf)
+
+### [Personas](https://docs.google.com/presentation/d/1DHlc0e-kOyq-oIxsYs4noYET92dnJbFmqbtiElis6MY/edit?usp=sharing) 
+
+#### Watch/Read
+* [The ROI of User Experience, Human Factors International](https://www.youtube.com/watch?v=O94kYyzqvTc) [video 5 min]\
+* [Who Are the Users of The Met's Online Collection?](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]
+
+### DO
+* Persona: Create a primary and secondary persona for your front-end capstone.
+* [Persona Worksheet](orientation-materials/WS-Persona.pdf) 
 
 
-  #### Projects
-|                |                                                             |   |   |
-|----------------|-------------------------------------------------------------|---|---|
-| Cohort Website | [Portfolio](orientation-materials/orientation-portfolio.md) |  Journal | ThemePark  |
+## Journal Revisit - React and CSS Library                                                                 
+* [React Bootstrap](orientation-materials/Bootstrap-React.md)
+* [Bootstrap Grid](orientation-materials/Bootstrap-Grid.md)
 
-  * Challenge Statement
-  * Persona, Research, and Competition 
-  * Wireframe
-  * Testing
-  * Mockup
-  * Development
-  * Launch
 
-### 
+### Practice
+ * Prototype Tool - Create a mockup/prototype of your front-end capstone.
+ * Prototype Tool - Create a Persona for the front-end Nutshell project
+ * Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design. OR [Study other solutions](https://collectui.com/challenges) 
+ * [Look Alike](https://github.com/nashville-software-school/uix-look-alike)
+ * Fonts - Get to Know Fonts Using Google Fonts. Decide on three sets of pairings you can declare as your 'Go To' font options. For each pairing, choose a headline and body font. Display each on an HTML page. Be prepared to share and defend your choices. 
 
-  ###
 
-  1. [Critique and Heuristics](orientation-materials/orientation-2.md)
-  1. [Guide: Information Architecture](orientation-materials/orientation-5.md)
-      * [Information Architecture](orientation-materials/InfoArch.pdf)
+# Week 2 - Hands On
+ ### 
+[Visual Design Basics](orientation-materials/orientation-4.md) 
+
+### Practice
+* Challenge statement for cohort website
+* Persona for cohort website (individual practice with tool)
+* Review and compare other cohort websites or group displays
+* Prototype tool: mockup cohort website (4 hours then user test)
+* User Testing 
+  * With users, test early and often
+  * Watch Steve Krug usability test demo: https://sensible.com/rocket-surgery-made-easy/
+
+* Create tickets for features, functionality, components of cohort website.
+
+# Week 3 - Cohort Website / Thanksgiving
+Lab
+
+# Week 4
+
+* Monday: Cohort website lab, review Bootstrap grid
+* Tuesday: Cohort website lab
+* [Mobile Friendly: Responsive vs Adaptive](https://docs.google.com/presentation/d/1wywyjvqlvYJbx_brWTRDjVEctWZhtmfUC3nw7S39_1g/edit?usp=sharing)
+* Designing above the fold
+* Website Revision Mockup
+* User Testing
+* Cohort website lab
+* Journal Revisit
+    * Firebase accounts
+    * Fetch calls, CRUD
+
+# Week 5
+* [Information Architecture](https://docs.google.com/presentation/d/16MnmBuoXqJtr1h4GS73tFcWk31Ld7_IF9gVRvyinS8k/edit?usp=sharing)
+
+### Watch
+* [Abby Covert – How to make sense of any mess (IA)](https://www.youtube.com/watch?v=XD2OkDPAl6s) [video-28 min]
+  * Language Matters: nouns, verbs, etc.
+    * Controlled Vocabulary
+  * No Right Way - depends on what you want to achieve.
+    * Grocery Store
+    * Taxonomy
+    * Card Sorting
+  * Need Pictures - avoid the sea of in-decision
+    * Not wireframes - can appear to be too simple (reduced down)
+    * Post it's and map
+    * Collect information and iterate
+    * Show Process
+    * Everyone draw out what they think is in project. Match up, combine, clarify, into new one.
+
+* [Why IA Matters for UX — A Brief History of Information Architecture](https://uxdesign.cc/a-brief-history-of-information-architecture-d26b17205e7b) [article-3 mins with a 4 min embedded video]
+
+### Folks to Follow
+* [Abby the IA:](http://abbytheia.com/)  "Abby 'the IA' Covert is an independent information architect who aims to make the unclear, clear.
+* [Edward Tufte](https://www.edwardtufte.com/tufte/): statistician and artist
+* [Nielsen Norman Group](https://www.nngroup.com/)
+
+### Additional References
+* [6 Tips How to Apply Information Architecture in UX Design](https://tubikstudio.com/6-tips-how-to-apply-information-architecture-in-ux-design/) [article-3 min]
+* [How Chunking Helps Content Processing](https://www.nngroup.com/articles/chunking/) [article-5 min]
+* [Optimal Workshop](https://www.optimalworkshop.com/)
+* [Site Map Usability](https://drive.google.com/file/d/1HoxGaYAnRFt3V24F3OdCZd1eAq_C2OlV/view) 47 Design Guidelines Based on Usability Studies with People Using Site Maps, Nielsen Norman Group
+
+## Journal Re-Visit
+* Firebase sort and filter calls
+* Firebase authentication
+
+1. [Critique and Heuristics](orientation-materials/orientation-2.md)
+ 
   1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
       * [Journey Maps](orientation-materials/JourneyMaps.pdf)
       * [Interview/Research](orientation-materials/Research.md)
@@ -96,8 +170,36 @@ All of the digital tools have great tutorials provided by the maker. Take time t
   1. [Design Systems](DesignSys.pdf)
   3. [Guide: Usability](orientation-materials/orientation-9.md)
       * [Usability](orientation-materials/Usability.pdf)
+      
   4. [Guide: Presentation](orientation-materials/orientation-10.md)
       * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
+
+      
+
+# Week 6
+* [Personal Websites: Portfolio](orientation-materials/orientation-portfolio.md)
+* Challenge Statements
+* Personas
+* Comparative Analysis, Research
+* Mockups, prototypes, and user testing
+* Case Studies emphasizing Insights
+* Host with Github pages (or other)
+
+# HOLIDAY
+
+# Week 7
+## Project
+
+# Week 8
+## Project
+
+# Week 9
+## Project
+
+# Week 10, 11, 12 - Capstones!!
+
+# Graduation
+
 
 
 
