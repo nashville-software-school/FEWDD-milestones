@@ -162,18 +162,25 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 
 ## [Critique and Heuristics](orientation-materials/orientation-2.md)
 
+
+## [Prototyping](orientation-materials/orientation-8.md)
+* Teams: Using the site map and inventory, create wireframes for one section.
+* Review and Critique
+* Re-iterate
+
 ## Journal Re-Visit
 * Firebase sort and filter calls
 * Firebase authentication
+
+## [Interviews/Research](orientation-materials/Research.md)
+* Develop a series of questions for the Bangazon Employee
+* Develop a questionnaire for users of personal/portfolio website.
 
 
  
 1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
     * [Journey Maps](orientation-materials/JourneyMaps.pdf)
-    * [Interview/Research](orientation-materials/Research.md)
 
-1. [Guide: Prototyping](orientation-materials/orientation-8.md)
-    * [Prototyping](orientation-materials/Prototype.md)
 1. [Design Systems](DesignSys.pdf)
 3. [Guide: Usability](orientation-materials/orientation-9.md)
     * [Usability](orientation-materials/Usability.pdf)
@@ -224,6 +231,3 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * [UX Pin](https://www.uxpin.com/studio/ebooks/) has lots of helpful, free UX Ebooks to download. "Thoughtful content on mobile & web prototyping, wireframing, mockups, usability testing, project management, design process & more."
 * [Get started with SASS for React](https://www.w3schools.com/react/react_sass.asp)
 * [Storybook - building components](https://storybook.js.org/)
-
-### Notes
-* Forms
