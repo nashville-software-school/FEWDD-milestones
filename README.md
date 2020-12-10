@@ -168,13 +168,15 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * Review and Critique
 * Re-iterate
 
+## [Interviews/Research](orientation-materials/Research.md)
+* Develop a series of questions for the Bangazon Employee
+* Develop a questionnaire for users of personal/portfolio website.
+
 ## Journal Re-Visit
 * Firebase sort and filter calls
 * Firebase authentication
 
-## [Interviews/Research](orientation-materials/Research.md)
-* Develop a series of questions for the Bangazon Employee
-* Develop a questionnaire for users of personal/portfolio website.
+
 
 
  
