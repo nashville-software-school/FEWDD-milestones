@@ -199,7 +199,7 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * Comparative Analysis, Research
 * Mockups, prototypes, and user testing
 * Case Studies emphasizing Insights
-* Host with Github pages (or other)
+* [Host with Github pages](https://pages.github.com/) (or other)
 
 # HOLIDAY
 
