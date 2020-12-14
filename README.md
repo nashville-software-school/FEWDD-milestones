@@ -120,9 +120,10 @@ Lab
 * Website Revision Mockup
 * User Testing
 * Cohort website lab
-* Journal Revisit
-    * Firebase accounts
-    * Fetch calls, CRUD
+
+## Journal Revisit
+  * Firebase accounts
+  * Fetch calls, CRUD
 
 # Week 5
 ## [Information Architecture](https://docs.google.com/presentation/d/16MnmBuoXqJtr1h4GS73tFcWk31Ld7_IF9gVRvyinS8k/edit?usp=sharing)
@@ -172,24 +173,11 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * Develop a series of questions for the Bangazon Employee
 * Develop a questionnaire for users of personal/portfolio website.
 
+## [Design Systems](DesignSys.pdf)
+
 ## Journal Re-Visit
 * Firebase sort and filter calls
 * Firebase authentication
-
-
-
-
- 
-1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
-    * [Journey Maps](orientation-materials/JourneyMaps.pdf)
-
-1. [Design Systems](DesignSys.pdf)
-3. [Guide: Usability](orientation-materials/orientation-9.md)
-    * [Usability](orientation-materials/Usability.pdf)
-    
-4. [Guide: Presentation](orientation-materials/orientation-10.md)
-    * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
-
 
 
 # Week 6
@@ -204,6 +192,14 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 # HOLIDAY
 
 # Week 7
+1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
+
+1. [Guide: Usability](orientation-materials/orientation-9.md)
+    * [Usability](orientation-materials/Usability.pdf)
+    
+1. [Guide: Presentation](orientation-materials/orientation-10.md)
+    * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
+
 ## Project
 
 # Week 8
