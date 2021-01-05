@@ -200,17 +200,17 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 1. [Guide: Presentation](orientation-materials/orientation-10.md)
     * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
 
-## Project
+## Group Project - [Nashville Open Data Portal](project-opendata.md)
 
 # Week 8
-## Project
+## Group Project
 
 # Week 9
-## Project
+## Group Project and Final Presentations
 
 # Week 10, 11, 12 - Capstones!!
 
-# Graduation
+# 🎓 Graduation
 
 
 
