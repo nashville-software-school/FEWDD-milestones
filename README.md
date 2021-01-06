@@ -199,7 +199,7 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * [Usability and User Testing](orientation-materials/orientation-9.md)
   
 
-🚧 Group Project - [Nashville Open Data](project-opendata.md)
+🚧 Group Project - [Nashville Open Data](orientation-materials/project-opendata.md)
 * Create Proposals
 * Vote and create teams
 
