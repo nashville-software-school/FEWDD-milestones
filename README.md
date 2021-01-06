@@ -30,18 +30,18 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 
 
 ## Tools
-1. Notebook
-2. Sharpies
-3. Post-its
-4. Index cards
-5. Mockup/Prototype Tool
+1. 📓 Notebook
+2. 🖊️ Sharpies
+3. 📝 Post-its
+4. 📇 Index cards
+5. 🔨 Mockup/Prototype Tool
    * [Figma](https://www.figma.com)
    * [Adobe XD](https://www.adobe.com/products/xd.html)
    * [Sketch](https://www.sketch.com)
      * [Resources](https://www.sketchappsources.com/)
    * [Invision](https://www.invisionapp.com/)
    * [Miro](https://miro.com/)
-6. Image Editing Software
+6. 🖼️ Image Editing Software
     * [Adobe Photoshop](https://www.adobe.com/products/catalog.html)
     * [Adobe Illustrator](https://www.adobe.com/products/catalog.html)
     * [Fotor](https://www.fotor.com/)
@@ -108,7 +108,7 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 
 * Create tickets for features, functionality, components of cohort website.
 
-# Week 3 - Cohort Website / Thanksgiving
+# Week 3 - Cohort Website / 🦃 Thanksgiving
 Lab
 
 # Week 4
@@ -192,17 +192,16 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 # HOLIDAY
 
 # Week 7
-1. Finish Portfolio Websites
-1. [Guide: Intro to Journey Mapping](orientation-materials/orientation-6.md)
+* Portfolio Websites Lab
+* [Defend Your Presentation](orientation-materials/orientation-10.md)
+  
+* [Intro to Journey Mapping](orientation-materials/orientation-6.md)
+* [Usability and User Testing](orientation-materials/orientation-9.md)
+  
 
-1. [Guide: Usability](orientation-materials/orientation-9.md)
-    * [Usability](orientation-materials/Usability.pdf)
-    
-1. [Guide: Presentation](orientation-materials/orientation-10.md)
-    * [Presenting and Defending Decisions](orientation-materials/Present-Defend.pdf)
-    
-
-🚧 Group Project - [Nashville Open Data Portal](project-opendata.md)
+🚧 Group Project - [Nashville Open Data](project-opendata.md)
+* Create Proposals
+* Vote and create teams
 
 # Week 8
 🚧 Group Project
