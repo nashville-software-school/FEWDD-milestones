@@ -195,19 +195,22 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * Portfolio Websites Lab
 * [Defend Your Presentation](orientation-materials/orientation-10.md)
   
-* [Intro to Journey Mapping](orientation-materials/orientation-6.md)
-* [Usability and User Testing](orientation-materials/orientation-9.md)
-  
 
 🚧 Group Project - [Nashville Open Data](orientation-materials/project-opendata.md)
-* Create Proposals
-* Vote and create teams
+* Create Proposal
+* Present Proposal
 
 # Week 8
-🚧 Group Project
+🚧 Finish Website and Personal Sites
 
 # Week 9
-🚧 Group Project and Final Presentations
+* [Intro to Journey Mapping](orientation-materials/orientation-6.md)
+  * Journey Map: Grocery Shopping
+  * Project: [TN Gov Covid Vaccine Information](https://covid19.tn.gov/covid-19-vaccines/vaccine-phases/)
+
+* [Usability and User Testing](orientation-materials/orientation-9.md)
+
+
 ###
 # Week 10, 11, 12 - Capstones!!
 🎓 Graduation

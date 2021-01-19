@@ -1,13 +1,13 @@
 # Journey Mapping
 
 ## Start the Journey (before class)
-* [Journey Mapping: What, How and When to Use Journey Maps](https://cleverclipstudios.com/de-ch/blog/journey-mapping-was-wie) [article-5 min]
+* [Journey Mapping: What, How and When to Use Journey Maps](https://cleverclipstudios.com/en-ch/blog/journey-mapping-what-how-and-when-to-use-a-journey-map/) [article-5 min]
 * [Adaptive Path's Guide to Experience Mapping](https://drive.google.com/file/d/1BkLO53rAKHFcfjLcnPVwiI9ZPEHrWNxu/view) [PDF-20 min]
 * [Brené Brown on Empathy vs Sympathy](https://www.youtube.com/watch?v=KZBTYViDPlQ) [video-3 min]
 * [Ux Mapping Cheat Sheet](https://www.nngroup.com/articles/ux-mapping-cheat-sheet/)
 
 ## Getting to Know Your User
-1. [Journey Maps](JourneyMaps.pdf)
+1. [Journey Maps](https://docs.google.com/presentation/d/1HTLaY-IcFpmX2JpVSZTg0Usc8w6VvrDXAWtUm-Qdk6g/edit?usp=sharing)
 
 
 ## 5 Steps for Journey Map
