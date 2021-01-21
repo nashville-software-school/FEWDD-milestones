@@ -205,8 +205,9 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 
 # Week 9
 * [Intro to Journey Mapping](orientation-materials/orientation-6.md)
-  * Journey Map: Grocery Shopping
+  * Group Journey Map: Grocery Shopping. [Template](https://www.nngroup.com/articles/journey-map-digital-template/)
   * Project: [TN Gov Covid Vaccine Information](https://covid19.tn.gov/covid-19-vaccines/vaccine-phases/)
+    * Using UI/UX skills, improve a section of the site. This could include: Journey Map, Persona, Competitive Analysis, User Testing, Design System, 
 
 * [Usability and User Testing](orientation-materials/orientation-9.md)
 
