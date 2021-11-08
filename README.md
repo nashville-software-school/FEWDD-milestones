@@ -1,4 +1,4 @@
-# Building a foundation in the methods used by UI/UX.
+# Building a foundation in the methods used in front-end web design and development with UI/UX.
 
 Welcome. During the next two months you will be introduced to UI/UX techniques and ideas used in Front-End development. You will use these skills and knowledge to build front-end projects with an emphasis on the user.
 
@@ -15,7 +15,7 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 ## New Technologies
 1. CSS Tools (SASS, Bootstrap, CSS Grid)
 1. Firebase
-1. Prototype Tool (Figma)
+1. Prototype Tool (Figma or your choice)
 
 ## Getting Started
 1. Read **Don't Make Me Think**, Steve Krug
@@ -34,14 +34,14 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 2. 🖊️ Sharpies
 3. 📝 Post-its
 4. 📇 Index cards
-5. 🔨 Mockup/Prototype Tool
+5. 🔨 Mockup/Prototype Tool (choose one)
    * [Figma](https://www.figma.com)
    * [Adobe XD](https://www.adobe.com/products/xd.html)
    * [Sketch](https://www.sketch.com)
      * [Resources](https://www.sketchappsources.com/)
    * [Invision](https://www.invisionapp.com/)
    * [Miro](https://miro.com/)
-6. 🖼️ Image Editing Software
+6. 🖼️ Image Editing Software (choose one)
     * [Adobe Photoshop](https://www.adobe.com/products/catalog.html)
     * [Adobe Illustrator](https://www.adobe.com/products/catalog.html)
     * [Fotor](https://www.fotor.com/)
