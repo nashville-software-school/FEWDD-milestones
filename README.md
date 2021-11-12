@@ -49,6 +49,8 @@ At the end of this journey, you will be expected to demonstrate front-end develo
 
 All of the digital tools have great tutorials provided by the maker. Take time to learn your tool.
 
+#
+#
 ## Week 1 - The Mindset
 
 ### [What is Design Intro](https://docs.google.com/presentation/d/1b_5N04BfQldGAlT9_PW7BQ50QUERnzEJjS1SzoMfOXc/edit?usp=sharing)
@@ -60,15 +62,20 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 ### [Team Work Conventions](https://docs.google.com/presentation/d/1amfiYuuvCeO8nkRyPxWQYX7_zpyZJo2lCwK60HLRwJY/edit?usp=sharing)  
 * [What Image Format Should I Use on my Website](https://www.fatrabbitcreative.com/blog/what-image-format-should-i-use-on-my-website)
 
+#
 ### [Frame the Challenge](https://docs.google.com/presentation/d/1QSL20GeynnrykWEXJpqunkhA5Qvcf7YvvEQzWI3sPYI/edit?usp=sharing) 
 
 * [How You Define the Problem Determines Whether You Solve It](https://hbr.org/2017/06/how-you-define-the-problem-determines-whether-you-solve-it) [5 min read] 
 * [Article and Video: Frame Your Design Challenge](https://www.designkit.org/methods/60) — don’t miss the video at the bottom of the screen [2 min read, 1 minute video]
 
 ### DO
-* Frame the Challenge: use your front-end capstone (add to portfolio)            
+         
 * [Frame the Challenge Worksheet](orientation-materials/WS-FrameChallenge.pdf)
+* Frame the Challenge: Cohort Website
+* Frame the Challenge: use your front-end capstone (add to portfolio)   
 
+
+#
 ### [Personas](https://docs.google.com/presentation/d/1DHlc0e-kOyq-oIxsYs4noYET92dnJbFmqbtiElis6MY/edit?usp=sharing) 
 
 #### Watch/Read
@@ -76,31 +83,38 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 * [Who Are the Users of The Met's Online Collection?](https://www.metmuseum.org/blogs/collection-insights/2017/online-collection-user-research) [article – 8 min read]
 
 ### DO
-* Persona: Create a primary and secondary persona for your front-end capstone.
 * [Persona Worksheet](orientation-materials/WS-Persona.pdf) 
+* Persona: Create a primary and secondary persona for the Cohort Website
+* Persona: Create a primary and secondary persona for your front-end capstone.
+
+#
+## [Interviews/Research](orientation-materials/Research.md)
+* Develop questionaire for Cohort Website Users
+
+#
+## Frontend Details
+* Capstone: Package.json
+* Capstone: layout group critique
+* Journal Revisit - React and CSS Library
+  * [React Bootstrap](orientation-materials/Bootstrap-React.md)
+  * [Bootstrap Grid](orientation-materials/Bootstrap-Grid.md)
 
 
-## Journal Revisit - React and CSS Library                                                                 
-* [React Bootstrap](orientation-materials/Bootstrap-React.md)
-* [Bootstrap Grid](orientation-materials/Bootstrap-Grid.md)
-
-
-### Practice
+### Practice 
  * Prototype Tool - Create a mockup/prototype of your front-end capstone.
  * Prototype Tool - Create a Persona for the front-end Nutshell project
  * Prototype Tool - Choose a [DailyUI](https://www.dailyui.co/) and mockup the design. OR [Study other solutions](https://collectui.com/challenges) 
  * [Look Alike](https://github.com/nashville-software-school/uix-look-alike)
  * Fonts - Get to Know Fonts Using Google Fonts. Decide on three sets of pairings you can declare as your 'Go To' font options. For each pairing, choose a headline and body font. Display each on an HTML page. Be prepared to share and defend your choices. 
 
-
+#
+#
 # Week 2 - Hands On
- ### 
+
 [Visual Design Basics](orientation-materials/orientation-4.md) 
 
 ### Practice
-* Challenge statement for cohort website
-* Persona for cohort website (individual practice with tool)
-* Review and compare other cohort websites or group displays
+* Competitive Analysist: Review and compare other cohort websites or group displays
 * Prototype tool: mockup cohort website (4 hours then user test)
 * User Testing 
   * With users, test early and often
@@ -108,9 +122,13 @@ All of the digital tools have great tutorials provided by the maker. Take time t
 
 * Create tickets for features, functionality, components of cohort website.
 
+#
+#
 # Week 3 - Cohort Website / 🦃 Thanksgiving
 Lab
 
+#
+#
 # Week 4
 
 * Monday: Cohort website lab, review Bootstrap grid
@@ -123,8 +141,11 @@ Lab
 
 ## Journal Revisit
   * Firebase accounts
+  * Package.json
   * Fetch calls, CRUD
 
+#
+#
 # Week 5
 ## [Information Architecture](https://docs.google.com/presentation/d/16MnmBuoXqJtr1h4GS73tFcWk31Ld7_IF9gVRvyinS8k/edit?usp=sharing)
 
@@ -159,8 +180,7 @@ Lab
 ## Practice
 Teams: Using the project [Bangazon](https://github.com/nashville-software-school/UI-UX-Bangazon-API), create a content inventory and site map. [BZ Prototype API](https://github.com/AdamSheaffer/bz-sprint-prototype)
 
-##
-
+#
 ## [Critique and Heuristics](orientation-materials/orientation-2.md)
 
 
@@ -171,26 +191,30 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 
 ## [Interviews/Research](orientation-materials/Research.md)
 * Develop a series of questions for the Bangazon Employee
-* Develop a questionnaire for users of personal/portfolio website.
 
 ## [Design Systems](DesignSys.pdf)
 
 ## Journal Re-Visit
 * Firebase sort and filter calls
+* `Promise.all`
 * Firebase authentication
 
 
 # Week 6
 * [Personal Websites: Portfolio](orientation-materials/orientation-portfolio.md)
-* Challenge Statements
+* Challenge Statement
 * Personas
 * Comparative Analysis, Research
 * Mockups, prototypes, and user testing
-* Case Studies emphasizing Insights
+* Case Studies emphasizing insights
 * [Host with Github pages](https://pages.github.com/) (or other)
 
-# HOLIDAY
+#
+#
+# HOLIDAY Season
 
+#
+#
 # Week 7
 * Portfolio Websites Lab
 * [Defend Your Presentation](orientation-materials/orientation-10.md)
@@ -201,7 +225,7 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 * Present Proposal
 
 # Week 8
-🚧 Finish Website and Personal Sites
+🚧 Final touches on Cohort Website and Personal Sites
 
 # Week 9
 * [Intro to Journey Mapping](orientation-materials/orientation-6.md)
