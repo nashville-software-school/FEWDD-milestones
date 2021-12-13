@@ -3,6 +3,7 @@
 * [Portfolio](https://docs.google.com/presentation/d/1E5-90uL5aZruKUPdXOlqSE_l05FLeq10-HVxRsHUaWg/edit?usp=sharing)
 * Your Github Projects should have a README
     * [About READMEs](https://help.github.com/articles/about-readmes/)
+    * [Kick Up Your Github: Profile Readme and More](https://docs.google.com/presentation/d/124u03j-d49Hh93gQZdh0I1Eq8ev8lQz6lXqODZytLJE/edit?usp=sharing)
     * [Readme Example](https://github.com/ryanoasis/nerd-fonts)
 
 
