@@ -192,7 +192,7 @@ Teams: Using the project [Bangazon](https://github.com/nashville-software-school
 ## [Interviews/Research](orientation-materials/Research.md)
 * Develop a series of questions for the Bangazon Employee
 
-## [Design Systems](orientation-materials/DesignSys.pdf)
+## [Design Systems](https://docs.google.com/presentation/d/1HQhFFxSrpdUhvEtw6d9KOORwwEsEoixpul6H7xnRdYo/edit?usp=sharing)
 
 ## Journal Re-Visit
 * Firebase sort and filter calls
